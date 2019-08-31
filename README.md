@@ -1,11 +1,12 @@
 What is CEDAC?
+
 Chinese English DAily Conversation is a subtitle corpus with speakerID and sceneID labels made by Center for Speech and Language Technologies of Tsinghua University.
-At present£¬we open source partial data and we will continuously update more.
+At presentï¼Œwe open source partial data and we will continuously update more.
 The paper with detail has been published on CCL-2019. 
 If it is helpful to your research, please indicate the citation of the paper.
 Welcome star the repository, thanks.
 
-ÕâÊÇÒ»¸öÖĞÓ¢Ë«Óï´øÓĞËµ»°ÕßIDºÍËµ»°³¡¾°IDµÄ¶Ô»°Êı¾İ¼¯£¬ÓĞ½ü°ÙÍòµÄ¶Ô»°¡£
-Ä¿Ç°ÏÈ¿ªÔ´²¿·ÖÊı¾İ£¬ÎÒÃÇ»á³ÖĞø¸üĞÂ£¬»¶Ó­¹Ø×¢ºÍ±êĞÇ¡£
-¸ÃÑĞ¾¿ÂÛÎÄ¡¶×Ô¶¯¹¹½¨»ùÓÚµçÊÓ¾ç×ÖÄ»ºÍ¾ç±¾µÄÈÕ³£»á»°»ù´¡±ê×¢¿â¡·ÒÑ¾­ÔÚCCL-2019»áÒéÉÏ·¢±í¡£
-¹ØÓÚÊı¾İ¼¯µÄÏêÏ¸ĞÅÏ¢¿ÉÒÔÔÄ¶ÁÂÛÎÄ¡£Èç¹û¶ÔÄúµÄÑĞ¾¿ÓĞ°ïÖú£¬Çë×¢Ã÷ÂÛÎÄÒıÓÃ¡£
+è¿™æ˜¯ä¸€ä¸ªä¸­è‹±åŒè¯­å¸¦æœ‰è¯´è¯è€…IDå’Œè¯´è¯åœºæ™¯IDçš„å¯¹è¯æ•°æ®é›†ï¼Œæœ‰è¿‘ç™¾ä¸‡çš„å¯¹è¯ã€‚
+ç›®å‰å…ˆå¼€æºéƒ¨åˆ†æ•°æ®ï¼Œæˆ‘ä»¬ä¼šæŒç»­æ›´æ–°ï¼Œæ¬¢è¿å…³æ³¨å’Œæ ‡æ˜Ÿã€‚
+è¯¥ç ”ç©¶è®ºæ–‡ã€Šè‡ªåŠ¨æ„å»ºåŸºäºç”µè§†å‰§å­—å¹•å’Œå‰§æœ¬çš„æ—¥å¸¸ä¼šè¯åŸºç¡€æ ‡æ³¨åº“ã€‹å·²ç»åœ¨CCL-2019ä¼šè®®ä¸Šå‘è¡¨ã€‚
+å…³äºæ•°æ®é›†çš„è¯¦ç»†ä¿¡æ¯å¯ä»¥é˜…è¯»è®ºæ–‡ã€‚å¦‚æœå¯¹æ‚¨çš„ç ”ç©¶æœ‰å¸®åŠ©ï¼Œè¯·æ³¨æ˜è®ºæ–‡å¼•ç”¨ã€‚

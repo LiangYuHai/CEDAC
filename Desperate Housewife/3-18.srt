@@ -1,0 +1,3800 @@
+1
+27
+<1-1,Mary Alice Voiceover>Previously on Desperate Housewives:</i>
+<1-1,Mary Alice Voiceover><i>《绝望的主妇》  前情提要
+
+2
+28
+<1-2,Mary Alice Voiceover>Mike's therapy hit a snag.</i>
+<1-2,Mary Alice Voiceover><i>麦克的治疗遇到了瓶颈
+
+3
+29
+<1-3,Mike>I keep telling you, I don't remember!
+<1-3,Mike>跟你说我不记得了啊
+
+4
+30
+<1-4,Therapist>Something happened at that movie?
+<1-4,Therapist>我觉得看电影时发生了什么
+
+5
+31
+<1-4,Therapist>Who'd you see it with?
+<1-4,Therapist>你和谁看的
+
+6
+32
+<1-5,Mike>Probably Susan...
+<1-5,Mike>可能是苏珊
+
+7
+33
+<1-6,Therapist>Why not ask her?
+<1-6,Therapist>干嘛不去问她呢
+
+8
+34
+<1-7,Susan>Mike, it wasn't a movie. That was us.
+<1-7,Susan>麦克  那不是电影  而是我们之间发生的事
+
+9
+35
+<1-8,Mike>What?
+<1-8,Mike>什么
+
+10
+36
+<1-9,Susan>The first night we spent together.
+<1-9,Susan>那是我们共度的第一晚
+
+11
+37
+<1-10,Susan>I saw you watching us.
+<1-10,Susan>我看到你在观察我们
+
+12
+38
+<1-10,Susan>We were just talking.
+<1-10,Susan>我们只是在聊天
+
+13
+39
+<1-11,Mary Alice Voiceover>Gabby saw another side of Victor.</i>
+<1-11,Mary Alice Voiceover><i>加布看到了维克多的另一面
+
+14
+40
+<1-12,Victor>I didn't marry an angry woman.
+<1-12,Victor>我不会和易怒的女人结婚
+
+15
+41
+<1-12,Victor>I divorced one.
+<1-12,Victor>我刚离了一个
+
+16
+42
+<1-12,Victor>I set her up in a nice house. I gave her an allowance.
+<1-12,Victor>我把她安置在豪宅里  给她零花钱
+
+17
+43
+<1-12,Victor>And then I came and went as I pleased.
+<1-12,Victor>我高兴来就来  高兴走则走
+
+18
+44
+<1-13,Gabrielle>I've known you two weeks,
+<1-13,Gabrielle>我们认识了两周
+
+19
+45
+<1-13,Gabrielle>This is the first glimpse of a guy I could actually like.
+<1-13,Gabrielle>这是我第一次发现  你还有可爱之处
+
+20
+46
+<1-14,Mary Alice Voiceover><i>Tom's back put him out of commission.</i>
+<1-14,Mary Alice Voiceover>汤姆的背伤让他无法工作
+
+21
+47
+<1-15,Doctor>It'll be a while before he's back on his feet.
+<1-15,Doctor>他还要一段时间才能下地走路
+
+22
+48
+<1-16,Lynette>- How much of a while?
+<1-16,Lynette>-多久 
+
+23
+48
+<1-17,Doctor> Three months.
+<1-17,Doctor>三个月
+
+24
+49
+<1-18,Mary Alice Voiceover>And Edie bared more than her soul for Carlos.</i>
+<1-18,Mary Alice Voiceover><i>伊迪以赤身向卡洛斯袒露了一切
+
+25
+50
+<1-19,Edie>I'm here, and I'm asking for a chance.
+<1-19,Edie>我就在这里  我要一个重生的机会
+
+26
+51
+<2-1,Mary Alice Voiceover>Edie Britt had always thought of herself as passionate.</i>
+<2-1,Mary Alice Voiceover><i>伊迪·布利特一直认为自己是个热情的人
+
+27
+52
+<0-0,None>Aggressively,</i>
+<0-0,None><i>具进攻性的
+
+28
+53
+<0-0,None>relentlessly,</i>
+<0-0,None><i>从不倦怠的
+
+29
+54
+<0-0,None>violently passionate.</i>
+<0-0,None><i>暴力性的那种热情
+
+30
+55
+<2-1,Mary Alice Voiceover>Carlos Solis had always thought of himself as passionate.</i>
+<2-1,Mary Alice Voiceover><i>卡洛斯·索利斯也一直认为自己很热情
+
+31
+56
+<0-0,None>Romantically,</i>
+<0-0,None><i>浪漫的
+
+32
+57
+<0-0,None>spontaneously,</i>
+<0-0,None><i>主动的
+
+33
+58
+<0-0,None>constantly passionate.</i>
+<0-0,None><i>持续不断的那种热情
+
+34
+59
+<2-1,Mary Alice Voiceover>So it was natural for Edie and Carlos to assume that</i>
+<2-1,Mary Alice Voiceover><i>因此伊迪和卡洛斯自然认为
+
+35
+60
+<2-1,Mary Alice Voiceover>if they ever had sex, it would be amazing.</i>
+<2-1,Mary Alice Voiceover><i>他们的性爱  一定会惊人地美妙
+
+36
+61
+<2-1,Mary Alice Voiceover>And in fact, it was...</i>
+<2-1,Mary Alice Voiceover><i>然而事实上...
+
+37
+62
+<2-1,Mary Alice Voiceover>Amazingly bad.</i>
+<2-1,Mary Alice Voiceover><i>却惊人地糟糕
+
+38
+63
+<2-2,Carlos>- Morning.
+<2-2,Carlos>-早 
+
+39
+63
+<2-2,Carlos> Morning.
+<2-2,Carlos>早
+
+40
+64
+<1-9,Susan>So... last night...
+<1-9,Susan>那个...  昨晚...
+
+41
+65
+<2-4,Carlos>Yeah, I know. Wow
+<2-4,Carlos>是的  我知道  哇塞
+
+42
+66
+<2-4,Carlos>Super wow.
+<2-4,Carlos>超级哇塞
+
+43
+67
+<2-5,Edie>Is that clock right?
+<2-5,Edie>这钟是准的吗
+
+44
+68
+<2-6,Carlos>Oh, man, I gotta get to work.
+<2-6,Carlos>天啊  我得去上班了
+
+45
+69
+<2-7,Edie>Yeah. I gotta get home.
+<2-7,Edie>是啊  我也要回家了
+
+46
+70
+<2-8,Carlos>So, uh...So we should do this again.
+<2-8,Carlos>我们应该再来一次吗
+
+47
+71
+<2-9,Edie>Oh, definitely. This week doesn't seem to be that great.
+<2-9,Edie>当然  但这周有点不合适
+
+48
+72
+<2-9,Edie>- Maybe...
+<2-9,Edie>-要不... 
+
+49
+72
+<2-10,Carlos> Next week I'm swamped.
+<2-10,Carlos>下周我没空
+
+50
+73
+<2-11,Edie>Oh. Well, we'll figure something out.
+<2-11,Edie>那再说吧
+
+51
+74
+<2-12,Mary Alice Voiceover>It was at that moment Edie and Carlos</i>
+<2-12,Mary Alice Voiceover><i>此时的伊迪和卡洛斯
+
+52
+75
+<2-12,Mary Alice Voiceover>had the exact same thought...</i>
+<2-12,Mary Alice Voiceover><i>有着一模一样的想法
+
+53
+76
+<2-13,Carlos>Thank you.
+<2-13,Carlos>谢谢你
+
+54
+77
+<2-13,Carlos>No. Thank you.
+<2-13,Carlos>不  谢谢你
+
+55
+78
+<2-14,Mary Alice Voiceover>They would definitely be having sex again...</i>
+<2-14,Mary Alice Voiceover><i>他们一定会再次做爱的
+
+56
+79
+<4-14,Lynette>Just not...</i>
+<4-14,Lynette><i>只不过
+
+57
+80
+<2-14,Mary Alice Voiceover>...with each other.</i>
+<2-14,Mary Alice Voiceover><i>不是跟对方
+
+58
+81
+<2-15,Mary Alice Voiceover>It's so easy to spot the lonely ones.</i>
+<2-15,Mary Alice Voiceover><i>想找到孤独的人  是很容易的
+
+59
+82
+<2-16,Ida>It wasn't the first time...
+<2-16,Ida>这不是第一次了
+
+60
+83
+<2-17,Mary Alice Voiceover>They're the people who tell stories to their plants...</i>
+<2-17,Mary Alice Voiceover><i>比如那些跟植物讲话的人
+
+61
+84
+<2-18,Kayla>I kinda like him.
+<2-18,Kayla>我有点喜欢他
+
+62
+85
+<2-19,Mary Alice Voiceover>... and whisper secrets to their pets.</i>
+<2-19,Mary Alice Voiceover><i>向宠物诉说心事的人
+
+63
+86
+<2-22,Man>Come on! Get him of basketball!
+<2-22,Man>不是吧  
+
+64
+87
+<2-21,Mary Alice Voiceover>And have arguments with their TV.</i>
+<2-21,Mary Alice Voiceover><i>还有对电视大吼的人
+
+65
+88
+<2-22,Man>He's running like his feet are made out of lead!
+<2-22,Man>他跑步慢得像脚里灌了铅
+
+66
+89
+<2-23,Mary Alice Voiceover>And the loneliest of all,</i>
+<2-23,Mary Alice Voiceover><i>而最孤独的人
+
+67
+90
+<2-23,Mary Alice Voiceover>are the ones who talk to people.</i>
+<2-23,Mary Alice Voiceover><i>是对着他人讲话
+
+68
+91
+<3-1,Mrs. McCluskey>You know what I think over?
+<3-1,Mrs. McCluskey>你知道我怎么想吗
+
+69
+92
+<3-2,Mary Alice Voiceover>People who are no longer there.</i>
+<3-2,Mary Alice Voiceover><i>而听话的人已经不在了
+
+70
+93
+<3-3,Mrs. McCluskey>Phone's gonna ring any second.
+<3-3,Mrs. McCluskey>电话随时会响
+
+71
+94
+<3-3,Mrs. McCluskey>And it's gonna be Lynette begging me to come over early.
+<3-3,Mrs. McCluskey>然后勒奈特会求我早点过去
+
+72
+95
+<3-3,Mrs. McCluskey>Did I tell you that Tom had surgery
+<3-3,Mrs. McCluskey>我跟你说了汤姆上周
+
+73
+96
+<3-3,Mrs. McCluskey>on his back last week?
+<3-3,Mrs. McCluskey>做了背部手术了吗
+
+74
+97
+<3-3,Mrs. McCluskey>Yep, that idiot's flat on his ass
+<3-3,Mrs. McCluskey>没错  勒奈特把培根拿回家的功夫
+
+75
+98
+<3-3,Mrs. McCluskey>while Lynette brings home the bacon. Again.
+<3-3,Mrs. McCluskey>那个白痴就摔了个大屁墩  第二次了
+
+76
+99
+<3-3,Mrs. McCluskey>I shouldn't judge.
+<3-3,Mrs. McCluskey>我不应该议论别人
+
+77
+100
+<3-3,Mrs. McCluskey>Plenty of people didn't get what I saw in you.
+<3-3,Mrs. McCluskey>很多人不明白我为什么爱你
+
+78
+101
+<3-3,Mrs. McCluskey>I won't name names...my sister Gayle.
+<3-3,Mrs. McCluskey>我不会点名批评的...我妹妹盖尔
+
+79
+102
+<3-3,Mrs. McCluskey>But I always told her that
+<3-3,Mrs. McCluskey>但我总对她说
+
+80
+103
+<3-3,Mrs. McCluskey>beneath all the name-calling and the dish-throwing,
+<3-3,Mrs. McCluskey>在辱骂和摔盘子的表象之下
+
+81
+104
+<3-3,Mrs. McCluskey>we really loved each other.
+<3-3,Mrs. McCluskey>隐藏着咱俩真切的爱
+
+82
+105
+<3-4,Mrs. McCluskey>Bet you 50 bucks it's Lynette.
+<3-4,Mrs. McCluskey>我跟你赌50美元  是勒奈特打来
+
+83
+106
+<3-4,Mrs. McCluskey>Hello?
+<3-4,Mrs. McCluskey>喂
+
+84
+107
+<3-5,Mrs. McCluskey>You lose, Gilbert. What's up?
+<3-5,Mrs. McCluskey>你输了  盖尔伯特  什么事
+
+85
+108
+<4-1,Lynette>I have to get to the restaurant early.
+<4-1,Lynette>我得早点去餐馆
+
+86
+109
+<4-1,Lynette>Is there any way you can come over and
+<4-1,Lynette>你能不能过来
+
+87
+110
+<4-1,Lynette>get the kids off to school?
+<4-1,Lynette>带孩子们去上学
+
+88
+111
+<4-14,Lynette>Why am I seeing pajamas? Get dressed.
+<4-14,Lynette>怎么还穿着睡衣呢  去换衣服
+
+89
+112
+<3-1,Mrs. McCluskey>Yeah, they are ready to go. So what do you say?
+<3-1,Mrs. McCluskey>是的  他们都准备好了  怎么样
+
+90
+113
+<5-2,Edie>Oh, great. Thanks. I owe you big time.
+<5-2,Edie>太好了  谢谢  我欠你个大人情
+
+91
+114
+<0-0,None>OK, bye.
+<0-0,None>好的  再见
+
+92
+115
+<4-2,Lynette>All right. I'm heading out of here. Wish me luck.
+<4-2,Lynette>好了  我要出门了  祝我好运
+
+93
+116
+<4-3,Tom>More interviews this morning?
+<4-3,Tom>今早又有面试吗
+
+94
+117
+<4-4,Lynette>Yeah, but don't worry,
+<4-4,Lynette>是的  不过别担心
+
+95
+118
+<4-4,Lynette>I'm gonna find the assistant manager of your dreams.
+<4-4,Lynette>我会为你找个理想的助理经理的
+
+96
+119
+<4-5,Tom>You sure? Because the last ten resume you showed me...
+<4-5,Tom>你确定吗  之前你给我看的十份简历都...
+
+97
+120
+<4-6,Lynette>Yeah, I know, I know.
+<4-6,Lynette>我知道  我知道
+
+98
+121
+<4-6,Lynette>Bottom of the barrel, convicts and losers.
+<4-6,Lynette>都是社会底层的废物  罪犯之类的
+
+99
+122
+<4-6,Lynette>You're clear about that last night.
+<4-6,Lynette>昨晚你说得很清楚了
+
+100
+123
+<4-7,Tom>It make sure they really know how to wrangle the employees.
+<4-7,Tom>要弄清楚他们会如何批评员工
+
+101
+124
+<4-7,Tom>Like Kim, she never buses her tables.
+<4-7,Tom>比如金姆  她从来不收拾自己的桌子
+
+102
+125
+<4-8,Lynette>- I'm the one who told you that.
+<4-8,Lynette>-这还是我告诉你的 
+
+103
+125
+<4-10,Lynette> Oh, you're right.
+<4-10,Lynette>也是
+
+104
+126
+<4-9,Tom>Hey, honey, I had an idea about the specials for today...
+<4-9,Tom>宝贝  我对今天的特价菜有个新想法
+
+105
+127
+<4-9,Tom>I was thinking Goat cheese and mushrooms.
+<4-9,Tom>山羊乳干酪配蘑菇怎么样
+
+106
+128
+<4-10,Lynette>Oh, for God's sake, Tom!
+<4-10,Lynette>不是吧  汤姆
+
+107
+129
+<4-10,Lynette>I'm gonna be late for the interviews. I should go.
+<4-10,Lynette>我面试要迟到了  我得走了
+
+108
+130
+<4-11,Tom>Honey, I'm sorry, I'm sorry. I know I am driving you crazy.
+<4-11,Tom>宝贝  对不起  我知道我很烦
+
+109
+131
+<4-13,Tom>It's just that I'm feeling guilty laying here,
+<4-13,Tom>我只是觉得躺在这里很愧疚
+
+110
+132
+<4-13,Tom>totally worthless,
+<4-13,Tom>什么都干不了
+
+111
+133
+<4-13,Tom>while you run the restaurant and the house.
+<4-13,Tom>而你在家里和餐厅忙前忙后
+
+112
+134
+<4-14,Lynette>It's OK. I am gonna find a way to make this all work.
+<4-14,Lynette>没事的  我会解决所有的问题
+
+113
+135
+<4-14,Lynette>And you just get better.
+<4-14,Lynette>你就好好养伤吧
+
+114
+136
+<4-15,Lynette>Oh, Mrs. McCluskey, perfect timing.
+<4-15,Lynette>麦克卢斯基太太来了  时间正好
+
+115
+137
+<4-16,Tom>Make sure you have your cell phone with you.
+<4-16,Tom>记得带手机
+
+116
+138
+<4-16,Tom>Then while you're interviewing,
+<4-16,Tom>这样你面试的时候
+
+117
+139
+<4-16,Tom>I'll call, you can conference me in.
+<4-16,Tom>我就可以给你打电话  参与面试了
+
+118
+140
+<4-17,Lynette>That is a great idea.
+<4-17,Lynette>真是好主意
+
+119
+141
+<4-20,Lynette>Hi. Tom's gonna ask you to look for this.
+<4-20,Lynette>早  一会儿汤姆会让你找这个
+
+120
+142
+<4-20,Lynette>You will not find it.
+<4-20,Lynette>记得别找到
+
+121
+143
+<4-22,Lynette>Love you.
+<4-22,Lynette>爱你哦
+
+122
+144
+<5-1,Travers>Here's your beer.
+<5-1,Travers>你的啤酒
+
+123
+145
+<5-2,Edie>Oh, good job, chipmunk. No foam this time.
+<5-2,Edie>真棒  小家伙  这次没有泡沫了
+
+124
+146
+<5-3,Travers>I tipped the glass just like you told me to.
+<5-3,Travers>我听你的  把杯子倾斜了点
+
+125
+147
+<5-4,Edie>I think someone's ready to salt his first margarita glass.
+<5-4,Edie>我觉得某人可以去学调玛格丽塔酒了
+
+126
+148
+<5-5,Travers>Mommy, do you have trouble going to sleep?
+<5-5,Travers>妈妈  你失眠吗
+
+127
+149
+<4-12,Lynette>No.
+<4-12,Lynette>不
+
+128
+150
+<5-6,Edie>Why do you ask?
+<5-6,Edie>干嘛问这个
+
+129
+151
+<5-7,Travers>I heard Carlos say you were bad in bed.
+<5-7,Travers>因为我听到卡洛斯说  你床上表现很差
+
+130
+152
+<5-8,Edie>What?
+<5-8,Edie>什么
+
+131
+153
+<5-8,Edie>Why'd he say that? Do you have nightmares?
+<5-8,Edie>他为什么这么说  你做噩梦吗
+
+132
+154
+<5-10,Edie>OK, sweetie, I need you to focus.
+<5-10,Edie>好了  亲爱的  现在集中注意力
+
+133
+155
+<5-10,Edie>What exactly did Carlos say, and who did he say it to?
+<5-10,Edie>告诉我卡洛斯原话怎么说的  还跟谁说了
+
+134
+156
+<5-11,Travers>I went to get my soccer ball from his yard.
+<5-11,Travers>我去他院子里拿我的足球
+
+135
+157
+<5-11,Travers>He was on the phone talking to someone.
+<5-11,Travers>他正在跟别人打电话
+
+136
+158
+<5-11,Travers>So what does "bad in bed" mean?
+<5-11,Travers>"床上表现很差"是什么意思
+
+137
+159
+<5-12,Edie>Oh, it means you're not good at making...
+<5-12,Edie>意思是  你不擅长...
+
+138
+160
+<5-12,Edie>...your bed.
+<5-12,Edie>铺床
+
+139
+161
+<5-12,Edie>Mommy doesn't like people saying she can't make a bed.
+<5-12,Edie>妈妈讨厌别人说她不会铺床
+
+140
+162
+<6-7,Mike>Because, trust me,
+<6-7,Mike>因为  相信我
+
+141
+163
+<5-12,Edie>nobody makes a bed as good as your mommy.
+<5-12,Edie>没有人比你妈咪更会铺床了
+
+142
+164
+<5-13,Travers>If you want, I can tell people you're good in bed.
+<5-13,Travers>有需要的话  我去告诉大家  你很擅长铺床
+
+143
+165
+<5-14,Edie>No, no, no. That's fine, sweetie.
+<5-14,Edie>不用不用  没关系  亲爱的
+
+144
+166
+<5-14,Edie>If you want to help Mommy, just um...
+<5-14,Edie>如果你想帮妈咪  就...
+
+145
+167
+<5-14,Edie>...top off her breakfast.
+<5-14,Edie>再给她加点早餐吧
+
+146
+168
+<6-1,Ian>Susan, I'm by the orange stand, where are you?
+<6-1,Ian>苏珊  我在橘子摊前面  你在哪
+
+147
+169
+<6-1,Ian>Cheese stand?
+<6-1,Ian>芝士摊
+
+148
+170
+<6-1,Ian>No, I don't mind you going back for free samples,
+<6-1,Ian>不  我不介意你又回去免费试吃
+
+149
+171
+<6-1,Ian>but if you like it why not just buy some?
+<6-1,Ian>只是如果你喜欢  何不买点呢
+
+150
+172
+<6-1,Ian>Yes, of course, you're right.
+<6-1,Ian>当然  你说得对
+
+151
+173
+<6-1,Ian>It always tastes better when it's free.
+<6-1,Ian>免费的总是更好吃
+
+152
+174
+<6-1,Ian>I get it, please hurry.
+<6-1,Ian>我明白  请快点
+
+153
+175
+<6-2,Ian>Oh. Hello.
+<6-2,Ian>你好
+
+154
+176
+<6-3,Mike>Hey.
+<6-3,Mike>你好
+
+155
+177
+<6-4,Ian>Boy, you're everywhere these days.
+<6-4,Ian>兄弟  最近你还真是阴魂不散
+
+156
+178
+<6-5,Mike>Excuse me?
+<6-5,Mike>你说什么
+
+157
+179
+<6-6,Ian>Yesterday, Susan and I ran into you at the post office.
+<6-6,Ian>昨天我和苏珊在邮局碰到你
+
+158
+180
+<6-6,Ian>Last week, the movies.
+<6-6,Ian>上周  是在电影院
+
+159
+181
+<6-6,Ian>One might think you're following us.
+<6-6,Ian>人家会以为你在跟踪我们呢
+
+160
+182
+<6-7,Mike>Trust me, "one" has better things to do
+<6-7,Mike>相信我  "人家"可没那么有空
+
+161
+183
+<6-7,Mike>than follow you around.
+<6-7,Mike>要来跟踪你们
+
+162
+184
+<6-8,Ian>And yet here you are... again.
+<6-8,Ian>可还是又碰到你了
+
+163
+185
+<6-9,Mike>Ian, Fairview is a small town.
+<6-9,Mike>伊恩  美景镇是个小城镇
+
+164
+186
+<6-9,Mike>You want distance? Move to the city.
+<6-9,Mike>你想远离我吗  搬去城里吧
+
+165
+187
+<7-1,Susan>You've been awfully quiet since we left the market.
+<7-1,Susan>从我们离开集市起  你就没怎么说话了
+
+166
+188
+<7-1,Susan>Is everything OK?
+<7-1,Susan>没事吧
+
+167
+189
+<7-2,Ian>Um, well, since you asked,
+<7-2,Ian>既然你问了
+
+168
+190
+<7-2,Ian>I'm having some problems at work.
+<7-2,Ian>我的工作出了点问题
+
+169
+191
+<7-3,Susan>Really?
+<7-3,Susan>真的吗
+
+170
+192
+<7-4,Ian>Yes, we're in the midst of some corporate restructuring.
+<7-4,Ian>是啊  我们正在进行公司重组
+
+171
+193
+<7-4,Ian>I'm going to have to spend more time in London.
+<7-4,Ian>我需要经常呆在伦敦
+
+172
+194
+<0-0,None>OK.
+<0-0,None>好吧
+
+173
+195
+<7-6,Ian>And, I was thinking,
+<7-6,Ian>我在想
+
+174
+196
+<7-6,Ian>maybe you and I should just...relocate.
+<7-6,Ian>也许我们可以换个地方住
+
+175
+197
+<7-7,Susan>- To London? Permanently?
+<7-7,Susan>-去伦敦  定居吗 
+
+176
+197
+<7-8,Ian> I know it's sudden...
+<7-8,Ian>我知道这很突然
+
+177
+198
+<7-9,Susan>Yeah, it's sudden!
+<7-9,Susan>是很突然
+
+178
+199
+<7-9,Susan>My whole life is here, my friends...
+<7-9,Susan>我的生活圈在这里  我的朋友们...
+
+179
+200
+<7-9,Susan>Julie is still in school.
+<7-9,Susan>朱莉还在上学
+
+180
+201
+<7-10,Ian>Susan!
+<7-10,Ian>苏珊
+
+181
+202
+<8-1,Susan>Oh, my God! Are you OK?
+<8-1,Susan>我的天哪  你还好吗
+
+182
+203
+<8-2,Ian>I'm fine. I'm fine.
+<8-2,Ian>还好  还好
+
+183
+204
+<8-3,Susan>OK. I can feel the car sinking.
+<8-3,Susan>好  我能感觉到这车在下沉
+
+184
+205
+<8-3,Susan>We're gonna have to get to shore.
+<8-3,Susan>我们得上岸去
+
+185
+206
+<0-0,None>Ian?
+<0-0,None>伊恩
+
+186
+207
+<8-4,Ian>How deep do you think this water is?
+<8-4,Ian>你觉得这水有多深
+
+187
+208
+<8-5,Susan>- Deep enough. Come on, let's move!
+<8-5,Susan>-挺深的  快点  走吧 
+
+188
+208
+<7-10,Ian> Susan...
+<7-10,Ian>苏珊
+
+189
+209
+<8-6,Ian>I can't swim.
+<8-6,Ian>我不会游泳
+
+190
+210
+<8-7,Susan>What? You...You said you played water polo.
+<8-7,Susan>什么  你不是打过水球嘛
+
+191
+211
+<8-8,Ian>I said polo! With horses!
+<8-8,Ian>我说的是马球  骑马的那种
+
+192
+212
+<8-9,Susan>How can you not know how to swim?
+<8-9,Susan>你怎么可能不会游泳
+
+193
+213
+<8-9,Susan>Didn't you go to summer camp?
+<8-9,Susan>你没去过夏令营吗
+
+194
+214
+<8-10,Ian>I stayed in the canoe! Let it go!
+<8-10,Ian>我当时待在独木舟里  别问了
+
+195
+215
+<8-11,Susan>OK, don't panic.
+<8-11,Susan>好吧  别慌
+
+196
+216
+<8-11,Susan>Just grab onto my neck and I'll swim for both of us.
+<8-11,Susan>搂住我脖子  我来带你游过去
+
+197
+217
+<8-12,Ian>I'm twice your size! We might drown!
+<8-12,Ian>我身材是你的两倍  我们会溺水的
+
+198
+218
+<8-12,Ian>Let's just stay here and think of something else.
+<8-12,Ian>咱们就这样待着  想想别的办法吧
+
+199
+219
+<8-13,Susan>If you stay here, you'll definitely drown!
+<8-13,Susan>这样待着  你肯定会溺水
+
+200
+220
+<8-13,Susan>Do you see how my plan is better?
+<8-13,Susan>你没看出来我的计划更好吗
+
+201
+221
+<8-14,Susan>Look, there's somebody on the shore!
+<8-14,Susan>看  岸上有人
+
+202
+222
+<8-14,Susan>- It's Mike! He's here!
+<8-14,Susan>-是麦克  他来了 
+
+203
+222
+<8-15,Ian> Of course he is.
+<8-15,Ian>当然了
+
+204
+223
+<8-14,Susan>Mike!
+<8-14,Susan>麦克
+
+205
+224
+<8-16,Ian>OK, OK, OK! I can walk from here!
+<8-16,Ian>好了  好了  这里我能自己走了
+
+206
+225
+<8-17,Mike>Sorry. You were just gripping me so tight.
+<8-17,Mike>抱歉  你抱得我太紧了
+
+207
+226
+<8-18,Susan>Oh, my God. Mike, you saved our lives.
+<8-18,Susan>天哪  麦克  你救了我们的命
+
+208
+227
+<8-19,Susan>And our cheese!
+<8-19,Susan>和我们的芝士
+
+209
+228
+<8-19,Susan>Ian, can you believe it?
+<8-19,Susan>伊恩  多难以置信
+
+210
+229
+<8-19,Susan>Mike saved our cheese!
+<8-19,Susan>麦克还救了咱们的奶酪
+
+211
+230
+<8-20,Ian>Yes. He's quite the hero.
+<8-20,Ian>是啊  真是个大英雄
+
+212
+231
+<8-21,Mike>Yeah. Good thing I was following you.
+<8-21,Mike>是啊  幸好我跟着你们
+
+213
+232
+<9-1,Lynette>Arnie, thanks for coming in.
+<9-1,Lynette>阿尼  谢谢你来参加面试
+
+214
+233
+<9-1,Lynette>We will definitely keep you in mind.
+<9-1,Lynette>我们会好好考虑你的
+
+215
+234
+<0-0,None>OK.
+<0-0,None>好了
+
+216
+235
+<9-2,Andrew>Come on! What was wrong with that guy?
+<9-2,Andrew>不是吧  刚才那人怎么不好了
+
+217
+236
+<9-3,Lynette>He kept asking what we do with the food people don't eat.
+<9-3,Lynette>他不停地问我  如何处理顾客吃剩的食物
+
+218
+237
+<9-4,Andrew>All right, so he's a fat loser.
+<9-4,Andrew>好吧  他是个死胖子
+
+219
+238
+<9-4,Andrew>Who'd you expect to get for $8.50 an hour?
+<9-4,Andrew>但一小时八块五你还想雇个什么样的人
+
+220
+239
+<9-5,Lynette>That's what we pay you, and you seem happy enough.
+<9-5,Lynette>你就拿这薪水  但看起来挺满意的
+
+221
+240
+<9-6,Andrew>Well, that's because I'm doing the beer delivery guy.
+<9-6,Andrew>那是因为我跟送啤酒的有一腿
+
+222
+241
+<9-7,Lynette>OK. My fault for asking.
+<9-7,Lynette>行了  当我没问过
+
+223
+242
+<9-8,Lynette>Rick Coletti?
+<9-8,Lynette>里克·科莱蒂
+
+224
+243
+<9-9,Rick>- That's me.
+<9-9,Rick>-我就是 
+
+225
+243
+<9-10,Lynette> Oh, great, come on over.
+<9-10,Lynette>很好  过来
+
+226
+244
+<9-10,Lynette>Your application?
+<9-10,Lynette>你的申请表呢
+
+227
+245
+<9-11,Rick>One second.
+<9-11,Rick>请稍等
+
+228
+247
+<9-12,Rick>That's been bothering me. Sorry.
+<9-12,Rick>困扰了我半天  抱歉
+
+229
+248
+<9-13,Lynette>No, it's great, you can spell.
+<9-13,Lynette>没事  挺好  你会拼写
+
+230
+249
+<9-13,Lynette>You are now officially the front-runner.
+<9-13,Lynette>已经领先于别人了
+
+231
+250
+<9-14,Rick>Yeah, my grandma came over from Naples.
+<9-14,Rick>我奶奶从那不勒斯过来
+
+232
+251
+<9-14,Rick>Been making calzones since before you were born.
+<9-14,Rick>你没出生时  她就开始做馅饼了
+
+233
+252
+<9-15,Lynette>How old do you think I am?
+<9-15,Lynette>你觉得我有多大
+
+234
+253
+<9-16,Rick>Thirty? Thirty-one?
+<9-16,Rick>30岁  31岁
+
+235
+254
+<9-17,Lynette>Not afraid to shamelessly ass-kiss. You're doing very well.
+<9-17,Lynette>可以毫无愧色地拍马屁  不错
+
+236
+255
+<9-18,Rick>Great. Wanna skip to the part where you hire me?
+<9-18,Rick>真好  直接跳到录取我的部分怎么样
+
+237
+256
+<9-19,Lynette>Well, I should probably take a look at your application first.
+<9-19,Lynette>我还是得先看看你的申请表
+
+238
+257
+<0-0,None>OK.
+<0-0,None>好的
+
+239
+258
+<9-19,Lynette>Don't be afraid if you don't have experience.
+<9-19,Lynette>没有经验也不要紧
+
+240
+259
+<9-19,Lynette>I realize for what we're paying,
+<9-19,Lynette>我知道我们工资不高
+
+241
+260
+<9-19,Lynette>we're not exactly gonna get a...
+<9-19,Lynette>我们也没奢望过雇一个...
+
+242
+261
+<9-19,Lynette>You were the sous-chef at Cucina?
+<9-19,Lynette>你曾经在库奇纳餐厅当副厨师长
+
+243
+262
+<0-0,None>- Yeah.
+<0-0,None>-是的 
+
+244
+262
+<9-9,Rick> That's a five-star-restaurant.
+<9-9,Rick>那可是个五星级餐馆
+
+245
+263
+<9-20,Rick>- Actually, four.
+<9-20,Rick>-四星级 
+
+246
+263
+<9-21,Lynette> Which is four more than we have.
+<9-21,Lynette>那也比我们多四星呢
+
+247
+264
+<9-22,Rick>Yeah, but this place has character and charm,
+<9-22,Rick>是啊  可是这地方有特色  有魅力
+
+248
+265
+<9-22,Rick>and a beautiful owner.
+<9-22,Rick>还有一个漂亮的老板娘
+
+249
+266
+<9-23,Lynette>Yeah, but seriously, why would a
+<9-23,Lynette>但是说实话  为什么一个
+
+250
+267
+<9-23,Lynette>four-star chef wanna slum at a pizza joint?
+<9-23,Lynette>四星级酒店的厨师要屈尊来一个小披萨店
+
+251
+268
+<10-1,Tom>Mrs. McCluskey!
+<10-1,Tom>麦克卢斯基太太
+
+252
+269
+<10-2,Mrs. McCluskey>I'm right here. Keep your shirt on.
+<10-2,Mrs. McCluskey>我在呢  别脱衣服啊
+
+253
+270
+<10-3,Tom>I need another pill.
+<10-3,Tom>我得再吃一片药
+
+254
+271
+<10-3,Tom>And please tell the kids to turn down the TV.
+<10-3,Tom>另外请让孩子们把电视调小点声
+
+255
+272
+<10-4,Mrs. McCluskey>I yell, they turn it down. I walk away, they turn it up.
+<10-4,Mrs. McCluskey>我一凶他们就调小  我走开他们又调大
+
+256
+273
+<10-4,Mrs. McCluskey>Vicious circle.
+<10-4,Mrs. McCluskey>恶性循环
+
+257
+274
+<10-5,Tom>Surely you can control five little kids.
+<10-5,Tom>你一定能管好五个小孩子
+
+258
+275
+<10-6,Mrs. McCluskey>- Can I beat 'em?
+<10-6,Mrs. McCluskey>-我能打他们吗 
+
+259
+275
+<10-7,Tom> No.
+<10-7,Tom>不能
+
+260
+276
+<10-8,Mrs. McCluskey>Then my hands are tied.
+<10-8,Mrs. McCluskey>那我就束手无策了
+
+261
+277
+<10-9,Lynette>Hi, I'm home. And I've got good news.
+<10-9,Lynette>我回来啦  还带来一个喜讯
+
+262
+278
+<10-9,Lynette>I found a new manager.
+<10-9,Lynette>我找到新经理了
+
+263
+279
+<10-10,Tom>- That's terrific.
+<10-10,Tom>-太好了 
+
+264
+279
+<0-0,None> Yeah.
+<0-0,None>是啊
+
+265
+280
+<10-11,Lynette>His name is Rick Coletti
+<10-11,Lynette>他名叫里克·科莱蒂  
+
+266
+281
+<10-11,Lynette>and he was a sous-chef at Cucina.
+<10-11,Lynette>以前在库奇纳当副厨师长
+
+267
+282
+<10-12,Tom>Cucina? Why does he want to work at our place?
+<10-12,Tom>库奇纳  那他怎会想在咱们这儿工作
+
+268
+283
+<10-13,Lynette>Yeah, I had that exact same thought.
+<10-13,Lynette>我也这么想来着
+
+269
+284
+<10-13,Lynette>And to be honest, he has a history.
+<10-13,Lynette>说实话  他有段不好的历史
+
+270
+285
+<10-14,Tom>History?
+<10-14,Tom>历史
+
+271
+286
+<10-15,Lynette>You know how stressful it is at a four-star-restaurant.
+<10-15,Lynette>你知道在四星级餐馆工作压力有多大吧
+
+272
+287
+<10-15,Lynette>He, like many chefs, started using cocaine to...
+<10-15,Lynette>就跟很多厨师一样  他用可卡因来...
+
+273
+288
+<10-16,Tom>- Oh, no, no. No way.
+<10-16,Tom>-不行不行 
+
+274
+288
+<10-17,Lynette> He's been clean for almost a year.
+<10-17,Lynette>他已经多年不吸了
+
+275
+289
+<10-18,Tom>We're not the Betty Ford clinic.
+<10-18,Tom>我们又不是开戒毒所的
+
+276
+290
+<10-19,Lynette>No, I know. But I've got a good feeling about this guy.
+<10-19,Lynette>我知道  可我对这个人印象很好
+
+277
+291
+<10-19,Lynette>All he wants is a fresh start.
+<10-19,Lynette>他只是想洗心革面  从头开始
+
+278
+292
+<10-20,Tom>I am not gonna hire a junkie who's gonna turn around
+<10-20,Tom>我绝不会雇一个浪子回头的瘾君子
+
+279
+293
+<10-20,Tom>and then hock our jukebox just to feed his habit.
+<10-20,Tom>让他掏咱点唱机里面的钱  买药嗑
+
+280
+294
+<10-20,Tom>- No, find somebody else.
+<10-20,Tom>-再去找一个 
+
+281
+294
+<10-21,Lynette> I can't find somebody else.
+<10-21,Lynette>找不到别人了
+
+282
+295
+<10-21,Lynette>I've interviewed 50 guys,
+<10-21,Lynette>我面试了50个人
+
+283
+296
+<10-21,Lynette>and this "junkie" happens to be the best.
+<10-21,Lynette>这个"瘾君子"恰巧是最好的
+
+284
+297
+<10-21,Lynette>Seriously, I don't know how much longer I can...
+<10-21,Lynette>说实话  我不知道我还能坚持多久...
+
+285
+298
+<10-22,Tom>Lynette, please, can we just talk about this later?
+<10-22,Tom>勒奈特  拜托  我们能一会儿再说吗  
+
+286
+299
+<10-22,Tom>I'm in a lot of pain.
+<10-22,Tom>我现在很疼
+
+287
+300
+<10-23,Lynette>I'm sorry.
+<10-23,Lynette>对不起
+
+288
+301
+<10-24,Tom>Please just do what I am asking.
+<10-24,Tom>就照我说的做吧
+
+289
+302
+<10-25,Lynette>Fine. I'II, uh, keep looking.
+<10-25,Lynette>好吧  我会继续找的
+
+290
+303
+<0-0,None>Jerk.
+<0-0,None>混蛋
+
+291
+304
+<11-1,Gabrielle>I had a good time tonight. Who knew you could dance?
+<11-1,Gabrielle>今晚我很开心  你竟然还会跳舞
+
+292
+305
+<11-2,Victor>It's one of my hidden talents.
+<11-2,Victor>这是我的隐藏技能之一
+
+293
+306
+<11-2,Victor>Invite me in. I'll show you another.
+<11-2,Victor>邀请我进去  我给你看另一个
+
+294
+307
+<11-3,Gabrielle>Not tonight, thanks.
+<11-3,Gabrielle>今晚不行  谢了
+
+295
+308
+<11-4,Victor>You'd tango with a man, and not have sex with him?
+<11-4,Victor>你跟一个男人跳探戈  却不跟他上床
+
+296
+309
+<11-4,Victor>That's actually against the law in Argentina.
+<11-4,Victor>在阿根廷这还是犯法的呢
+
+297
+310
+<11-4,Victor>Come on, we both know it's gonna happen eventually.
+<11-4,Victor>来吧  我们都知道这迟早会发生的
+
+298
+311
+<11-5,Gabrielle>And every time you say that,
+<11-5,Gabrielle>每次你这么说
+
+299
+312
+<11-5,Gabrielle>"eventually" gets a little further away.
+<11-5,Gabrielle>"迟早"就会更迟
+
+300
+313
+<11-5,Gabrielle>Stop begging or I'm not going to your rally tomorrow.
+<11-5,Gabrielle>再求我  我明天就不去你的演讲会了
+
+301
+314
+<11-6,Victor>OK, fine. I can be patient.
+<11-6,Victor>好吧  我会耐心等着
+
+302
+315
+<11-6,Victor>Far as I'm concerned, the chase is half the fun.
+<11-6,Victor>但在我看来  追你的乐趣只剩一半了
+
+303
+316
+<11-7,Gabrielle>Half the fun? Oh, honey, if I ever do say yes...
+<11-7,Gabrielle>只剩一半  亲爱的  如果我答应了你...
+
+304
+317
+<11-7,Gabrielle>...you're gonna adjust that percentage way down.
+<11-7,Gabrielle>这个百分比就会低很多
+
+305
+318
+<12-1,Ian>You can't possibly be eating more cheese.
+<12-1,Ian>你竟然还在吃奶酪
+
+306
+319
+<12-2,Susan>What, you've never heard of a midnight snack?
+<12-2,Susan>怎么  你没听说过午夜零食吗
+
+307
+320
+<12-2,Susan>Unless you can think of something else that
+<12-2,Susan>还是说你有别的东西
+
+308
+321
+<12-2,Susan>I can nibble on.
+<12-2,Susan>给我咬咬
+
+309
+322
+<12-3,Ian>Slide over, you cheddar-breathed tease.
+<12-3,Ian>过去一点  你这个切德干酪味的小妖精
+
+310
+323
+<12-4,Ian>- Oh, what's that?
+<12-4,Ian>-那是什么 
+
+311
+323
+<12-5,Susan> It's a thank you gift for Mike.
+<12-5,Susan>给麦克的谢礼
+
+312
+324
+<12-6,Ian>Correct me if I'm wrong,
+<12-6,Ian>若我说错  请纠正
+
+313
+325
+<12-6,Ian>but didn't we already thank him at the shore,
+<12-6,Ian>我们在岸边不是已经谢过他了
+
+314
+326
+<12-6,Ian>and again when he dropped us off?
+<12-6,Ian>还有在他送我们回来时
+
+315
+327
+<12-7,Susan>I don't think you can thank somebody too many times
+<12-7,Susan>感谢一个救了你命的人
+
+316
+328
+<12-7,Susan>for saving your life.
+<12-7,Susan>多少次也不为过吧
+
+317
+329
+<12-8,Ian>I wish you'd stop saying that.
+<12-8,Ian>别再那么说了
+
+318
+330
+<12-9,Susan>- Saying what?
+<12-9,Susan>-说什么 
+
+319
+330
+<12-10,Ian> That he saved my life.
+<12-10,Ian>说他救了我的命
+
+320
+331
+<12-10,Ian>I certainly could have survived without his help.
+<12-10,Ian>就算没他帮忙  我也肯定能活下来
+
+321
+332
+<12-10,Ian>But if anybody did any life-saving, it was me.
+<12-10,Ian>但如果说有人救了谁的命  那是我才对
+
+322
+333
+<12-11,Susan>- You?
+<12-11,Susan>-你 
+
+323
+333
+<12-12,Ian> Yes.
+<12-12,Ian>是啊
+
+324
+334
+<12-12,Ian>If I hadn't warned you about the dear,
+<12-12,Ian>如果不是我提醒你  那儿有只鹿
+
+325
+335
+<12-12,Ian>you'll go straight through the windshield
+<12-12,Ian>你就会冲出风挡玻璃
+
+326
+336
+<12-12,Ian>and you would have ended up with an antler in your brain.
+<12-12,Ian>脑子里插进一只鹿角而亡
+
+327
+337
+<0-0,None>OK.
+<0-0,None>好吧
+
+328
+338
+<12-13,Susan>- That's a good point.
+<12-13,Susan>-说得好 
+
+329
+338
+<12-14,Ian> Thank you.
+<12-14,Ian>谢谢
+
+330
+339
+<12-15,Susan>But we were in a bit of a jam there,
+<12-15,Susan>但我们当时的情况确实有点麻烦
+
+331
+340
+<12-15,Susan>and I don't think you should be embarrassed
+<12-15,Susan>我认为即使你需要帮助
+
+332
+341
+<12-15,Susan>for needing a little help.
+<12-15,Susan>也不用觉得窘迫
+
+333
+342
+<12-16,Ian>I'm not embarrassed. I don't feel emasculated either.
+<12-16,Ian>我没觉得窘迫  也没觉得自己很懦弱
+
+334
+343
+<12-17,Susan>Emasculated? Who said emasculated?
+<12-17,Susan>谁说你懦弱了  谁说了
+
+335
+344
+<12-17,Susan>And why are you not kissing me now?
+<12-17,Susan>还有你现在干嘛不亲我
+
+336
+345
+<12-18,Ian>I'm ready when you are.
+<12-18,Ian>我在等你准备好
+
+337
+346
+<0-0,None>OK.
+<0-0,None>好吧
+
+338
+347
+<12-19,Susan>I guess we're cutting right to the...
+<12-19,Susan>我们是直接进入...
+
+339
+348
+<12-20,Susan>Don't worry. It happens to everybody.
+<12-20,Susan>别担心  大家都这样
+
+340
+349
+<12-20,Susan>Maybe it would help to talk about it.
+<12-20,Susan>也许聊聊会好一点
+
+341
+350
+<12-21,Ian>No. I don't want to talk about it.
+<12-21,Ian>不  我不想聊这个
+
+342
+351
+<12-22,Susan>All right. We won't talk about it.
+<12-22,Susan>好吧  那就不谈
+
+343
+352
+<12-22,Susan>Want some cheese?
+<12-22,Susan>想吃点奶酪吗
+
+344
+353
+<13-1,Carlos>Hey, how are you?
+<13-1,Carlos>你好吗
+
+345
+354
+<13-2,Edie>I'm good. You might not think so, but I am good.
+<13-2,Edie>我很好  也许你不觉得  但我很好
+
+346
+355
+<13-2,Edie>Where in the hell do you get off
+<13-2,Edie>你在哪里跟别人说
+
+347
+356
+<13-2,Edie>telling people that I am bad in bed?
+<13-2,Edie>我在床上很差劲了
+
+348
+357
+<13-3,Carlos>I never said that!
+<13-3,Carlos>我没这么说过
+
+349
+358
+<13-4,Edie>Travers heard you on the phone.
+<13-4,Edie>崔沃斯听见你打电话了
+
+350
+359
+<13-5,Carlos>OK, I'm sorry.
+<13-5,Carlos>好吧  对不起
+
+351
+360
+<13-5,Carlos>I was talking to my cousin in Tucson.
+<13-5,Carlos>我是在跟图森的堂兄打电话
+
+352
+361
+<13-5,Carlos>We always trade bad date stories.
+<13-5,Carlos>我们经常会交流糟糕的情事
+
+353
+362
+<13-6,Edie>And you think that I went out of my way
+<13-6,Edie>你觉得我花了这么大力气
+
+354
+363
+<13-6,Edie>to spare your feelings.
+<13-6,Edie>只是为了你的感受
+
+355
+364
+<13-7,Carlos>What's that supposed to mean?
+<13-7,Carlos>这是什么意思
+
+356
+365
+<13-8,Edie>You think you were bored?
+<13-8,Edie>你觉得你不爽
+
+357
+366
+<13-8,Edie>I've had more thrills leaning up against my dryer.
+<13-8,Edie>我靠着烘干机  快感还多一些呢
+
+358
+367
+<13-9,Carlos>Then what was all that moaning?
+<13-9,Carlos>那你的呻吟  怎么解释
+
+359
+368
+<13-10,Edie>I was in pain! You were smashing my breasts.
+<13-10,Edie>那是疼的  你当时在用力挤我的胸
+
+360
+369
+<13-11,Carlos>Oh, come on.
+<13-11,Carlos>得了吧
+
+361
+370
+<13-12,Edie>You hunkered down on top of me
+<13-12,Edie>你那么用力压我
+
+362
+371
+<13-12,Edie>like you were hiding from border patrol.
+<13-12,Edie>像在躲边境巡逻员似的
+
+363
+372
+<13-13,Carlos>I was tired! You just laid there while I did all the work.
+<13-13,Carlos>我很累  我做事时你就在那儿躺着
+
+364
+373
+<13-13,Carlos>When we were done, I felt like I should deflate you.
+<13-13,Carlos>我们做完之后  我都想给你放气[暗喻她像充气娃娃]
+
+365
+374
+<13-14,Edie>Yeah, well, sex is like tennis.
+<13-14,Edie>性爱就像打网球一样
+
+366
+375
+<13-14,Edie>When you play an inferior opponent, your game suffers.
+<13-14,Edie>对手太差劲的时候  打不出好比赛
+
+367
+376
+<13-15,Carlos>Are you challenging me to a rematch?
+<13-15,Carlos>你这是在挑衅重赛吗
+
+368
+377
+<13-16,Edie>- Maybe.
+<13-16,Edie>-也许吧 
+
+369
+377
+<13-17,Carlos> So you want to do it again?
+<13-17,Carlos>你想重来一次吗
+
+370
+378
+<13-18,Edie>If it'll shut you up.
+<13-18,Edie>若能让你闭嘴的话
+
+371
+379
+<13-18,Edie>Yeah, I'll fall on that grenade.
+<13-18,Edie>行  准备好迎接我的手榴弹吧
+
+372
+380
+<13-19,Carlos>Oh, there's gonna be an explosion. Come on.
+<13-19,Carlos>大爆炸要来了  来吧
+
+373
+381
+<14-1,Doctor>I'm prescribing a mild painkiller for your back.
+<14-1,Doctor>我给你的背伤  开了温和的止痛药
+
+374
+382
+<14-1,Doctor>And I will see you in a week to remove those stitches.
+<14-1,Doctor>一周后过来拆线
+
+375
+383
+<14-2,Carlos>Great.
+<14-2,Carlos>好
+
+376
+384
+<14-3,Doctor>So how'd you folks get so banged up? Car accident?
+<14-3,Doctor>你们怎么伤成这样的  出车祸了吗
+
+377
+385
+<14-4,Edie>Bad sex.
+<14-4,Edie>差劲的性爱
+
+378
+386
+<14-5,Carlos>Really bad.
+<14-5,Carlos>非常差劲
+
+379
+387
+<0-0,None>OK.
+<0-0,None>好吧
+
+380
+388
+<14-6,Edie>Thanks.
+<14-6,Edie>谢谢
+
+381
+389
+<14-7,Carlos>God, what a disaster.
+<14-7,Carlos>天哪  真是一场灾难
+
+382
+390
+<14-8,Edie>Oh, I don't know. Maybe it's for the best.
+<14-8,Edie>谁知道呢  也许这样最好
+
+383
+391
+<14-9,Carlos>How so?
+<14-9,Carlos>怎么会
+
+384
+392
+<14-10,Edie>Well, we got it out of our system.
+<14-10,Edie>我们以后都不用想这事了
+
+385
+393
+<14-10,Edie>Now we can go back to being friends.
+<14-10,Edie>现在我们可以做回朋友
+
+386
+394
+<14-10,Edie>I mean, we like hanging out,
+<14-10,Edie>我是说  咱俩很说得来
+
+387
+395
+<14-10,Edie>and Travers adores you.
+<14-10,Edie>崔沃斯又崇拜你
+
+388
+396
+<14-11,Carlos>Yeah, and I wouldn't want to ruin that.
+<14-11,Carlos>是啊  我可不想毁了这些
+
+389
+397
+<14-11,Carlos>Still, it doesn't make any sense.
+<14-11,Carlos>不过这事还是很奇怪
+
+390
+398
+<14-12,Edie>Oh, I know. I'm hot, you're hot.
+<14-12,Edie>我懂  我很性感  你也性感
+
+391
+399
+<14-12,Edie>On paper, we should be having great sex.
+<14-12,Edie>理论上  我们应该有一流的性爱才对
+
+392
+400
+<14-13,Carlos>Well, we could always try again.
+<14-13,Carlos>我们总能再尝试的
+
+393
+401
+<14-14,Carlos>Yeah, me neither.
+<14-14,Carlos>是啊  我也不想
+
+394
+402
+<15-1,Speaker>Yes, this town is hungry for change.
+<15-1,Speaker>没错  这个小镇亟待改变
+
+395
+403
+<15-2,Mary Alice Voiceover><i>When Gabrielle agreed to attend</i>
+<15-2,Mary Alice Voiceover><i>当加布丽尔答应出席</i>
+
+396
+404
+<15-2,Mary Alice Voiceover><i>Victor Lang's campaign rally,</i>
+<15-2,Mary Alice Voiceover><i>维克多·朗的选举会时</i>
+
+397
+405
+<15-2,Mary Alice Voiceover><i>she was fully prepared to be bored.</i>
+<15-2,Mary Alice Voiceover><i>她就已经准备好迎接无聊了</i>
+
+398
+406
+<15-3,Speaker>I give you the next mayor of Fairview, Victor Lang!
+<15-3,Speaker>下面有请美景镇的下任市长  维克多·朗
+
+399
+407
+<15-4,Mary Alice Voiceover><i>But when Victor took the stage,</i>
+<15-4,Mary Alice Voiceover><i>但当维克多登上舞台</i>
+
+400
+408
+<15-4,Mary Alice Voiceover><i>Gabrielle found herself strangely enthralled.</i>
+<15-4,Mary Alice Voiceover><i>加布丽尔意外地为之着迷了</i>
+
+401
+409
+<15-4,Mary Alice Voiceover><i>Perhaps it was the cheers that greeted his arrival.</i>
+<15-4,Mary Alice Voiceover><i>这或许是由于人潮给予他的欢呼声</i>
+
+402
+410
+<15-4,Mary Alice Voiceover><i>Perhaps it was the confidence he exuded.</i>
+<15-4,Mary Alice Voiceover><i>或许是因为他散发出的自信</i>
+
+403
+411
+<15-4,Mary Alice Voiceover>Or perhaps it was the effect he had</i>
+<15-4,Mary Alice Voiceover><i>又或许  这就是
+
+404
+412
+<15-4,Mary Alice Voiceover><i>on the citizens of Fairview.</i>
+<15-4,Mary Alice Voiceover><i>他对美景镇人民的影响</i>
+
+405
+413
+<15-4,Mary Alice Voiceover><i>Whatever the reason, Gabby decided,</i>
+<15-4,Mary Alice Voiceover><i>无论原因为何  加布决定</i>
+
+406
+414
+<15-4,Mary Alice Voiceover><i>not only did Victor Lang have her vote...</i>
+<15-4,Mary Alice Voiceover><i>维克多·朗不仅能获得她的选票</i>
+
+407
+415
+<15-9,Gabrielle>Thank you.
+<15-9,Gabrielle>谢谢
+
+408
+416
+<15-4,Mary Alice Voiceover><i>... it was time to make a campaign contribution.</i>
+<15-4,Mary Alice Voiceover><i>他还将获得  她的绵薄之力</i>
+
+409
+417
+<15-5,Gabrielle>Sorry. Excuse me, excuse me. Sorry.
+<15-5,Gabrielle>抱歉  借过  借过  抱歉
+
+410
+418
+<15-5,Gabrielle>I'm afraid Mr. Lang has to take an important meeting
+<15-5,Gabrielle>朗先生要去他的车里参加一个
+
+411
+419
+<15-5,Gabrielle>in his limo.
+<15-5,Gabrielle>重要会议
+
+412
+420
+<16-3,Tom>Now.
+<16-3,Tom>现在
+
+413
+421
+<15-6,Victor>To the radio station, Clyde.
+<15-6,Victor>去广播电台  克莱德
+
+414
+422
+<15-6,Victor>- So what's this all about?
+<15-6,Victor>-这是干嘛 
+
+415
+422
+<15-7,Gabrielle> Your speech. I liked it.
+<15-7,Gabrielle>我喜欢你的演讲
+
+416
+423
+<15-8,Victor>Seriously? Here? Now?
+<15-8,Victor>真的吗  这里  现在
+
+417
+424
+<15-9,Gabrielle>Well, you laid out all your positions.
+<15-9,Gabrielle>你摆明了你所有的立场
+
+418
+425
+<15-9,Gabrielle>Don't you want to get acquainted with mine?
+<15-9,Gabrielle>不想知道一下我的立场吗
+
+419
+426
+<15-10,Victor>Clyde, could you put up the partition?
+<15-10,Victor>克莱德  能把挡板升起来吗
+
+420
+427
+<15-11,Clyde>Yes, sir. Anything else?
+<15-11,Clyde>是  先生  还有别的吩咐吗
+
+421
+428
+<15-12,Gabrielle>Music. Loud music.
+<15-12,Gabrielle>音乐  大声点
+
+422
+429
+<16-1,Tom>Mrs. McCluskey! It has been ten minutes.
+<16-1,Tom>麦克卢斯基太太  都过了十分钟了
+
+423
+430
+<16-1,Tom>- Where's my pie?
+<16-1,Tom>-我的派呢 
+
+424
+430
+<16-2,Mrs. McCluskey> I'm unloading the dishwasher.
+<16-2,Mrs. McCluskey>我正从洗碗机里拿碗呢
+
+425
+431
+<16-2,Mrs. McCluskey>You'll get your damn pie when I'm done.
+<16-2,Mrs. McCluskey>等我装完就给你拿该死的派
+
+426
+432
+<16-1,Tom>Mrs. McCluskey!
+<16-1,Tom>麦克卢斯基太太
+
+427
+433
+<16-3,Tom>I want my pie now.
+<16-3,Tom>我现在就要我的派
+
+428
+434
+<16-4,Mrs. McCluskey>Oh, yeah. Yeah, you heard me.
+<16-4,Mrs. McCluskey>没错没错  你听到我说的了
+
+429
+435
+<16-4,Mrs. McCluskey>Your being here isn't charity.
+<16-4,Mrs. McCluskey>你不是来做慈善的
+
+430
+436
+<16-5,Tom>We pay you good money to help us.
+<16-5,Tom>我们付了你钱
+
+431
+437
+<16-5,Tom>So when I ask you to do something, I want it done.
+<16-5,Tom>所以我让你干什么  你就的干什么
+
+432
+438
+<16-6,Mrs. McCluskey>Well, here's a surprise for you: I quit.
+<16-6,Mrs. McCluskey>给你个惊喜  我辞职了
+
+433
+439
+<17-2,Lynette>What? What? Why? Why? What happened?
+<17-2,Lynette>什么  为什么  发生什么了
+
+434
+440
+<17-3,Mrs. McCluskey>Five kids are tough enough,
+<17-3,Mrs. McCluskey>五个孩子已经够难搞了
+
+435
+441
+<17-3,Mrs. McCluskey>but your husband makes six.
+<17-3,Mrs. McCluskey>你丈夫还要当第六个
+
+436
+442
+<17-3,Mrs. McCluskey>And that's where I draw the line.
+<17-3,Mrs. McCluskey>这就是我能承受的极限了
+
+437
+443
+<17-4,Lynette>OK. I know that Tom has been a little cranky lately.
+<17-4,Lynette>好吧  我知道汤姆最近有点暴躁
+
+438
+444
+<17-5,Mrs. McCluskey>No, I'm cranky. He's insufferable.
+<17-5,Mrs. McCluskey>不  是我暴躁  他让人无法忍受
+
+439
+445
+<17-5,Mrs. McCluskey>I hate to admit this, Lynette,
+<17-5,Mrs. McCluskey>我不想这么说  勒奈特
+
+440
+446
+<17-5,Mrs. McCluskey>but every time that man screams out in pain,
+<17-5,Mrs. McCluskey>但每次他大叫疼的时候
+
+441
+447
+<17-5,Mrs. McCluskey>I do a little jig inside.
+<17-5,Mrs. McCluskey>我心里都会抖一下
+
+442
+448
+<17-6,Lynette>Look, I'll talk to Tom...
+<17-6,Lynette>听着  我会跟汤姆谈谈...
+
+443
+449
+<17-7,Mrs. McCluskey>- No, my mind's made up.
+<17-7,Mrs. McCluskey>-不  我已经决定了 
+
+444
+449
+<17-8,Lynette> Wait, wait! Please!
+<17-8,Lynette>等一下  请等下
+
+445
+450
+<17-8,Lynette>Don't do this. I am at the end of my rope.
+<17-8,Lynette>不要这样  我没别的办法了
+
+446
+451
+<17-9,Mrs. McCluskey>I wish I could help you, Lynette.
+<17-9,Mrs. McCluskey>我也想帮你  勒奈特
+
+447
+452
+<17-9,Mrs. McCluskey>I can see that you're going down,
+<17-9,Mrs. McCluskey>我知道你已经穷途末路了
+
+448
+453
+<17-9,Mrs. McCluskey>but I'm just too old to get dragged down with you.
+<17-9,Mrs. McCluskey>但我已经老得无法与你同归于尽了
+
+449
+454
+<18-1,Lynette>OK, everybody, go on up to bed.
+<18-1,Lynette>好了  所有人上楼睡觉
+
+450
+455
+<18-1,Lynette>Parker, you got the baby.
+<18-1,Lynette>帕克  照顾好宝宝
+
+451
+456
+<18-1,Lynette>Yeah, that's exactly right. You know what to do.
+<18-1,Lynette>完全正确  你知道该怎么做
+
+452
+457
+<18-2,Tom>Before you speak, just know that
+<18-2,Tom>在你开口前  要知道
+
+453
+458
+<18-2,Tom>ever since McCluskey left, I've been lying here
+<18-2,Tom>自从麦克卢斯基离开  我就一直躺在这
+
+454
+459
+<18-2,Tom>feeling like the biggest jerk ever.
+<18-2,Tom>感觉自己是世上最蠢的大混蛋
+
+455
+460
+<18-2,Tom>Tomorrow morning I am gonna call her and apologize.
+<18-2,Tom>明早我就给她打电话道歉
+
+456
+461
+<18-2,Tom>I will fix this.
+<18-2,Tom>我会处理好的
+
+457
+462
+<18-3,Lynette>Well, you might also want to apologize
+<18-3,Lynette>你或许也该对那个在她的披萨里
+
+458
+463
+<18-3,Lynette>to the customer who found a Lego in her pizza.
+<18-3,Lynette>发现了一块乐高的顾客道歉
+
+459
+464
+<18-4,Tom>Oh, God, did the kids do that?
+<18-4,Tom>天哪  是孩子们干的吗
+
+460
+465
+<18-5,Lynette>I hope.
+<18-5,Lynette>希望是
+
+461
+466
+<18-7,Lynette>Oh, God, it was so awful tonight.
+<18-7,Lynette>上帝  今晚真是糟透了
+
+462
+467
+<18-8,Tom>Oh, honey. You know what you need?
+<18-8,Tom>宝贝  你知道你需要什么吗
+
+463
+468
+<18-9,Lynette>What?
+<18-9,Lynette>什么
+
+464
+469
+<19-1,Mary Alice Voiceover>A seeing to.
+<19-1,Mary Alice Voiceover>想像一下
+
+465
+470
+<18-10,Tom>Once the kids are asleep,
+<18-10,Tom>等孩子们睡着了
+
+466
+471
+<18-10,Tom>slip on that sexy blue thing and then
+<18-10,Tom>穿上那件蓝色的性感衣服
+
+467
+472
+<18-10,Tom>sneak back down here.
+<18-10,Tom>溜下来
+
+468
+473
+<18-11,Lynette>You want to have sex?
+<18-11,Lynette>你想做爱
+
+469
+474
+<18-11,Lynette>But you're immobile.
+<18-11,Lynette>可你不能动了
+
+470
+475
+<18-12,Tom>OK, maybe full-on sex is a little ambitious,
+<18-12,Tom>也许全面的性爱是有点吃力
+
+471
+476
+<18-12,Tom>but there's other stuff that we could do.
+<18-12,Tom>但我们还可以干点别的
+
+472
+477
+<18-13,Lynette>But you can't bend at the waist,
+<18-13,Lynette>但你不能弯腰
+
+473
+478
+<18-13,Lynette>and that pretty much leaves the heavy lifting to me.
+<18-13,Lynette>所以吃力的事情都只能我来做
+
+474
+479
+<18-14,Tom>Trust me, if you get us to the finish line,
+<18-14,Tom>相信我  如果你能带着咱俩到达终点线
+
+475
+480
+<18-14,Tom>I will cross it.
+<18-14,Tom>我可以跨过去的
+
+476
+481
+<18-15,Lynette>Is that why you apologized, just so I'd service you?
+<18-15,Lynette>你是为这个才道歉的  为了让我服务你
+
+477
+482
+<18-16,Tom>Honey, I have been trapped in this bed all day long.
+<18-16,Tom>宝贝  我被困在这张床上一整天了
+
+478
+483
+<18-16,Tom>I'm bored, I'm miserable.
+<18-16,Tom>我很空虚  很痛苦
+
+479
+484
+<18-16,Tom>Can't you do this one little thing for me?
+<18-16,Tom>你连这点小事都不能为我做吗
+
+480
+485
+<18-17,Lynette>I have been doing everything I can
+<18-17,Lynette>我已经竭尽全力
+
+481
+486
+<18-17,Lynette>to keep our heads above water.
+<18-17,Lynette>来维持生计
+
+482
+487
+<18-17,Lynette>I can't do you too.
+<18-17,Lynette>我没法再干别的了
+
+483
+488
+<19-1,Mary Alice Voiceover><i>For Gabrielle, the best part of having sex</i>
+<19-1,Mary Alice Voiceover><i>对加布丽尔来说  和新欢做爱</i>
+
+484
+489
+<19-1,Mary Alice Voiceover><i>with a new man was seeing how quickly</i>
+<19-1,Mary Alice Voiceover><i>最棒之处就在  看他对她的态度</i>
+
+485
+490
+<19-1,Mary Alice Voiceover>his affection would turn to obsession.</i>
+<19-1,Mary Alice Voiceover><i>迅速由喜爱变为痴迷
+
+486
+491
+<0-0,None><i>No messages.</i>
+<0-0,None><i>没有新信息</i>
+
+487
+492
+<19-3,Mary Alice Voiceover><i>But when Victor failed to call the next morning...</i>
+<19-3,Mary Alice Voiceover><i>但维克多并没有在次日早晨打电话来</i>
+
+488
+493
+<0-0,None><i>No messages.</i>
+<0-0,None><i>没有新信息</i>
+
+489
+494
+<19-4,Mary Alice Voiceover><i>... or the next afternoon...</i>
+<19-4,Mary Alice Voiceover><i>下午也没有</i>
+
+490
+495
+<0-0,None><i>No messages.</i>
+<0-0,None>没有新信息
+
+491
+496
+<19-5,Mary Alice Voiceover><i>... it was Gabrielle who began obsessing.</i>
+<19-5,Mary Alice Voiceover><i>这次轮到加布丽尔痴迷了</i>
+
+492
+497
+<19-6,Gabrielle>Not a peep, in 24 hours!
+<19-6,Gabrielle>毫无音讯  24小时了
+
+493
+498
+<19-7,Susan>He's busy. Isn't he debating the mayor tonight?
+<19-7,Susan>他很忙的  今晚不是还要跟市长辩论吗
+
+494
+499
+<19-8,Gabrielle>I don't care! He can find two lousy minutes for me!
+<19-8,Gabrielle>我不管  他总能抽两分钟空找我吧
+
+495
+500
+<19-9,Edie>I'm here. Deal me in.
+<19-9,Edie>我来啦  加我一个
+
+496
+501
+<19-10,Gabrielle>Sorry, no poker today. Lynette had to work.
+<19-10,Gabrielle>抱歉  今天没牌局  勒奈特要工作
+
+497
+502
+<19-10,Gabrielle>Want a margarita?
+<19-10,Gabrielle>想来一杯玛格丽塔吗
+
+498
+503
+<19-11,Edie>Well, I'd like three, but I'll start with one.
+<19-11,Edie>我想喝三杯  不过先从一杯起吧
+
+499
+504
+<19-12,Toby>Ms. Solis? Sorry to interrupt. You have any water?
+<19-12,Toby>索利斯太太  抱歉打扰你  你有水吗
+
+500
+505
+<19-13,Gabrielle>Yeah, in the fridge.
+<19-13,Gabrielle>有  在冰箱里
+
+501
+506
+<19-14,Edie>Who is that?
+<19-14,Edie>那是谁
+
+502
+507
+<19-15,Susan>And why don't you put your water on a lower shelf?
+<19-15,Susan>你为什么不把水放在更低的架子上
+
+503
+508
+<19-16,Toby>Thank you.
+<19-16,Toby>谢谢你
+
+504
+509
+<19-17,Gabrielle>That's Toby. He's fixing my closet.
+<19-17,Gabrielle>那是托比  他在帮我修衣柜
+
+505
+510
+<19-18,Edie>Has your cocky boyfriend gotten a load of the help?
+<19-18,Edie>你的傲慢男友真是有不少帮手啊
+
+506
+511
+<19-19,Susan>Move away from that topic.
+<19-19,Susan>换话题吧
+
+507
+512
+<19-20,Gabrielle>We had sex yesterday, in his limo...
+<19-20,Gabrielle>我们昨天做爱了  在他的豪华车里
+
+508
+513
+<19-21,Edie>Oh, I love limo sex. Town car or stretch?
+<19-21,Edie>我喜欢车震  是城市型还是加长型
+
+509
+514
+<19-22,Gabrielle>Stretch, of course. I'm not a complete slut.
+<19-22,Gabrielle>当然是加长的  我可不完全是个荡妇
+
+510
+515
+<19-22,Gabrielle>The point is, he hasn't called since.
+<19-22,Gabrielle>关键是  之后他就没给我打过电话
+
+511
+516
+<19-23,Edie>So how was the sex?
+<19-23,Edie>做得怎么样
+
+512
+517
+<19-24,Gabrielle>Fantastic. As good as with Carlos.
+<19-24,Gabrielle>很棒  和卡洛斯一样棒
+
+513
+518
+<19-25,Edie>That good, huh?
+<19-25,Edie>那么棒啊
+
+514
+519
+<19-26,Gabrielle>God. I'm such an idiot. I gave it up way too fast.
+<19-26,Gabrielle>天哪  我太傻了  投降太早了
+
+515
+520
+<19-26,Gabrielle>Now I've lost all the power.
+<19-26,Gabrielle>现在我毫无主动权在握
+
+516
+521
+<19-27,Susan>Oh, come on.
+<19-27,Susan>别这样
+
+517
+522
+<19-28,Gabrielle>No, I'm serious. Our mothers had the right idea.
+<19-28,Gabrielle>我是说真的  母亲们说得对
+
+518
+523
+<19-28,Gabrielle>They let men think they were the ones who needed sex
+<19-28,Gabrielle>要让男人以为他们是唯一需要性爱的人
+
+519
+524
+<19-28,Gabrielle>and women just went along as a favor.
+<19-28,Gabrielle>而女人只是伸出援手而已
+
+520
+525
+<19-28,Gabrielle>Men begged for every crumb,
+<19-28,Gabrielle>只要男人们有所乞求
+
+521
+526
+<19-28,Gabrielle>and we never lost the upper hand.
+<19-28,Gabrielle>我们就永远位居高处
+
+522
+527
+<19-29,Edie>Yeah, no guy respects an easy conquest.
+<19-29,Edie>是啊  男人都不会珍惜轻易得来的胜利
+
+523
+528
+<19-29,Edie>I make all my men wait.
+<19-29,Edie>我会让所有男人等着
+
+524
+529
+<19-30,Susan>It's true.
+<19-30,Susan>这是真的
+
+525
+530
+<19-30,Susan>She has a little room with magazines and an aquarium.
+<19-30,Susan>她有个放满杂志和一个鱼缸的房间
+
+526
+531
+<19-31,Edie>I have so missed our friendship.
+<19-31,Edie>真想念咱们的友谊
+
+527
+532
+<19-32,Susan>I think if you really like this guy,
+<19-32,Susan>我觉得如果你真喜欢这个男人
+
+528
+533
+<19-32,Susan>you should just be honest.
+<19-32,Susan>你该诚实点
+
+529
+534
+<19-32,Susan>Tell him that you feel a little hurt...
+<19-32,Susan>告诉他你有一点难过...
+
+530
+535
+<19-33,Edie>Oh Yeah, whining is really gonna bring him to his knees.
+<19-33,Edie>是啊  抱怨会让他跪倒在你的石榴裙下
+
+531
+536
+<19-33,Edie>You want to get this guy back in line?
+<19-33,Edie>你想让他重新归队吗
+
+532
+537
+<19-33,Edie>You hit him hard, hit him fast. Is he the jealous type?
+<19-33,Edie>那就要下手快准狠  他嫉妒心强吗
+
+533
+538
+<19-34,Gabrielle>Aren't they all?
+<19-34,Gabrielle>他们不都这样
+
+534
+539
+<19-34,Gabrielle>So what should I do to make him jealous?
+<19-34,Gabrielle>那我应该如何让他感到嫉妒
+
+535
+540
+<19-35,Toby>I got the shelves up.
+<19-35,Toby>我把架子都弄好了
+
+536
+541
+<19-35,Toby>Anything else?
+<19-35,Toby>还有别的事吗
+
+537
+542
+<20-1,Mayor>My opponent thinks we should combat prostitution
+<20-1,Mayor>我的对手认为杜绝卖淫行为应该
+
+538
+543
+<20-1,Mayor>by mounting surveillance cameras
+<20-1,Mayor>通过普及摄像头
+
+539
+544
+<20-1,Mayor>to embarrass the customers.
+<20-1,Mayor>让嫖客难堪
+
+540
+545
+<20-1,Mayor>I call that a blatant violation of our citizens' privacy.
+<20-1,Mayor>我认为这是对我们市民隐私权的公然侵犯
+
+541
+546
+<20-2,Victor>Mr Mayor, if you're worried about privacy, wear a hat,
+<20-2,Victor>市长先生  如果你那么在乎隐私  戴顶帽子
+
+542
+547
+<20-2,Victor>keep your head down and you'll be fine.
+<20-2,Victor>低着头  就不会有事了[暗喻嫖娼]
+
+543
+548
+<20-3,Debate Official>OK, thank you very much, gentlemen.
+<20-3,Debate Official>好了  非常感谢  先生们
+
+544
+549
+<20-3,Debate Official>So let's move on to our next subject.
+<20-3,Debate Official>下面进入下个话题
+
+545
+550
+<20-4,Debate Official>You both have said our citizens pay too much in taxes.
+<20-4,Debate Official>你们都说过我们的市民交税太多
+
+546
+551
+<20-4,Debate Official>How would you attract new businesses
+<20-4,Debate Official>你们会如何招商引资
+
+547
+552
+<20-4,Debate Official>to boost the city's tax base?
+<20-4,Debate Official>来提高我市的税收呢
+
+548
+553
+<20-4,Debate Official>Mr. Lang?
+<20-4,Debate Official>朗先生
+
+549
+554
+<20-4,Debate Official>Mr. Lang?
+<20-4,Debate Official>朗先生
+
+550
+555
+<20-5,Victor>I'm sorry, would you, uh, repeat the question, please?
+<20-5,Victor>抱歉  你能重复一遍问题吗
+
+551
+556
+<20-6,Debate Official>How would you bring new business to Fairview?
+<20-6,Debate Official>你会如何为美景镇招商引资
+
+552
+557
+<20-7,Victor>I would, uh...
+<20-7,Victor>我会...
+
+553
+558
+<20-7,Victor>...offer tax exemptions to first year start-ups.
+<20-7,Victor>为新企业提供起始年的税收减免
+
+554
+559
+<20-8,Mayor>And that will increase our tax base?
+<20-8,Mayor>那会提高我们的税收吗
+
+555
+560
+<20-9,Victor>No, of course not. Not at first, but when conjoined with...
+<20-9,Victor>不  当然不  一开始不会  但随着
+
+556
+561
+<20-10,Mayor>My opponent seems a bit overtaxed himself.
+<20-10,Mayor>我的对手看起来负担过重了
+
+557
+562
+<20-11,Debate Official>Gentlemen, there's been much talk lately
+<20-11,Debate Official>先生们  最近本地的学校
+
+558
+563
+<20-11,Debate Official>regarding our local schools.
+<20-11,Debate Official>成为了一个热门话题
+
+559
+564
+<20-11,Debate Official>What would you do to improve public education?
+<20-11,Debate Official>你们会如何改进公共教育
+
+560
+565
+<20-4,Debate Official>Mr. Lang?
+<20-4,Debate Official>朗先生
+
+561
+566
+<21-1,Lynette>Here you go. Sorry for the wait.
+<21-1,Lynette>来了  抱歉让你久等
+
+562
+567
+<21-2,Customer>- Miss? Please?
+<21-2,Customer>-小姐  过来一下 
+
+563
+567
+<21-3,Lynette> I will be right there.
+<21-3,Lynette>马上来
+
+564
+568
+<21-4,Kim>Oh, my God, Mrs. Scavo, I am so sorry.
+<21-4,Kim>天哪  斯加沃太太  对不起
+
+565
+569
+<21-5,Lynette>Don't cry. Just clean.
+<21-5,Lynette>别一惊一乍  收拾干净
+
+566
+570
+<21-6,Customer>Miss, if you could just...
+<21-6,Customer>小姐  请你...
+
+567
+571
+<21-7,Lynette>I swear, I will be there in one second.
+<21-7,Lynette>我发誓  我马上就会过去
+
+568
+572
+<21-8,Lynette>Here you go. Here.
+<21-8,Lynette>给你  这里
+
+569
+573
+<21-9,Rick>Let me guess... This a bad time?
+<21-9,Rick>看来  现在时机不对
+
+570
+574
+<21-10,Lynette>Oh, my God, Rick. I never got back to you.
+<21-10,Lynette>天哪  里克  我还没给你回复
+
+571
+575
+<21-4,Kim>I am so sorry.
+<21-4,Kim>真是太抱歉了
+
+572
+576
+<21-11,Rick>That's OK. I didn't mind waiting,
+<21-11,Rick>没事  我不介意等
+
+573
+577
+<21-11,Rick>so long as it's good news for me now.
+<21-11,Rick>现在知道是好消息也好
+
+574
+578
+<21-12,Lynette>Look, I think you're great,
+<21-12,Lynette>听着  我觉得你很好
+
+575
+579
+<21-12,Lynette>and we would be lucky to have you.
+<21-12,Lynette>你能来是我们的幸运
+
+576
+580
+<21-12,Lynette>It's just my husband isn't really comfortable...
+<21-12,Lynette>只是我丈夫有点介意...
+
+577
+581
+<21-13,Rick>with an ex-drug addict in his kitchen.
+<21-13,Rick>让一个前瘾君子在他的厨房工作
+
+578
+582
+<21-13,Rick>You can drug test me every week. Anything you want.
+<21-13,Rick>你可以每周给我做药物检测  怎样都行
+
+579
+583
+<21-13,Rick>Just... I really need this job.
+<21-13,Rick>只是...我真的很需要这份工作
+
+580
+584
+<21-14,Customer>- Miss!
+<21-14,Customer>-小姐 
+
+581
+584
+<21-15,Lynette> Could you excuse me a second?
+<21-15,Lynette>请稍等
+
+582
+585
+<21-15,Lynette>I'm sorry. I'm sorry. What's up?
+<21-15,Lynette>对不起  对不起  怎么了
+
+583
+586
+<21-16,Customer>- I hate my calzone.
+<21-16,Customer>-我不喜欢这份乳酪馅饼 
+
+584
+586
+<21-17,Lynette> Oh? What's wrong with it?
+<21-17,Lynette>为什么
+
+585
+587
+<21-18,Customer>It's just not good, and I want a new one.
+<21-18,Customer>就是不好吃  我要换一份
+
+586
+588
+<21-25,Rick>All right.  All right.
+<21-25,Rick>好的  好的
+
+587
+589
+<21-19,Lynette>I will put your order in, but the kitchen's a little backed up.
+<21-19,Lynette>我会给你下单  只是厨房现在有点忙
+
+588
+590
+<21-20,Customer>Not my problem.
+<21-20,Customer>这不是我的问题
+
+589
+591
+<21-20,Customer>You gave me a sucky calzone.
+<21-20,Customer>你给了我一份难吃的乳酪馅饼
+
+590
+592
+<21-20,Customer>I don't care if you have to go back there
+<21-20,Customer>即使你亲自过去下厨
+
+591
+593
+<21-20,Customer>and make it yourself!
+<21-20,Customer>我也不在乎
+
+592
+594
+<21-21,Lynette>I can't do this.
+<21-21,Lynette>我不行了
+
+593
+595
+<21-21,Lynette>It's just...
+<21-21,Lynette>这...
+
+594
+596
+<21-22,Customer>What is this?
+<21-22,Customer>什么情况
+
+595
+597
+<21-23,Rick>I'll make you a new calzone, Sir.
+<21-23,Rick>我会给你重做一份乳酪馅饼  先生
+
+596
+598
+<21-23,Rick>Fresh basil, garlic. You like sun dried tomatoes?
+<21-23,Rick>新鲜罗勒  大蒜  您喜欢风干番茄吗
+
+597
+599
+<21-24,Customer>Yeah, sounds good.
+<21-24,Customer>听起来不错
+
+598
+600
+<21-26,Customer>Hey, is she all right?
+<21-26,Customer>她没事吧
+
+599
+601
+<21-27,Rick>It's her grandma's calzone recipe.
+<21-27,Rick>这是按她祖母的菜谱做的
+
+600
+602
+<21-27,Rick>She takes criticism very personally.
+<21-27,Rick>她很介意评价
+
+601
+603
+<21-28,Rick>Prep some dough for a calzone for me,
+<21-28,Rick>给我准备点面团做馅饼
+
+602
+604
+<21-28,Rick>and get someone to chop some basil.
+<21-28,Rick>再找个人切点罗勒
+
+603
+605
+<21-29,Andrew>Yeah, OK. Who are you?
+<21-29,Andrew>好的  你是谁
+
+604
+606
+<21-30,Rick>- I'm Rick.
+<21-30,Rick>-我叫里克 
+
+605
+606
+<21-31,Andrew> You work here now?
+<21-31,Andrew>你现在在这里工作吗
+
+606
+607
+<21-32,Rick>Looks like I do.
+<21-32,Rick>看起来是的
+
+607
+608
+<22-1,Ian>Oh, is that new?
+<22-1,Ian>这是新的吗
+
+608
+609
+<22-2,Susan>I just bought it.
+<22-2,Susan>我刚买的
+
+609
+610
+<22-2,Susan>But if you don't like it, feel free to rip it off me.
+<22-2,Susan>你如果不喜欢  就从我身上扒下来吧
+
+610
+611
+<22-3,Ian>I have this book proposal to discuss at an 8 AM meeting,
+<22-3,Ian>我要在明早八点的会上讨论这个计划书
+
+611
+612
+<22-3,Ian>so I can't really...
+<22-3,Ian>所以我不能...
+
+612
+613
+<22-4,Susan>Oh, that's OK. If you gotta work, you gotta work.
+<22-4,Susan>没关系  如果你要工作  那就好好工作
+
+613
+614
+<22-4,Susan>So I was thinking about London.
+<22-4,Susan>我想了想搬去伦敦的事
+
+614
+615
+<22-4,Susan>Yeah. Julie's gonna be applying to colleges soon,
+<22-4,Susan>朱莉正准备申请大学
+
+615
+616
+<22-4,Susan>and a year abroad could give her a real boost.
+<22-4,Susan>去国外一年能给她加不少分
+
+616
+617
+<21-32,Rick>- So... let's do it.
+<21-32,Rick>-要不我们搬吧 
+
+617
+617
+<22-5,Ian> Are you serious?
+<22-5,Ian>真的吗
+
+618
+618
+<22-6,Susan>Yes. I want to spend time in your world.
+<22-6,Susan>是啊  我想在你的世界生活
+
+619
+619
+<22-6,Susan>I want to play cricket, I want to eat crumpets
+<22-6,Susan>我想玩板球  我想吃英式脆饼
+
+620
+620
+<22-6,Susan>and I want to use the word "ghastly".
+<22-6,Susan>我还想用"糟糕的[英]"这个词
+
+621
+621
+<22-7,Ian>God, Susan,
+<22-7,Ian>苏珊
+
+622
+622
+<22-7,Ian>you have no idea how excited this makes me feel.
+<22-7,Ian>你不知道这让我有多激动
+
+623
+623
+<22-8,Susan>Well, my thigh's getting an inkling.
+<22-8,Susan>我的大腿收到了点暗示
+
+624
+624
+<22-9,Ian>Call a realtor first thing tomorrow and
+<22-9,Ian>明早赶紧打电话给房产经纪人
+
+625
+625
+<22-9,Ian>put our houses on the market.
+<22-9,Ian>准备出售咱们的房产
+
+626
+626
+<22-10,Susan>Not mine, OK? We can use it when we visit.
+<22-10,Susan>我的不卖了吧  我们回来时可以住
+
+627
+627
+<22-11,Ian>That's what hotels are for, darling.
+<22-11,Ian>宝贝  这就是酒店的用处了
+
+628
+628
+<22-12,Susan>I don't want to sell my house.
+<22-12,Susan>我不想卖我的房子
+
+629
+629
+<22-12,Susan>Everybody I love is on this street.
+<22-12,Susan>我爱的人都住在这条街上
+
+630
+630
+<22-13,Susan>- What happened?
+<22-13,Susan>-怎么了 
+
+631
+630
+<22-14,Ian> I'm feeling tired.
+<22-14,Ian>我累了
+
+632
+631
+<22-15,Susan>You weren't tired a second ago.
+<22-15,Susan>你一秒钟前还不累呢
+
+633
+632
+<22-16,Ian>I'm not in the mood, all right?
+<22-16,Ian>我没心情了  不行吗
+
+634
+633
+<22-17,Susan>Why not?
+<22-17,Susan>为什么
+
+635
+634
+<22-18,Ian>You know, I'm not used to being grilled about my sex drive.
+<22-18,Ian>我不太习惯被盘问性爱的动机
+
+636
+635
+<22-19,Susan>Well, I'm not used to
+<22-19,Susan>我也不太习惯
+
+637
+636
+<22-19,Susan>guys bailing on me in the middle of foreplay.
+<22-19,Susan>男人在前戏中途停下来
+
+638
+637
+<22-20,Ian>And by guys, of course, you mean Mike.
+<22-20,Ian>说到男人  当然  你是指麦克吧
+
+639
+638
+<22-21,Susan>What?
+<22-21,Susan>什么
+
+640
+639
+<22-22,Ian>Oh, I'm sure good old Mike was ready and able, 24/7.
+<22-22,Ian>好男人麦克肯定可以时刻待命  从不倦怠
+
+641
+640
+<22-23,Susan>You're not actually...
+<22-23,Susan>你不会真...
+
+642
+641
+<22-1,Ian>Oh, OK. That's it.
+<22-1,Ian>行了  就这样吧
+
+643
+642
+<22-23,Susan>- I've had it!
+<22-23,Susan>-我受够了 
+
+644
+642
+<24-3,Ian> Susan!
+<24-3,Ian>苏珊
+
+645
+643
+<25-6,Gabrielle>Really! I can't have this conversation one more time!
+<25-6,Gabrielle>真的  我不能再和你谈论此事了
+
+646
+644
+<26-10,Carlos>I've done nothing
+<26-10,Carlos>在过去的一年里
+
+647
+645
+<25-17,Victor>but prove my love to you for the last year,
+<25-17,Victor>我一直努力证明我对你的爱
+
+648
+646
+<25-19,Victor>and you cannot shut up about Mike!
+<25-19,Victor>可你还是一直提起麦克
+
+649
+647
+<24-3,Ian>I don't trust the man!
+<24-3,Ian>我不相信那个男人
+
+650
+648
+<25-17,Victor>You don't have to trust Mike!
+<25-17,Victor>你不用信他
+
+651
+649
+<25-17,Victor>You have to trust me and you don't!
+<25-17,Victor>你应该信我  可你不信
+
+652
+650
+<26-6,Carlos>That's what going to England's about, isn't it?
+<26-6,Carlos>这才是去英国的原因  对吧
+
+653
+651
+<25-10,Gabrielle>You're just trying to get me away from Mike.
+<25-10,Gabrielle>你只是企图让我远离麦克
+
+654
+652
+<25-14,Gabrielle>You know what, screw it! I'm not going!
+<25-14,Gabrielle>得了吧  去你的  我不去了
+
+655
+653
+<25-3,Answering Machine>And if you ever bring up his name again, we're over!
+<25-3,Answering Machine>而且你若再提起他名字  我们就分手
+
+656
+654
+<25-3,Answering Machine>Got it? Over!
+<25-3,Answering Machine>懂了吗  玩完
+
+657
+655
+<25-13,Victor>Hi. This is from me and Ian.
+<25-13,Victor>你好  这是我和伊恩给你的
+
+658
+656
+<24-3,Ian>An electric juicer?
+<24-3,Ian>电动榨汁机
+
+659
+657
+<25-19,Victor>Well, you know, you try to think of a more appropriate
+<25-19,Victor>你就当作是一份合你意的
+
+660
+658
+<26-6,Carlos>"Thank you for saving my life" gift.
+<26-6,Carlos>“多谢救命”之礼
+
+661
+659
+<25-13,Victor>This works fine for me.
+<25-13,Victor>这个挺好
+
+662
+660
+<25-16,Gabrielle>Good.
+<25-16,Gabrielle>很好
+
+663
+661
+<25-6,Gabrielle>I should go.
+<25-6,Gabrielle>我该走了
+
+664
+662
+<0-0,None>You OK?
+<0-0,None>你没事吧
+
+665
+663
+<25-16,Gabrielle>Yeah.  I'm good.
+<25-16,Gabrielle>是的  我没事
+
+666
+664
+<25-19,Victor>You sure about that?
+<25-19,Victor>你确定
+
+667
+665
+<26-10,Carlos>Yeah.
+<26-10,Carlos>确定
+
+668
+666
+<25-10,Gabrielle>Yeah, it's just...
+<25-10,Gabrielle>只是...
+
+669
+667
+<25-19,Victor>Ian and I had a little thing.
+<25-19,Victor>伊恩和我出了点问题
+
+670
+668
+<24-2,Susan>Ian, about what I said...
+<24-2,Susan>伊恩  我刚才说的...
+
+671
+669
+<24-3,Ian>You were right.
+<24-3,Ian>你说得对
+
+672
+670
+<24-3,Ian>You've never given me a reason to doubt you.
+<24-3,Ian>你从未给过我怀疑你的理由
+
+673
+671
+<24-3,Ian>I'm an insecure idiot.
+<24-3,Ian>我是个缺乏安全感的白痴
+
+674
+672
+<24-3,Ian>I don't deserve you, Susan.
+<24-3,Ian>我配不上你  苏珊
+
+675
+673
+<24-3,Ian>But if you'll please keep pretending that I do,
+<24-3,Ian>但若你能假装我配得上你
+
+676
+674
+<24-3,Ian>I swear, I will not utter a single jealous word
+<24-3,Ian>我发誓  今后的生活中  我再也不会
+
+677
+675
+<24-3,Ian>for the rest of our lives together.
+<24-3,Ian>说一句吃醋的话
+
+678
+676
+<25-1,Answering Machine>Gabby, it's Victor.  What were you thinking?
+<25-1,Answering Machine>加布  是维克多 你想什么呢
+
+679
+677
+<25-1,Answering Machine>That little stunt of yours almost cost me the debate...
+<25-1,Answering Machine>你的即兴表演  害得我辩论差点失败
+
+680
+678
+<25-2,Answering Machine>It's me again. OK, I get it.
+<25-2,Answering Machine>又是我  好了  我明白了
+
+681
+679
+<25-2,Answering Machine>I forgot to call, and you were mad.
+<25-2,Answering Machine>我忘记给你打电话了  你很生气
+
+682
+680
+<25-2,Answering Machine>But still...
+<25-2,Answering Machine>可是...
+
+683
+681
+<25-3,Answering Machine>Hi, I hope you got the flowers.
+<25-3,Answering Machine>希望你收到花了
+
+684
+682
+<25-3,Answering Machine>Again, I'm so sorry for not calling.
+<25-3,Answering Machine>我再一次为没打电话道歉
+
+685
+683
+<25-4,Answering Machine>Gabby, come on.
+<25-4,Answering Machine>加布  别这样
+
+686
+684
+<25-4,Answering Machine>What's it gonna take for you to forgive me?
+<25-4,Answering Machine>要怎样你才肯原谅我
+
+687
+685
+<25-4,Answering Machine>I'll do anything you want.
+<25-4,Answering Machine>你让我做什么都行
+
+688
+686
+<25-5,Victor>I brought you some flowers.
+<25-5,Victor>我给你带了束花
+
+689
+687
+<25-5,Victor>In case the other three bouquets get lonely.
+<25-5,Victor>以防另外三束寂寞
+
+690
+688
+<25-6,Gabrielle>Thank you. You can go now.
+<25-6,Gabrielle>谢谢  你可以走了
+
+691
+689
+<25-6,Gabrielle>I don't want to take any more time out of your busy schedule.
+<25-6,Gabrielle>我可不想再浪费时间  被你排出日程表了
+
+692
+690
+<25-7,Victor>For god sake, Gaby.
+<25-7,Victor>看在上帝的份上  加布
+
+693
+691
+<25-7,Victor>How many times do I have to say I'm sorry?
+<25-7,Victor>我要说多少次对不起才行
+
+694
+692
+<25-7,Victor>What I did was thoughtless and inconsiderate.
+<25-7,Victor>我当时没考虑周全
+
+695
+693
+<25-8,Gabrielle>- Yes, it was.
+<25-8,Gabrielle>-是的 
+
+696
+693
+<25-9,Victor> But what you did was that vicious.
+<25-9,Victor>但你的做法充满恶意
+
+697
+694
+<25-10,Gabrielle>Trying to get your attention.
+<25-10,Gabrielle>想引起你注意罢了
+
+698
+695
+<25-11,Victor>By humiliating me in public?
+<25-11,Victor>通过羞辱我的方式吗
+
+699
+696
+<25-12,Gabrielle>Hey, you hurt me.
+<25-12,Gabrielle>你伤害了我
+
+700
+697
+<25-12,Gabrielle>If I have to strike back to protect myself...
+<25-12,Gabrielle>如果我不得不反击来保护自己...
+
+701
+698
+<25-13,Victor>That's what you think this is, combat?
+<25-13,Victor>你觉得我们在对战
+
+702
+699
+<25-14,Gabrielle>I have been taken for granted before,
+<25-14,Gabrielle>之前我就没有被珍惜
+
+703
+700
+<25-14,Gabrielle>I'm not going to let it happen again.
+<25-14,Gabrielle>我不会让这种事再次发生
+
+704
+701
+<25-14,Gabrielle>If I'm going to give myself to you, you better worship me!
+<25-14,Gabrielle>如果我要把自己交给你  你最好努力珍惜
+
+705
+702
+<25-15,Victor>And I will do that. Morning and evening services.
+<25-15,Victor>我会的  全天候服务
+
+706
+703
+<25-16,Gabrielle>Good.
+<25-16,Gabrielle>很好
+
+707
+704
+<25-17,Victor>But you have to stop treating this like
+<25-17,Victor>但你得停止把这当做
+
+708
+705
+<25-17,Victor>it's a boxing match only one of us can win.
+<25-17,Victor>只有一人能赢的拳击比赛
+
+709
+706
+<25-17,Victor>Maybe you haven't noticed, but I'm in love with you.
+<25-17,Victor>也许你没注意到  但我爱上你了
+
+710
+707
+<25-17,Victor>It would be nice if you'd take the gloves off and trust me.
+<25-17,Victor>也许你该摘下拳击手套  相信我
+
+711
+708
+<25-18,Gabrielle>You're in love with me?
+<25-18,Gabrielle>你爱上我了
+
+712
+709
+<26-10,Carlos>Yeah.
+<26-10,Carlos>是
+
+713
+710
+<25-19,Victor>My campaign, that's about winning.
+<25-19,Victor>我竞选  是为了获胜
+
+714
+711
+<25-19,Victor>This, you and me, it's about happiness.
+<25-19,Victor>但说到你和我  是为了幸福
+
+715
+712
+<25-19,Victor>And we could both use a little.
+<25-19,Victor>是属于我们两个人的
+
+716
+713
+<25-19,Victor>But maybe you need time to think about it.
+<25-19,Victor>也许你需要再想想
+
+717
+714
+<25-20,Gabrielle>Look, no gloves.
+<25-20,Gabrielle>看  没戴手套
+
+718
+715
+<26-1,Edie>Travers conked out the moment his head hit the pillow.
+<26-1,Edie>崔沃斯一沾到枕头就昏睡过去了
+
+719
+716
+<26-1,Edie>Poor little guy was beat.
+<26-1,Edie>可怜的小家伙今天累惨了
+
+720
+717
+<26-2,Carlos>Well, he should be. We covered every inch of that zoo.
+<26-2,Carlos>那当然  他走遍了动物园的每一处
+
+721
+718
+<26-2,Carlos>Oh, check this out. You and Travers at the monkey house.
+<26-2,Carlos>看这个  你和崔沃斯在猴园
+
+722
+719
+<26-3,Edie>Oh, I look squinty. Delete, delete!
+<26-3,Edie>我看起来跟斜眼似的  删掉删掉
+
+723
+720
+<26-4,Carlos>There's the one the pretzel guy took.
+<26-4,Carlos>这是卷饼兄拍的那张
+
+724
+721
+<26-5,Edie>Oh, look at the three of us. You have to e-mail me that one.
+<26-5,Edie>看看咱们三个  你得把这张发给我
+
+725
+722
+<26-6,Carlos>Isn't that great?
+<26-6,Carlos>是不是很棒
+
+726
+723
+<26-6,Carlos>You know, he thought that Travers had my eyes.
+<26-6,Carlos>你知道吗  他觉得崔沃斯眼睛像我
+
+727
+724
+<26-7,Edie>- Seriously?
+<26-7,Edie>-真的 
+
+728
+724
+<26-8,Carlos> He totally thought we were a family.
+<26-8,Carlos>他以为咱们是一家人
+
+729
+725
+<26-9,Edie>Oh, well, if we were,
+<26-9,Edie>如果这是真的
+
+730
+726
+<26-9,Edie>we'd be one hell of a good-Iooking one.
+<26-9,Edie>那我们一定是最漂亮的一家
+
+731
+727
+<26-10,Carlos>Yeah. Nothing better than family.
+<26-10,Carlos>是啊  没什么比家更棒了
+
+732
+728
+<27-1,Tom>And this time I really mean it.
+<27-1,Tom>这次我是真心的
+
+733
+729
+<27-2,Mrs. McCluskey>Yeah... Me, too.
+<27-2,Mrs. McCluskey>我也是
+
+734
+730
+<27-3,Tom>Well, are you gonna say anything?
+<27-3,Tom>你想说点什么吗
+
+735
+731
+<27-4,Mrs. McCluskey>To be honest, I've heard better apologies.
+<27-4,Mrs. McCluskey>说实话  你这道歉不算很有诚意
+
+736
+732
+<27-4,Mrs. McCluskey>But I know how hard this must have been for you,
+<27-4,Mrs. McCluskey>不过我知道这对你来说很难
+
+737
+733
+<27-4,Mrs. McCluskey>and that makes me happy.
+<27-4,Mrs. McCluskey>所以我很开心
+
+738
+734
+<27-4,Mrs. McCluskey>So I accept.
+<27-4,Mrs. McCluskey>接受道歉了
+
+739
+735
+<27-5,Tom>Thanks. That's big of you.
+<27-5,Tom>谢谢  你真伟大
+
+740
+736
+<27-6,Mrs. McCluskey>And it's big of you to admit you're a chucklehead.
+<27-6,Mrs. McCluskey>让你承认自己是个笨蛋  也很伟大
+
+741
+737
+<27-6,Mrs. McCluskey>I'll see you tomorrow.
+<27-6,Mrs. McCluskey>明天见
+
+742
+738
+<28-1,Mrs. McCluskey>Did you hear that, Gilbert? He apologized.
+<28-1,Mrs. McCluskey>听见了吗  盖尔伯特  他道歉了
+
+743
+739
+<28-1,Mrs. McCluskey>I mean, I know he did it just for her sake, but still.
+<28-1,Mrs. McCluskey>我知道他这么做  只是为了她  但还是...
+
+744
+740
+<28-1,Mrs. McCluskey>Maybe they have a good marriage after all.
+<28-1,Mrs. McCluskey>也许他们的婚姻生活还不错
+
+745
+741
+<28-1,Mrs. McCluskey>But they'll never have what we had.
+<28-1,Mrs. McCluskey>但他们永远不会像我们这么好
+
+746
+742
+<28-1,Mrs. McCluskey>Will they, Gilbert?
+<28-1,Mrs. McCluskey>对吧  盖尔伯特
+
+747
+743
+<28-1,Mrs. McCluskey>Not by a long shot.
+<28-1,Mrs. McCluskey>绝不可能
+
+748
+744
+<0-0,None><i>Passion</i>
+<0-0,None><i>热情</i>
+
+749
+745
+<28-2,Mary Alice Voiceover><i>It's a force so potent</i>
+<28-2,Mary Alice Voiceover><i>是一种很强大的力量</i>
+
+750
+746
+<0-0,None><i>we still remember it long after it's faded away.</i>
+<0-0,None><i>虽然它早已逝去  我们依然铭记于心</i>
+
+751
+747
+<0-0,None><i>A drive so alluring,</i>
+<0-0,None><i>如此的诱惑在驱使</i>
+
+752
+748
+<0-0,None><i>it can push us into the arms of unexpected lovers.</i>
+<0-0,None><i>能把我们推入意想不到的爱人的臂膀</i>
+
+753
+749
+<0-0,None><i>A sensation so overwhelming,</i>
+<0-0,None><i>它是如此势不可挡</i>
+
+754
+750
+<0-0,None><i>it can knock down walls we've built to protect our hearts.</i>
+<0-0,None><i>可以敲开我们的心防</i>
+
+755
+751
+<0-0,None><i>A feeling so intense,</i>
+<0-0,None><i>它是如此强烈</i>
+
+756
+752
+<0-0,None><i>it resurfaces even though we tried so hard</i>
+<0-0,None><i>即使我们努力掩饰</i>
+
+757
+753
+<0-0,None><i>to keep it buried.</i>
+<0-0,None><i>也会显现</i>
+
+758
+754
+<0-0,None><i>Yes, of all emotions,</i>
+<0-0,None><i>是的  在所有情绪当中</i>
+
+759
+755
+<0-0,None><i>passion is the one that gives us a reason to live...</i>
+<0-0,None><i>热情给予我们活下去的理由</i>
+
+760
+final
+<0-0,None><i>... and an excuse to commit all sorts of crimes.</i>
+<0-0,None><i>和掩盖所有罪行的借口</i>
+

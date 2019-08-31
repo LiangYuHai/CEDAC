@@ -1,0 +1,3155 @@
+1
+00:00:01,940 --> 00:00:05,460
+<2-1,Mary Alice Voiceover>the most successful private investigator in fairview
+<2-1,Mary Alice Voiceover>fairview最成功的私家侦探
+
+2
+00:00:05,460 --> 00:00:08,530
+<2-1,Mary Alice Voiceover>was a man named oliver weston.
+<2-1,Mary Alice Voiceover>是个叫Oliver Weston的
+
+3
+00:00:08,530 --> 00:00:10,030
+<2-1,Mary Alice Voiceover>Try though he might,
+<2-1,Mary Alice Voiceover>尽管Oliver很想记起
+
+4
+00:00:10,030 --> 00:00:14,620
+<2-1,Mary Alice Voiceover>oliver couldn't remember the exact moment he stopped believing in love.
+<2-1,Mary Alice Voiceover>但他还是不太记得 他从什么时候开始不相信爱情
+
+5
+00:00:15,700 --> 00:00:19,680
+<2-2,Mary Alice Voiceover>Was it the night he caught an executive cheating with his secretary?
+<2-2,Mary Alice Voiceover>是他发现主管和秘书发生关系的时候?
+
+6
+00:00:20,580 --> 00:00:25,000
+<2-3,Mary Alice Voiceover>or was it the day he saw a housewife cheating with her delivery boy?
+<2-3,Mary Alice Voiceover>还是看到家庭主妇和送报员偷情的时候?
+
+7
+00:00:26,830 --> 00:00:30,100
+<3-1,Mary Alice Voiceover>or was it the time he caught the girl next door
+<3-1,Mary Alice Voiceover>或是他发现隔壁的女孩
+
+8
+00:00:30,100 --> 00:00:34,030
+<3-1,Mary Alice Voiceover>cheating with the couple who lived across the street?
+<3-1,Mary Alice Voiceover>和对街的夫妻作爱的时候?
+
+9
+00:00:34,790 --> 00:00:36,080
+<3-2,Mary Alice Voiceover>whenever the moment,
+<3-2,Mary Alice Voiceover>每到这些时候
+
+10
+00:00:36,080 --> 00:00:39,490
+<3-2,Mary Alice Voiceover>oliver weston was now officially a cynic
+<3-2,Mary Alice Voiceover>Oliver Weston就变得愤世嫉俗
+
+11
+00:00:40,110 --> 00:00:43,670
+<3-3,Mary Alice Voiceover>who only believed in betrayal and suspicion.
+<3-3,Mary Alice Voiceover>只相信背叛和猜疑
+
+12
+00:00:43,670 --> 00:00:47,330
+<3-4,Mary Alice Voiceover>Luckily for oliver, that's what paid his bills.
+<3-4,Mary Alice Voiceover>不过很幸运的是 正是这些为他赚足了大把的钞票
+
+13
+00:00:47,330 --> 00:00:49,590
+<0-0,None>okay,you forgot fighting.
+<0-0,None>你忘了反抗
+
+14
+00:00:50,070 --> 00:00:51,610
+<3-6,Mike>What are you doing?
+<3-6,Mike>你在干什么?
+
+15
+00:00:52,480 --> 00:00:55,930
+<3-7,Oliver>Oh. Sorry,man. Are these your bushes?
+<3-7,Oliver>啊 对不起 先生 这矮木丛是你家的?
+
+16
+00:00:55,930 --> 00:00:58,590
+<3-7,Oliver>I'll clean that all up when I'm done. It'll be like i was not here.
+<3-7,Oliver>我走前会把它们清理干净 好像我没来过一样
+
+17
+00:00:59,230 --> 00:01:01,310
+<3-8,Mike>-You're done now.
+<3-8,Mike>- 你现在就完了
+
+18
+00:00:59,230 --> 00:01:01,310
+<3-9,Oliver>Whoa,easy,big fella.
+<3-9,Oliver> 哦 大个子 放松点
+
+19
+00:01:01,310 --> 00:01:03,670
+<3-9,Oliver>I'm just a P.I. Doing a domestic surveillance job.
+<3-9,Oliver>我只是个私家侦探 做家庭监视而已
+
+20
+00:01:03,670 --> 00:01:05,270
+<3-10,Mike>For who?
+<3-10,Mike>为谁做?
+
+21
+00:01:05,270 --> 00:01:07,450
+<3-11,Oliver>The blonde ly at the end of the street.
+<3-11,Oliver>住在街尾的一个金发女士
+
+22
+00:01:07,450 --> 00:01:10,230
+<3-12,Mike>-Edie britt?
+<3-12,Mike>-　Edie Britt?
+
+23
+00:01:07,450 --> 00:01:10,230
+<3-13,Oliver>Yeah. That's her fianc?
+<3-13,Oliver>　对 那是她的未婚夫
+
+24
+00:01:10,230 --> 00:01:13,010
+<3-14,Oliver>Apparently,he dumped her for another woman,
+<3-14,Oliver>很明显地 他跟另一个女人跑了
+
+25
+00:01:13,010 --> 00:01:14,940
+<3-14,Oliver>and I just figured out who.
+<3-14,Oliver>而我刚刚发现那个女人是谁
+
+26
+00:01:14,940 --> 00:01:16,340
+<0-0,None>San?
+<0-0,None>你说Susan?
+
+27
+00:01:16,340 --> 00:01:19,570
+<3-15,Mike>there's nothing going on there. They used to be married.
+<3-15,Mike>他们不是你想的那样 他们只是结过婚
+
+28
+00:01:19,570 --> 00:01:21,530
+<3-15,Mike>She's only talking to him because they have a kid together.
+<3-15,Mike>她会和他说话仅仅是因为他们有个孩子
+
+29
+00:01:21,530 --> 00:01:23,580
+<3-16,Oliver>From what I heard,they're on their way to kid number two.
+<3-16,Oliver>就我所了解的 他们正打算生第二个小孩呢
+
+30
+00:01:23,580 --> 00:01:25,120
+<3-17,Mike>Well,you don't know what you're talking about.
+<3-17,Mike>你简直在胡言乱语
+
+31
+00:01:25,120 --> 00:01:27,020
+<3-18,Oliver>Yeah,and you don't know these soccer moms like I do.
+<3-18,Oliver>那是因为你不如我这般 了解这些有孩子的女人
+
+32
+00:01:27,020 --> 00:01:29,300
+<3-18,Oliver>By day,they bake cookie and carpool.
+<3-18,Oliver>白天 她们做饼干 合伙乘车
+
+33
+00:01:29,300 --> 00:01:33,280
+<3-18,Oliver>But dim the lights and bam-- they turn into total pigs.
+<3-18,Oliver>但是到了晚上 她们就完全变成了婊子
+
+34
+00:01:33,790 --> 00:01:36,710
+<3-19,Mike>-she's not like that.
+<3-19,Mike>- 她不是那样的
+
+35
+00:01:33,790 --> 00:01:36,710
+<3-20,Oliver>Oh,please. Look at her.
+<3-20,Oliver> 哈 拜托 你看看她
+
+36
+00:01:37,710 --> 00:01:40,410
+<3-20,Oliver>That woman clearly knows her way around a mattress.
+<3-20,Oliver>那个女人知道她在床上该如何表现
+
+37
+00:01:43,960 --> 00:01:47,680
+<3-21,Mary Alice Voiceover>Yes,oliver weston had become a cynic,
+<3-21,Mary Alice Voiceover>正因为Oliver Weston 变成了一个愤世嫉俗者
+
+38
+00:01:47,680 --> 00:01:53,200
+<3-21,Mary Alice Voiceover>which is why he cldn't recognize a man who was still in love.
+<3-21,Mary Alice Voiceover>所以他没有发现这个男人还爱着Susan
+
+39
+00:01:58,065 --> 00:02:01,180
+<5-31,Lynette><font color="#ffff00">The Desperate Housewives Season 02  Episode I Know Things Now</font>
+<5-31,Lynette><font color="#ffff00">绝望的主妇 第2季 第21集 我终于知道了</font>
+
+40
+00:02:01,180 --> 00:02:05,165
+<3-22,Mary Alice Voiceover>Every family has a way of hiding what it doesn't want seen...
+<3-22,Mary Alice Voiceover>每个家庭都用自己的方法 掩藏不为人知的秘密…
+
+41
+00:02:06,840 --> 00:02:10,400
+<3-23,Mary Alice Voiceover>whether it's with a picture that covers a stain on the wall...
+<3-23,Mary Alice Voiceover>或者用张画来遮掩墙上的污点…
+
+42
+00:02:12,170 --> 00:02:16,420
+<3-24,Mary Alice Voiceover>or with a closet door that conceals the chaos inside...
+<3-24,Mary Alice Voiceover>或者用门来遮掩柜子里的杂乱...
+
+43
+00:02:17,990 --> 00:02:22,910
+<3-25,Mary Alice Voiceover>or with artificial smiles that mask years of pain and heartache,
+<3-25,Mary Alice Voiceover>或者用虚假的笑容 来掩饰长年的疼痛和心叹
+
+44
+00:02:24,090 --> 00:02:28,570
+<3-26,Mary Alice Voiceover>every family goes to great lengths to hide ugly truths.
+<3-26,Mary Alice Voiceover>每个家庭都煞费苦心 去隐藏那些丑陋的真相
+
+45
+00:02:28,870 --> 00:02:32,830
+<3-27,Mary Alice Voiceover>Some,of course, go further than others.
+<3-27,Mary Alice Voiceover>还有一些人会为此不择手段
+
+46
+00:02:40,740 --> 00:02:42,500
+<4-1,Matthew>So are you gonna do this tonight?
+<4-1,Matthew>你决定今天做?
+
+47
+00:02:42,500 --> 00:02:45,770
+<4-2,Betty>No,the ice cream is for tomorrow.
+<4-2,Betty>不 这些冰淇淋是明天的
+
+48
+00:02:46,640 --> 00:02:50,040
+<4-2,Betty>I'm taking caleb on a picnic to rockwater lake.
+<4-2,Betty>我打算带Caleb去Rockwater湖野餐
+
+49
+00:02:50,040 --> 00:02:52,700
+<4-2,Betty>I'm preparing all of his favorite foods.
+<4-2,Betty>我正准备他喜欢的食物
+
+50
+00:02:52,700 --> 00:02:55,480
+<4-3,Matthew>So when you're done, you're just gonna...
+<4-3,Matthew>那到时候 你就只是…
+
+51
+00:02:56,430 --> 00:02:58,320
+<4-3,Matthew>leave him lying there?
+<4-3,Matthew>让他躺在那里等死?
+
+52
+00:03:00,420 --> 00:03:01,990
+<0-0,None>No.
+<0-0,None>不
+
+53
+00:03:04,500 --> 00:03:07,470
+<4-4,Betty>I'll call 9-1-1 anonymously,
+<4-4,Betty>我会给911打匿名电话
+
+54
+00:03:07,470 --> 00:03:11,520
+<4-4,Betty>but I will be watching from a distance to make sure
+<4-4,Betty>我会在远处一直等到
+
+55
+00:03:11,520 --> 00:03:15,160
+<4-4,Betty>that... that they pick up his body.
+<4-4,Betty>…他们发现他的尸体
+
+56
+00:03:17,560 --> 00:03:19,390
+<4-5,Matthew>You know,mom, you don't have to do this.
+<4-5,Matthew>妈妈 你可以不用这么做的
+
+57
+00:03:19,390 --> 00:03:21,310
+<4-6,Betty>I won't let him hurt another girl,
+<4-6,Betty>我不会再让他伤害其他的女孩
+
+58
+00:03:21,310 --> 00:03:26,890
+<4-6,Betty>and I will not turn him over to people who will mock and abuse him.I just won'T.
+<4-6,Betty>而且我也不会把他 交给那些会嘲笑辱骂他的人 我不会
+
+59
+00:03:32,610 --> 00:03:37,550
+<4-7,Betty>His last day on this earth is going to be a perfect one.
+<4-7,Betty>他在这个世上的最后一天将会十分完美
+
+60
+00:03:43,080 --> 00:03:45,510
+<0-0,None>oh,no,thanks,xiao-mei.
+<0-0,None>不用了 谢谢你 晓梅
+
+61
+00:03:46,410 --> 00:03:48,930
+<5-1,Gabrielle>The poor thing. She was so attached to lily.
+<5-1,Gabrielle>真可怜 她太想念Lily了
+
+62
+00:03:48,930 --> 00:03:50,480
+<5-2,Susan>Where'd all this food come from?
+<5-2,Susan>这些食物是哪来的?
+
+63
+00:03:50,480 --> 00:03:52,940
+<5-3,Gabrielle>The people from carlos' church.
+<5-3,Gabrielle>Carlos教会的人送来的
+
+64
+00:03:52,940 --> 00:03:55,690
+<5-4,Lynette>So you think you and carlos will try for another adoption?
+<5-4,Lynette>现在你和Carlos准备再领养一个小孩吗?
+
+65
+00:03:55,690 --> 00:03:58,320
+<5-5,Gabrielle>I don't think I could go through that pain again.
+<5-5,Gabrielle>我想我可没法再经历一次这样的痛苦
+
+66
+00:03:58,880 --> 00:04:02,730
+<5-5,Gabrielle>I did freeze some of my eggs,so we might do the surrogacy thing,but I don't know.
+<5-5,Gabrielle>不过我已经冰冻了一些卵子 可能我们会用代孕的方式 但我也不清楚
+
+67
+00:04:02,730 --> 00:04:04,750
+<5-6,Bree>Honey,you've got to eat something.
+<5-6,Bree>亲爱的 你需要吃点东西
+
+68
+00:04:04,750 --> 00:04:06,500
+<5-7,Gabrielle>I don't have an appetite.
+<5-7,Gabrielle>我没胃口
+
+69
+00:04:06,500 --> 00:04:09,220
+<5-7,Gabrielle>In fact,this is all gonna go to waste. You guys should take something.
+<5-7,Gabrielle>其实这些东西最终还是进垃圾桶 你们应该吃点
+
+70
+00:04:09,220 --> 00:04:12,260
+<5-8,Lynette>-No,no,you should keep it.
+<5-8,Lynette>- 不 不 不 你应该自己留着吃
+
+71
+00:04:09,220 --> 00:04:12,260
+<5-9,Edie>I'll take a couple.
+<5-9,Edie> 好 我带一些回去
+
+72
+00:04:15,150 --> 00:04:16,650
+<5-52,Andrew>What?
+<5-52,Andrew>怎么了?
+
+73
+00:04:16,650 --> 00:04:20,600
+<5-10,Edie>Karl dumped me,so I'm alone. Food fills the void.
+<5-10,Edie>Karl抛弃我了 我现在很寂寞 食物可以填补空虚
+
+74
+00:04:23,540 --> 00:04:28,060
+<5-11,Gabrielle>xiao-mei,I appreciate your grief,but,really,you're bringing everybody down.Will you pull it together?
+<5-11,Gabrielle>晓梅 我很感激你这么难过 但是你这样让大家都心情不好 你别这样
+
+75
+00:04:28,060 --> 00:04:30,150
+<5-12,Xiao-Mei>Mrs. Solis...
+<5-12,Xiao-Mei>Solis夫人...
+
+76
+00:04:33,750 --> 00:04:36,170
+<5-13,Gabrielle>I don't understand. It's from the government.
+<5-13,Gabrielle>我不太理解 政府机关的
+
+77
+00:04:36,170 --> 00:04:37,560
+<5-22,Tom>Let me see.
+<5-22,Tom>让我看看
+
+78
+00:04:38,540 --> 00:04:40,630
+<6-20,Susan>Gaby, she's being deported.
+<6-20,Susan>Gaby 政府要驱逐她出境
+
+79
+00:04:40,630 --> 00:04:43,650
+<5-14,Lynette>Xiao-mei,is this the first letter like this you've received?
+<5-14,Lynette>晓梅 这是你第一次收到这种信件吗?
+
+80
+00:04:50,460 --> 00:04:52,490
+<5-15,Gabrielle>oh,my... this can't be happening.
+<5-15,Gabrielle>哦 天啊 这决不可能发生
+
+81
+00:04:52,490 --> 00:04:54,660
+<5-16,Xiao-Mei>I can't go home!
+<5-16,Xiao-Mei>我不能回去!
+
+82
+00:04:54,660 --> 00:04:56,760
+<5-16,Xiao-Mei>My unclewill sell me again.
+<5-16,Xiao-Mei>我叔叔会再次把我卖掉的
+
+83
+00:04:56,850 --> 00:04:59,330
+<5-17,Gabrielle>Oh,no,no,xiao-mei, you're not going anywhere.
+<5-17,Gabrielle>不不不  晓梅 你不会被赶走的 你放心
+
+84
+00:04:59,330 --> 00:05:01,370
+<5-17,Gabrielle>Hey,you're much too iortant to carlos and me.
+<5-17,Gabrielle>你对Carlos和我来说太重要了
+
+85
+00:05:01,370 --> 00:05:03,540
+<5-17,Gabrielle>We're gonna fight this and we're gonna win.
+<5-17,Gabrielle>我们要反抗而且我们会成功的
+
+86
+00:05:03,540 --> 00:05:05,980
+<5-18,Bree>Gaby,you can't promise her that.
+<5-18,Bree>Gaby 你不能给她这样的承诺
+
+87
+00:05:06,220 --> 00:05:11,310
+<5-19,Gabrielle>Bree,you heard what she said.I can't let this poor kid go back to china and become someone's slave.
+<5-19,Gabrielle>Bree 你都听到她说的了 我绝对不能让她回中国 变成别人的奴隶
+
+88
+00:05:11,770 --> 00:05:13,450
+<5-20,Xiao-Mei>Thank you.
+<5-20,Xiao-Mei>谢谢你
+
+89
+00:05:15,050 --> 00:05:17,510
+<5-21,Gabrielle>All right. Look,my friends wanna take some of this to go,
+<5-21,Gabrielle>没事的 来 我的朋友们要带这些回去
+
+90
+00:05:17,510 --> 00:05:20,460
+<5-21,Gabrielle>so pack it up,and we're a little low on coffee.
+<5-21,Gabrielle>把它打包 还有给我们再来点咖啡
+
+91
+00:05:27,220 --> 00:05:29,530
+<5-22,Tom>you're actually gonna let me eat this?
+<5-22,Tom>你真的让我吃这个?
+
+92
+00:05:29,530 --> 00:05:33,310
+<5-23,Lynette>Well,you've been working so hard, off on business trips all the time.
+<5-23,Lynette>你工作那么辛苦 天天都在外面工作
+
+93
+00:05:33,310 --> 00:05:37,340
+<5-23,Lynette>Tonight,we throw caution and cholesterol to the wind.
+<5-23,Lynette>所以今晚 我们把健康警示 和胆固醇都扔到脑后
+
+94
+00:05:37,640 --> 00:05:39,970
+<5-23,Lynette>you deserve a little comfort food.
+<5-23,Lynette>你应该吃一些好吃的东西
+
+95
+00:05:41,190 --> 00:05:43,210
+<5-24,Tom>Oh,no,you're pregnant.
+<5-24,Tom>不对 你肯定别有用心
+
+96
+00:05:43,780 --> 00:05:46,460
+<5-25,Lynette>God,your mind goes to dark places.
+<5-25,Lynette>上帝啊 你想歪了
+
+97
+00:05:46,460 --> 00:05:50,070
+<5-26,Tom>Honey,you just served me a plate of full-fat gouda.
+<5-26,Tom>亲爱的 你刚刚给了我一盘全脂的奶酪
+
+98
+00:05:50,070 --> 00:05:51,510
+<6-1,Susan>What's up?
+<6-1,Susan>到底怎么了?
+
+99
+00:05:51,510 --> 00:05:53,940
+<0-0,None>Okay,well...
+<0-0,None>恩…
+
+100
+00:05:55,200 --> 00:05:58,380
+<5-27,Lynette>remember I was helping ed spark up his love life?
+<5-27,Lynette>你记得我曾帮Ed点燃他爱情的火花吧?
+
+101
+00:05:58,380 --> 00:06:00,750
+<5-28,Tom>Yeah,you sent his wife those sexy I.M.S. Why?
+<5-28,Tom>记得 你给他老婆发了一些黄段子 怎么了?
+
+102
+00:06:01,320 --> 00:06:05,770
+<5-29,Lynette>Well,fran found out that ed didn't send them, and she blew her top.
+<5-29,Lynette>Fran发现了那不是Ed发的 而且她十分生气
+
+103
+00:06:05,770 --> 00:06:08,570
+<5-29,Lynette>She wants the responsible party fired,
+<5-29,Lynette>她要把始作俑者解雇了
+
+104
+00:06:08,570 --> 00:06:11,530
+<5-29,Lynette>and ed lied and told her...
+<5-29,Lynette>Ed撒了个谎 告诉她
+
+105
+00:06:12,840 --> 00:06:14,430
+<5-29,Lynette>that you sent them.
+<5-29,Lynette>是你发的
+
+106
+00:06:14,430 --> 00:06:16,370
+<5-30,Tom>But--but it wasn't me. It was you.
+<5-30,Tom>但是 那不是我发的啊 是你啊
+
+107
+00:06:16,370 --> 00:06:17,780
+<5-31,Lynette>I know.
+<5-31,Lynette>我知道
+
+108
+00:06:18,390 --> 00:06:20,340
+<5-32,Tom>Oh,oh,but ed couldn't possibly lose you.
+<5-32,Tom>哦 但是Ed不能失去你的帮助
+
+109
+00:06:20,340 --> 00:06:23,080
+<5-32,Tom>No,no,no, I'm the expendable one.
+<5-32,Tom>而我就成了牺牲品
+
+110
+00:06:23,080 --> 00:06:27,110
+<5-33,Lynette>Look,I know it's ridiculous, but ed is not a rational person.
+<5-33,Lynette>我知道它听起来有点荒谬 但是Ed本来就不是个理智的人
+
+111
+00:06:27,110 --> 00:06:32,310
+<5-33,Lynette>Fran has him whipped,and a whipped husband is someone we must take very seriously.
+<5-33,Lynette>Fran让他很痛苦 而对付一个 受尽折磨的丈夫 我们需要加倍小心
+
+112
+00:06:34,440 --> 00:06:35,730
+<7-5,Gabrielle>Okay.
+<7-5,Gabrielle>好
+
+113
+00:06:37,430 --> 00:06:39,940
+<5-34,Tom>-How do we handle this?
+<5-34,Tom>- 我们现在要怎么办?
+
+114
+00:06:37,430 --> 00:06:39,940
+<5-35,Lynette>You're under contract.
+<5-35,Lynette> 你们是签了合同的
+
+115
+00:06:39,940 --> 00:06:42,940
+<5-35,Lynette>Ed can't fire you unless he has just cause.
+<5-35,Lynette>Ed 如果没有正当理由是不能解雇你的
+
+116
+00:06:42,940 --> 00:06:46,630
+<5-35,Lynette>So until this blows over, you have to be a model employee.
+<5-35,Lynette>所以在这件事情结束之前 你必须成为一个模范员工
+
+117
+00:06:46,630 --> 00:06:49,670
+<5-35,Lynette>Show up on time, no more 3-martini lunches,
+<5-35,Lynette>准时上班 中午不喝三杯以上的马提尼
+
+118
+00:06:49,670 --> 00:06:53,050
+<5-35,Lynette>d above all, have ready all your presentations.
+<5-35,Lynette>最重要的 准备好你所有的演讲
+
+119
+00:06:53,050 --> 00:06:55,850
+<5-36,Tom>I can't believe i'm being victimized like this.
+<5-36,Tom>我简直不敢相信我会这样被牺牲掉
+
+120
+00:06:55,850 --> 00:06:57,930
+<6-10,Oliver>Well,honey, in all fairness...
+<6-10,Oliver>亲爱的 公平来说...
+
+121
+00:06:57,930 --> 00:07:00,940
+<5-37,Lynette>those are all things you should be doing anyway.
+<5-37,Lynette>这些本来就是你应该做的
+
+122
+00:07:01,500 --> 00:07:03,130
+<5-38,Tom>Fine!
+<5-38,Tom>好!
+
+123
+00:07:12,620 --> 00:07:16,420
+<5-39,Bree>Andrew,I am having peter over for dinner tomorrow night,
+<5-39,Bree>Andrew 我邀请了Peter 明天晚上过来吃晚饭
+
+124
+00:07:16,420 --> 00:07:19,520
+<5-39,Bree>and I was wondering if you would like to invite justin?
+<5-39,Bree>你要不要邀请Justin来?
+
+125
+00:07:19,940 --> 00:07:23,140
+<5-40,Andrew>Yeah. Um,thanks. I'll--I'll call him tonight.
+<5-40,Andrew>好 谢谢 我晚上给他电话
+
+126
+00:07:23,140 --> 00:07:26,670
+<5-41,Danielle>Since you two are having your boyfriends over, can I invite matthew?
+<5-41,Danielle>你们都把男朋友带回来了 我是不是也可以邀请Matthew?
+
+127
+00:07:26,670 --> 00:07:29,280
+<5-42,Bree>-Out of the question.
+<5-42,Bree>- 不可能
+
+128
+00:07:26,670 --> 00:07:29,280
+<5-43,Danielle>So let me get this straight--
+<5-43,Danielle> 让我们说明白点吧
+
+129
+00:07:29,280 --> 00:07:34,230
+<5-43,Danielle>you can date a lush,and he can bring over his gay lover,but god forbid i date a hot black guy.
+<5-43,Danielle>你能和酒鬼好 他能带同性恋人回家 但是我就不能和性感的黑人约会？
+
+130
+00:07:34,230 --> 00:07:37,400
+<5-44,Bree>Until they lock caleb up, I don't want you anywhere near that family.
+<5-44,Bree>在他们把Caleb关起来之前 我不希望你接近他们
+
+131
+00:07:37,400 --> 00:07:42,040
+<5-45,Andrew>His brother tried to rape you,and his mother keeps the guy locked up in a basement.
+<5-45,Andrew>他兄弟要强暴你 而他妈妈又把他关在地下室
+
+132
+00:07:42,040 --> 00:07:45,210
+<5-45,Andrew>I mean,let's face it,danielle, even you could do better.
+<5-45,Andrew>我的意思是 Danielle 你品位再怎么差也不应该找这样的人吧
+
+133
+00:07:45,210 --> 00:07:47,660
+<5-46,Danielle>Since when do you take mom's side over mine?
+<5-46,Danielle>什么时候开始你和妈妈一起讨伐我了?
+
+134
+00:07:47,660 --> 00:07:51,150
+<5-47,Bree>Your brother and I had a talk, and we've come to a d閠ente of sorts.
+<5-47,Bree>你哥哥和我谈过了 而最后我们握手言和了
+
+135
+00:07:51,150 --> 00:07:54,180
+<5-48,Danielle>Really? Even after she screwed you out of your trust fund?
+<5-48,Danielle>真的? 在她让你失去信托基金后?
+
+136
+00:07:54,180 --> 00:07:57,340
+<5-49,Bree>Well,he did falsely accuse me of child abuse.
+<5-49,Bree>他也误告我虐待儿童
+
+137
+00:07:57,340 --> 00:08:00,030
+<5-49,Bree>I would say we're even. Wouldn't you,andrew?
+<5-49,Bree>我们现在很好 对吧 Andrew?
+
+138
+00:08:00,030 --> 00:08:02,670
+<5-50,Andrew>Sure,mom. We're even.
+<5-50,Andrew>当然 妈妈 我们很好
+
+139
+00:08:07,350 --> 00:08:09,990
+<5-51,Danielle>you can stop smiling now. I know your face is tired.
+<5-51,Danielle>你可以不用笑了 我知道你笑得快僵了
+
+140
+00:08:09,990 --> 00:08:12,360
+<5-52,Andrew>-What?
+<5-52,Andrew>- 什么?
+
+141
+00:08:09,990 --> 00:08:12,360
+<5-53,Danielle>I'm not stupid.
+<5-53,Danielle> 我并不笨
+
+142
+00:08:12,360 --> 00:08:14,460
+<5-53,Danielle>I know you hate her now as much as ever.
+<5-53,Danielle>我知道你和以前一样讨厌她
+
+143
+00:08:14,460 --> 00:08:17,800
+<5-54,Andrew>Mom and I are in a good place right now. Why can't you believe that?
+<5-54,Andrew>妈妈和我现在关系很好 你为什么就不相信呢?
+
+144
+00:08:20,840 --> 00:08:23,580
+<6-1,Susan>Hi. I got your message. What's up?
+<6-1,Susan>诶 我收到了你的留言 怎么了?
+
+145
+00:08:23,580 --> 00:08:25,340
+<6-2,Mike>Come on in.
+<6-2,Mike>进来吧
+
+146
+00:08:26,570 --> 00:08:28,450
+<6-2,Mike>This is oliver weston.
+<6-2,Mike>这是Oliver Weston
+
+147
+00:08:28,880 --> 00:08:30,880
+<6-2,Mike>He's a P.I. Edie hired.
+<6-2,Mike>他是私家侦探 Edie雇的
+
+148
+00:08:30,880 --> 00:08:33,250
+<6-3,Susan>Edie hired A... P.I.?
+<6-3,Susan>Edie雇了... 私家侦探？
+
+149
+00:08:33,250 --> 00:08:35,680
+<6-4,Mike>Yeah. He's been spying on you and karl.
+<6-4,Mike>对 他正在暗中监视你和Karl
+
+150
+00:08:35,680 --> 00:08:36,950
+<6-5,Susan>How you doing?
+<6-5,Susan>过得怎么样?
+
+151
+00:08:36,950 --> 00:08:38,710
+<6-6,Mike>He thinks you two have been having an affair.
+<6-6,Mike>他认为你们俩正在交往
+
+152
+00:08:38,710 --> 00:08:40,590
+<6-7,Susan>Me and karl?
+<6-7,Susan>我和Karl?
+
+153
+00:08:41,440 --> 00:08:43,550
+<6-7,Susan>Why would you think that?
+<6-7,Susan>你为什么那么认为呢??
+
+154
+00:08:44,280 --> 00:08:47,700
+<6-28,Oliver>come on,suze. You know we're meant to be together.
+<6-28,Oliver>拜托 Susan 你明知道我们是应该在一起的
+
+155
+00:08:47,700 --> 00:08:49,810
+<6-7,Susan>karl,just stop.
+<6-7,Susan>Karl 别说了
+
+156
+00:08:49,810 --> 00:08:54,910
+<6-8,Susan>Well... that is karl being nostalgic.
+<6-8,Susan>那… 那是Karl在怀旧
+
+157
+00:08:54,910 --> 00:08:59,200
+<6-9,Susan>you said yourself, the sex last week was the best you ever had.
+<6-9,Susan>你自己说上个星期 做爱真是前所未有的美妙
+
+158
+00:09:00,480 --> 00:09:02,250
+<0-0,None>okay,um...
+<0-0,None>恩…
+
+159
+00:09:03,570 --> 00:09:06,340
+<6-9,Susan>first of all, it was not the best sex I ever had.
+<6-9,Susan>首先 那不是我所经历的最美妙的一次
+
+160
+00:09:06,340 --> 00:09:08,400
+<6-9,Susan>I just said that to make him feel better.
+<6-9,Susan>我那么说仅仅是希望让他心里舒服点
+
+161
+00:09:08,400 --> 00:09:11,070
+<6-9,Susan>obviously,you were the best sex I ever had.
+<6-9,Susan>和你做的那次才是最美妙的
+
+162
+00:09:11,070 --> 00:09:13,250
+<6-10,Oliver>That explains the punch in the face.
+<6-10,Oliver>难怪你会打我
+
+163
+00:09:13,250 --> 00:09:16,380
+<6-11,Mike>-I'm gonna hit you again if you don't shut up.
+<6-11,Mike>- 闭上你的嘴 否则我会再给你一拳
+
+164
+00:09:13,250 --> 00:09:16,380
+<6-12,Susan>I know that this looks bad--
+<6-12,Susan> 我知道这看上去很糟
+
+165
+00:09:16,380 --> 00:09:19,490
+<6-13,Mike>you were actually fooling around with karl behind edie's back.
+<6-13,Mike>但你真的是Karl和Edie的第三者
+
+166
+00:09:19,490 --> 00:09:23,460
+<6-14,Susan>No,no,no!No,karl lied to me. He told me that he and edie had split up before--
+<6-14,Susan>不不不! Karl对我撒了谎 他告诉我 他和Edie在这之前已经分手了
+
+167
+00:09:23,460 --> 00:09:25,190
+<6-15,Mike>you know what? I don't even care.
+<6-15,Mike>你知道吗? 我并不想听这些
+
+168
+00:09:25,190 --> 00:09:26,760
+<6-16,Susan>-Mike...
+<6-16,Susan>- Mike...
+
+169
+00:09:25,190 --> 00:09:26,760
+<6-17,Oliver>are we done here?
+<6-17,Oliver> 现在我们结束了吗?
+
+170
+00:09:26,760 --> 00:09:28,860
+<6-18,Mike>yeah.
+<6-18,Mike>对
+
+171
+00:09:29,730 --> 00:09:31,780
+<6-19,Mike>Good night,susan.
+<6-19,Mike>晚安 Susan
+
+172
+00:09:33,730 --> 00:09:36,450
+<6-20,Susan>hey! Hey,you, wait,wait,wait. Um...
+<6-20,Susan>喂! 你 等等 等等
+
+173
+00:09:37,470 --> 00:09:39,980
+<6-20,Susan>okay,you cannot tell edie about this.
+<6-20,Susan>你把这些告诉Edie
+
+174
+00:09:39,980 --> 00:09:42,110
+<6-20,Susan>Whatever she's paying you, I'll pay you double.
+<6-20,Susan>不管她给了你什么 我都双倍给你
+
+175
+00:09:42,110 --> 00:09:44,660
+<6-21,Oliver>She paid a 2-grand retainer plus expenses.
+<6-21,Oliver>她给我2000美元外加开支
+
+176
+00:09:44,660 --> 00:09:46,470
+<0-0,None>$2,000?
+<0-0,None>2,000？
+
+177
+00:09:46,470 --> 00:09:49,560
+<6-22,Susan>Jeez! I gotta get into real estate.
+<6-22,Susan>啊! 早知道我也搞房地产了
+
+178
+00:09:49,560 --> 00:09:52,210
+<6-22,Susan>Okay,I don't have that kind of cash.
+<6-22,Susan>恩 我没有那么多现金
+
+179
+00:09:52,210 --> 00:09:55,270
+<6-23,Oliver>Well,then,I guess i take the tape to miss britt.
+<6-23,Oliver>那么 我想我还是把磁带给Britt小姐吧
+
+180
+00:09:57,970 --> 00:10:00,350
+<6-24,Oliver>I have a copy!
+<6-24,Oliver>我还有备份！
+
+181
+00:10:08,520 --> 00:10:10,690
+<6-25,Susan>okay, let's try this another way.
+<6-25,Susan>好 我这么跟你说吧
+
+182
+00:10:10,690 --> 00:10:14,440
+<6-25,Susan>You are about to unleash a nuclear explosion.
+<6-25,Susan>你现在正要释放一个原子弹
+
+183
+00:10:14,440 --> 00:10:17,540
+<6-25,Susan>Lives are going to be ruined.
+<6-25,Susan>生命即将被毁灭
+
+184
+00:10:17,540 --> 00:10:21,250
+<6-26,Oliver>I'll tell you what.I'll hold off till monday to report to ms. Britt.
+<6-26,Oliver>要不这么办吧 我把磁带保留到 星期一再交给Britt小姐
+
+185
+00:10:21,250 --> 00:10:24,450
+<6-28,Oliver>That'll give you some time to scrape together a little cash.
+<6-28,Oliver>给你多一些时间去筹集现金
+
+186
+00:10:24,450 --> 00:10:26,480
+<6-29,Susan>What if I can't?
+<6-29,Susan>那如果到时候 我还是没有那么多钱呢?
+
+187
+00:10:37,720 --> 00:10:41,410
+<6-30,Officer>I'm sorry,but xiao-mei missed all of her appeal deadlines.
+<6-30,Officer>很抱歉 但是晓梅错过了 她所有上诉的机会
+
+188
+00:10:41,410 --> 00:10:44,650
+<6-31,Carlos>So tt's it? You're just gonna send her back to china?
+<6-31,Carlos>就这样了? 你们就要把她送回中国了?
+
+189
+00:10:44,650 --> 00:10:46,410
+<6-31,Carlos>My hands are tied.
+<6-31,Carlos>我也无能为力
+
+190
+00:10:46,410 --> 00:10:49,120
+<6-31,Carlos>If your maid were married to an american citizen,
+<6-31,Carlos>如果你们的女仆和一个美国公民结婚
+
+191
+00:10:49,120 --> 00:10:52,270
+<6-31,Carlos>or had a child who was an american citizen,
+<6-31,Carlos>或者有一个成为美国公民的小孩
+
+192
+00:10:52,270 --> 00:10:54,500
+<6-31,Carlos>or if she were a well-known entertainer...
+<6-31,Carlos>或者她是一个著名的演艺人员...
+
+193
+00:10:55,820 --> 00:10:59,370
+<6-31,Carlos>what if she was pregnant with an american citizen?
+<6-31,Carlos>如果她怀了一个美国公民的孩子呢?
+
+194
+00:11:04,490 --> 00:11:06,110
+<0-0,None>Uh,xiao-mei?
+<0-0,None>晓梅？
+
+195
+00:11:06,750 --> 00:11:09,710
+<7-1,Gabrielle>we spoke to homeland security,
+<7-1,Gabrielle>我们跟国土安全部谈了
+
+196
+00:11:09,710 --> 00:11:11,300
+<7-1,Gabrielle>and we have good news!
+<7-1,Gabrielle>有个好消息!
+
+197
+00:11:11,300 --> 00:11:13,190
+<7-2,Xiao-Mei>I can stay?
+<7-2,Xiao-Mei>我可以留下来?
+
+198
+00:11:14,340 --> 00:11:15,300
+<7-4,Xiao-Mei>Oh! thank you!
+<7-4,Xiao-Mei>哦! 太感谢了!
+
+199
+00:11:15,300 --> 00:11:17,110
+<7-5,Gabrielle>-Oh! Okay.
+<7-5,Gabrielle>- 好
+
+200
+00:11:15,300 --> 00:11:17,110
+<7-6,Xiao-Mei>Thank you!
+<7-6,Xiao-Mei> 谢谢!
+
+201
+00:11:17,920 --> 00:11:20,900
+<7-7,Gabrielle>Uh... well, there's just one little thing...
+<7-7,Gabrielle>恩... 但是有一件小事…
+
+202
+00:11:21,950 --> 00:11:24,580
+<7-7,Gabrielle>the immigration laws have gotten really tough in this country,
+<7-7,Gabrielle>移民法现在越来越严了
+
+203
+00:11:24,580 --> 00:11:26,900
+<7-7,Gabrielle>so we're a little behind the eight ball going in.
+<7-7,Gabrielle>我们所面临的情况并不好
+
+204
+00:11:26,900 --> 00:11:30,360
+<7-7,Gabrielle>But we pled your case, and we fought tooth and nail,
+<7-7,Gabrielle>但是我们为你的情况进行了辩护和努力
+
+205
+00:11:30,360 --> 00:11:33,110
+<7-7,Gabrielle>and the law says you can stay...
+<7-7,Gabrielle>最后的结论是你可以留下来…
+
+206
+00:11:33,110 --> 00:11:35,640
+<7-7,Gabrielle>but only if you have our baby.
+<7-7,Gabrielle>但是要生我们的小孩
+
+207
+00:11:36,240 --> 00:11:37,240
+<7-8,Xiao-Mei>what?
+<7-8,Xiao-Mei>什么?
+
+208
+00:11:37,240 --> 00:11:42,460
+<7-9,Carlos>The agent said that if you were... pregnant with an american citizen,
+<7-9,Carlos>国土安全部的人说如果… 你怀上美国公民的孩子
+
+209
+00:11:42,740 --> 00:11:44,530
+<7-9,Carlos>then they couldn't deport you.
+<7-9,Carlos>那么他们就不能驱逐你出境
+
+210
+00:11:44,530 --> 00:11:49,380
+<7-10,Gabrielle>So we thought,you need a baby in your belly, we need a surrogate...
+<7-10,Gabrielle>所以我们认为 你需要怀一个孩子 而我们需要一个代孕者...
+
+211
+00:11:49,380 --> 00:11:51,960
+<0-0,None>win-win-win.
+<0-0,None>对大家都有好处
+
+212
+00:11:53,460 --> 00:11:54,980
+<7-11,Xiao-Mei>"sur-ro-gate"?
+<7-11,Xiao-Mei>代孕?
+
+213
+00:11:54,980 --> 00:11:57,690
+<7-12,Gabrielle>Oh,well, it would be our baby.
+<7-12,Gabrielle>对 那是我们的孩子
+
+214
+00:11:57,690 --> 00:12:01,120
+<7-12,Gabrielle>It would just be growing inside of you.
+<7-12,Gabrielle>她会在你的子宫中长大
+
+215
+00:12:01,960 --> 00:12:03,020
+<7-13,Xiao-Mei>I...
+<7-13,Xiao-Mei>我...
+
+216
+00:12:03,020 --> 00:12:05,350
+<7-14,Gabrielle>okay,uh... well...
+<7-14,Gabrielle>恩...
+
+217
+00:12:06,030 --> 00:12:07,390
+<7-19,Gabrielle>Okay,it's like this...
+<7-19,Gabrielle>是这样的...
+
+218
+00:12:07,390 --> 00:12:10,980
+<7-14,Gabrielle>the three of us are making your famous szechuan dumplings,
+<7-14,Gabrielle>我们三个就好像在做你最拿手的饺子
+
+219
+00:12:11,180 --> 00:12:13,640
+<7-14,Gabrielle>and I'm the dough,
+<7-14,Gabrielle>我是生面团
+
+220
+00:12:13,640 --> 00:12:16,690
+<7-14,Gabrielle>and carlos is the pork,
+<7-14,Gabrielle>Carlos是饺子馅
+
+221
+00:12:16,690 --> 00:12:19,250
+<7-14,Gabrielle>and you're the oven.
+<7-14,Gabrielle>而你是烤箱
+
+222
+00:12:22,740 --> 00:12:24,990
+<7-15,Xiao-Mei>-I have baby?!
+<7-15,Xiao-Mei>- 我生孩子?!
+
+223
+00:12:22,740 --> 00:12:24,990
+<7-16,Carlos>Okay,we take care of everything.
+<7-16,Carlos> 是的 我们会处理好所有的事情
+
+224
+00:12:24,990 --> 00:12:30,090
+<7-16,Carlos>You know,uh,hospital bills and maternity clothes and lamaze classes.
+<7-16,Carlos>恩 医疗费用 孕妇装备 助产班
+
+225
+00:12:30,090 --> 00:12:32,740
+<7-16,Carlos>And,of course,you wouldn't have to do any work.
+<7-16,Carlos>当然 你也不用再做任何工作了
+
+226
+00:12:33,430 --> 00:12:36,950
+<7-17,Gabrielle>well,uh,maybe just a little light dusting. Nothing major.
+<7-17,Gabrielle>对 可能会要做一些打扫 不会有什么重活
+
+227
+00:12:38,250 --> 00:12:40,650
+<7-18,Xiao-Mei>-No!
+<7-18,Xiao-Mei>- 不!
+
+228
+00:12:38,250 --> 00:12:40,650
+<7-19,Gabrielle>No,xiao-mei,you don't have a choice.
+<7-19,Gabrielle> 不 晓梅 你没得选择的
+
+229
+00:12:40,650 --> 00:12:43,170
+<7-19,Gabrielle>It's either this or go back to china.
+<7-19,Gabrielle>要么照我们说的做 要么就回中国
+
+230
+00:12:43,170 --> 00:12:45,820
+<7-20,Xiao-Mei>No to baby! No!
+<7-20,Xiao-Mei>不生孩子! 不!
+
+231
+00:12:51,950 --> 00:12:54,460
+<7-21,Carlos>had to push the dusting, didn't you?
+<7-21,Carlos>你要自己打扫了 是吗?
+
+232
+00:12:56,930 --> 00:12:59,260
+<8-1,Bree>peter,I don't think i'm being unreasonable here.
+<8-1,Bree>Peter 我觉得我没做错什么
+
+233
+00:12:59,260 --> 00:13:02,340
+<8-2,Peter>It's not like I'gonna advertise my addiction history,
+<8-2,Peter>我不是要到处炫耀我的恶习史
+
+234
+00:13:02,340 --> 00:13:06,010
+<8-2,Peter>but if your kids ask a direct question, I'm not gonna lie to them.
+<8-2,Peter>如果你的孩子直接问我 我不会对他们撒谎的
+
+235
+00:13:07,030 --> 00:13:10,330
+<7-1,Gabrielle>Right! Uh-huh. Good point.
+<7-1,Gabrielle>对! 恩 说的好
+
+236
+00:13:12,440 --> 00:13:15,310
+<8-3,Bree>listen,I don't expect you to lie about the alcoholism.
+<8-3,Bree>听好了 我不是让你为酗酒这件事对他们撒谎
+
+237
+00:13:15,310 --> 00:13:18,820
+<8-3,Bree>I mean,they know that's how we met. It's just...you know,the other thing.
+<8-3,Bree>他们都知道我们是怎么认识的 我指的是…另外那件事
+
+238
+00:13:18,820 --> 00:13:21,560
+<8-4,Peter>Oh! The other thing.
+<8-4,Peter>哦! 另外那件事
+
+239
+00:13:21,560 --> 00:13:25,410
+<8-5,Bree>They're just getting to know you,and so I want them to focus on your good qualities.
+<8-5,Bree>他们才认识你 所以我希望他们只看到你的好
+
+240
+00:13:25,410 --> 00:13:29,840
+<8-5,Bree>I just don't know how they'll react if they find out that you're a sex addict.
+<8-5,Bree>我只是不知道如果他们知道 你是沉迷性爱的人后会有什么反应
+
+241
+00:13:33,200 --> 00:13:35,360
+<9-1,Danielle>What are you so happy about?
+<9-1,Danielle>你怎么这么高兴?
+
+242
+00:13:35,770 --> 00:13:39,210
+<9-2,Andrew>You know how you were mad at mom about not letting matthew come to dinner?
+<9-2,Andrew>妈妈不让你邀请Matthew来吃饭 你很生气吧?
+
+243
+00:13:39,210 --> 00:13:40,570
+<9-3,Danielle>Yeah?
+<9-3,Danielle>怎么了?
+
+244
+00:13:41,060 --> 00:13:44,390
+<9-4,Andrew>I just figured out the funniest way for you to get back at her.
+<9-4,Andrew>我恰巧发现了一个回击她 最有力的方法
+
+245
+00:13:46,270 --> 00:13:48,330
+<10-1,Ed>Okay,what's on the schedule for today?
+<10-1,Ed>好了 今天的安排是怎么样?
+
+246
+00:13:48,330 --> 00:13:50,930
+<10-2,Tom>I have got the boston toy presentation ready to go.
+<10-2,Tom>我已经准备好了波士顿的玩具广告讲演
+
+247
+00:13:50,930 --> 00:13:55,110
+<10-3,Ed>Actually,I don't have time for a full pitch, so just give me the gist.
+<10-3,Ed>我没有时间听完它 把要点告诉我吧
+
+248
+00:13:57,010 --> 00:14:00,890
+<10-4,Tom>-Excuse me?
+<10-4,Tom>- 什么?
+
+249
+00:13:57,010 --> 00:14:00,890
+<10-5,Ed>You know,boil it down.Give me one line.
+<10-5,Ed> 缩短它 就一句话
+
+250
+00:14:03,260 --> 00:14:06,660
+<10-6,Tom>Okay,basically, it's "toys are fun."
+<10-6,Tom>好 总的来说就是 玩具很有意思
+
+251
+00:14:06,660 --> 00:14:07,620
+<10-7,Ed>I hate it.
+<10-7,Ed>我讨厌它
+
+252
+00:14:07,620 --> 00:14:10,210
+<10-8,Tom>How can you hate it? I only gave you three words.
+<10-8,Tom>你怎么会讨厌它? 我只说了三个字
+
+253
+00:14:10,210 --> 00:14:14,420
+<10-9,Ed>It's three words I hate.Okay, I'm gonna take over the ston toy company account.
+<10-9,Ed>就是三个字我讨厌 好了 我打算接管这个玩具业务
+
+254
+00:14:14,420 --> 00:14:16,450
+<10-10,Tom>-No,you cannot take over--
+<10-10,Tom>- 不 你不能接管
+
+255
+00:14:14,420 --> 00:14:16,450
+<11-3,Lynette>in the meantime,
+<11-3,Lynette> 与此同时
+
+256
+00:14:16,450 --> 00:14:18,590
+<10-11,Ed>you should all be aware i don't like the way
+<10-11,Ed>请你们注意了 我不喜欢
+
+257
+00:14:18,590 --> 00:14:21,500
+<10-11,Ed>you people have been filing your expense reports.
+<10-11,Ed>你们作的支出报告
+
+258
+00:14:21,500 --> 00:14:25,490
+<10-11,Ed>There's been a lot of padding meanwhile, this company is hemorrhaging money.
+<10-11,Ed>这其中有太多的漏洞 公司的开支太大了
+
+259
+00:14:26,080 --> 00:14:27,790
+<10-11,Ed>I'm gonna put a stop to it,
+<10-11,Ed>我要结束这种不良现象
+
+260
+00:14:27,790 --> 00:14:30,700
+<11-1,Lynette>so I have hired a forensic accountant.
+<11-1,Lynette>所以我雇佣了一个专职会计师
+
+261
+00:14:30,700 --> 00:14:32,920
+<10-11,Ed>He's gonna go through them, make sure everything's kosher.
+<10-11,Ed>他会仔细检查帐目
+
+262
+00:14:32,920 --> 00:14:36,620
+<10-11,Ed>And I find one receipt, one bar tab that's fishy,
+<10-11,Ed>如果我发现有一张收据作假
+
+263
+00:14:36,620 --> 00:14:40,070
+<10-9,Ed>it's grounds for dismissal.
+<10-9,Ed>那么就等着被解雇吧
+
+264
+00:14:40,850 --> 00:14:42,580
+<0-0,None>Oh,scavo?
+<0-0,None>Scavo?
+
+265
+00:14:42,580 --> 00:14:44,800
+<10-11,Ed>He's gonna start with you.
+<10-11,Ed>你第一个
+
+266
+00:14:45,900 --> 00:14:49,560
+<11-1,Lynette>I can't believe that son of a bitch hired a forensic accountant.
+<11-1,Lynette>我简直不敢相信 那个王八蛋雇了专职会计师
+
+267
+00:14:49,560 --> 00:14:51,800
+<11-1,Lynette>He's more whipped than I thought.
+<11-1,Lynette>看来他比我想像中的还要受打击
+
+268
+00:14:51,800 --> 00:14:55,030
+<11-1,Lynette>Well,he's tragically underestimated us. The gloves are coming off.
+<11-1,Lynette>只可惜 他低估了我们 我们就跟他动真格的
+
+269
+00:14:55,030 --> 00:14:57,370
+<11-2,Tom>You know, maybe I should just quit.
+<11-2,Tom>也许我应该辞职
+
+270
+00:14:57,370 --> 00:15:00,750
+<11-3,Lynette>What? Yesterday you were up in arms. Now you're ready to cave?
+<11-3,Lynette>什么?昨天我们才扬言说要斗争到底 今天你就打算投降了?
+
+271
+00:15:00,750 --> 00:15:04,290
+<11-4,Tom>If ed is determined to get me,sooner or later, he's gonna get me.It's just a matter of time.
+<11-4,Tom>如果Ed下定决心要解雇我 那么迟早 他会解雇我的 这只是时间问题
+
+272
+00:15:04,290 --> 00:15:07,050
+<11-5,Lynette>No,no! We are not backing down.
+<11-5,Lynette>不不! 我们不能食言
+
+273
+00:15:07,050 --> 00:15:08,730
+<11-5,Lynette>I'm gonna walk over to ed's office right now,
+<11-5,Lynette>我现在就去Ed的办公室
+
+274
+00:15:08,730 --> 00:15:11,970
+<11-5,Lynette>and I'm gonna make very clear that if you're out the door,I'm right behind ya.
+<11-5,Lynette>我要告诉他 如果他解雇了你 我会跟你一起走
+
+275
+00:15:11,970 --> 00:15:14,000
+<11-6,Tom>We can't both be unemployed.
+<11-6,Tom>我们不能都失业
+
+276
+00:15:14,000 --> 00:15:18,180
+<11-7,Lynette>Oh,it'll never happen.He knows this place will go down like a house of cards without me.
+<11-7,Lynette>哦 这决不可能发生 他知道 如果公司没有我 一定会倒闭的
+
+277
+00:15:18,830 --> 00:15:21,450
+<11-8,Tom>-Honey,wait. Just wait!
+<11-8,Tom>- 亲爱的 等等 先等等!
+
+278
+00:15:18,830 --> 00:15:21,450
+<11-9,Lynette>What,what?
+<11-9,Lynette> 怎么了?
+
+279
+00:15:22,750 --> 00:15:24,790
+<11-10,Tom>I'm not gonna hide behind my wife's skirt.
+<11-10,Tom>我不能受我妻子的保护生活
+
+280
+00:15:24,790 --> 00:15:27,030
+<11-11,Lynette>We're a team. I'm just lending support.
+<11-11,Lynette>我们是一组的 我只是给予支持
+
+281
+00:15:27,030 --> 00:15:29,560
+<11-12,Tom>That's not the way it's gonna look to everybody else out there.
+<11-12,Tom>可旁人不会这么看啊
+
+282
+00:15:29,560 --> 00:15:33,430
+<11-12,Tom>Look,let me talk to him, man to man.
+<11-12,Tom>让我先跟他谈谈 男人和男人的对话
+
+283
+00:15:33,900 --> 00:15:36,830
+<11-12,Tom>If my way doesn't work, then we'll do it your way.
+<11-12,Tom>如果我的方法不奏效 那时我们再用你的
+
+284
+00:15:38,190 --> 00:15:40,750
+<11-13,Lynette>Okay,go get him.
+<11-13,Lynette>好 你去找他
+
+285
+00:16:09,410 --> 00:16:12,070
+<11-13,Lynette>oh,my god! Oh,my god!
+<11-13,Lynette>哦老天啊! 哦老天啊!
+
+286
+00:16:12,300 --> 00:16:14,280
+<11-13,Lynette>Tom,what happened?
+<11-13,Lynette>Tom 发生什么事了?
+
+287
+00:16:14,720 --> 00:16:17,310
+<11-14,Tom>I think i gave him just cause.
+<11-14,Tom>我想这下给了他解雇我的理由了
+
+288
+00:16:25,490 --> 00:16:28,590
+<12-1,Mary Alice Voiceover>Susan knew she couldn't afford to keep the P.I.
+<12-1,Mary Alice Voiceover>Susan知道她不可能 凑集足够的钱给私家侦探
+
+289
+00:16:28,590 --> 00:16:31,490
+<12-1,Mary Alice Voiceover>From revealing her affair with karl,
+<12-1,Mary Alice Voiceover>以隐瞒她和Karl的亲密关系
+
+290
+00:16:31,490 --> 00:16:34,940
+<12-1,Mary Alice Voiceover>and since edie would learn the truth anyway,
+<12-1,Mary Alice Voiceover>既然Edie迟早都会知道事情的真相
+
+291
+00:16:34,940 --> 00:16:38,860
+<12-1,Mary Alice Voiceover>susan felt it would be better if it came from her...
+<12-1,Mary Alice Voiceover>Susan觉得也许由自己来告诉她 会比较好...
+
+292
+00:16:39,640 --> 00:16:44,470
+<12-2,Mary Alice Voiceover>which is how she came to write a letter begging edie for forgiveness.
+<12-2,Mary Alice Voiceover>所以她写了封信给Edie 请求她的原谅
+
+293
+00:16:44,470 --> 00:16:49,340
+<12-3,Mary Alice Voiceover>Her words were so sincere and heartfelt, from the moment she mailed it,
+<12-3,Mary Alice Voiceover>在信中 她言词诚恳坦荡 在她寄出信的时候
+
+294
+00:16:49,340 --> 00:16:51,170
+<12-1,Mary Alice Voiceover>susan knew...
+<12-1,Mary Alice Voiceover>Susan就知道...
+
+295
+00:16:52,760 --> 00:16:55,080
+<12-4,Mary Alice Voiceover>she was a dead woman.
+<12-4,Mary Alice Voiceover>她快要完蛋了
+
+296
+00:16:59,790 --> 00:17:02,110
+<13-1,Betty>You know,caleb...
+<13-1,Betty>恩 Caleb…
+
+297
+00:17:03,100 --> 00:17:05,520
+<13-1,Betty>since the day you were born,
+<13-1,Betty>从你出生那天起
+
+298
+00:17:05,520 --> 00:17:08,740
+<13-1,Betty>I've always thought of you as a blessing.
+<13-1,Betty>我就把你当成是上帝的赐予
+
+299
+00:17:09,370 --> 00:17:11,820
+<13-1,Betty>You do know that,right?
+<13-1,Betty>你知道的 对吗?
+
+300
+00:17:12,810 --> 00:17:14,980
+<14-1,Gabrielle>I guess.
+<14-1,Gabrielle>我想是的
+
+301
+00:17:17,810 --> 00:17:20,060
+<13-2,Caleb>How come matty's not here?
+<13-2,Caleb>Matty怎么不在这里?
+
+302
+00:17:20,600 --> 00:17:23,380
+<13-3,Betty>Because this is our special day,
+<13-3,Betty>因为这是我们俩特别的日子
+
+303
+00:17:23,380 --> 00:17:25,960
+<13-3,Betty>just you and me.
+<13-3,Betty>只有你和我
+
+304
+00:17:26,980 --> 00:17:29,840
+<13-4,Caleb>Is he mad at me? 'Cause of danielle?
+<13-4,Caleb>他因为Danielle的事很生我的气吗?
+
+305
+00:17:29,840 --> 00:17:33,980
+<13-5,Betty>No. He knows that you didn't mean to scare her.
+<13-5,Betty>不 他知道你并不是故意要吓她的
+
+306
+00:17:33,980 --> 00:17:36,950
+<13-6,Caleb>'Cause he said it was okay for me to kiss her.
+<13-6,Caleb>他说我可以亲她的
+
+307
+00:17:38,580 --> 00:17:40,340
+<13-7,Betty>What did you say?
+<13-7,Betty>你刚刚说什么?
+
+308
+00:17:40,340 --> 00:17:45,000
+<13-8,Caleb>He said danielle liked me and that she wouldn't fight me if I gave her a kiss.
+<13-8,Caleb>他说Danielle喜欢我 我亲她的话 她就不会反抗
+
+309
+00:17:46,030 --> 00:17:48,580
+<13-9,Betty>Ur brother told you that?
+<13-9,Betty>你弟弟这么告诉你的?
+
+310
+00:17:48,580 --> 00:17:53,460
+<13-10,Caleb>Matty said that she was waiting for me and that she wanted a really big kiss.
+<13-10,Caleb>Matty说她正在等我 等我给她一个长吻
+
+311
+00:17:58,080 --> 00:18:01,150
+<13-11,Betty>What else did your brother tell you?
+<13-11,Betty>你弟弟还对你说了些什么?
+
+312
+00:18:03,660 --> 00:18:05,480
+<0-0,None>Xiao-mei?
+<0-0,None>晓梅？
+
+313
+00:18:07,730 --> 00:18:10,300
+<14-1,Gabrielle>I made you some hot cocoa.
+<14-1,Gabrielle>我给你做了热可可
+
+314
+00:18:12,400 --> 00:18:15,590
+<14-1,Gabrielle>I guess the baby thing didn't really appeal to you,huh?
+<14-1,Gabrielle>我想你对生孩子那事没兴趣 对吗?
+
+315
+00:18:16,700 --> 00:18:20,820
+<14-1,Gabrielle>I know it's a lot to ask,it's just, carlos and i think of you as family.
+<14-1,Gabrielle>我知道这样要求有点过分 Carlos和我只是把你当成一家人而已
+
+316
+00:18:21,330 --> 00:18:23,600
+<14-1,Gabrielle>Don't you think of us as family?
+<14-1,Gabrielle>你难道不觉得我们是一家人吗?
+
+317
+00:18:23,600 --> 00:18:25,620
+<0-0,None>Oh,yes!
+<0-0,None>哦 是的!
+
+318
+00:18:25,620 --> 00:18:29,210
+<14-2,Xiao-Mei>You are like mother to me.
+<14-2,Xiao-Mei>你就像我妈妈一样
+
+319
+00:18:31,390 --> 00:18:35,740
+<14-3,Gabrielle>Well,if we are so friggin' close, what's the big deal?
+<14-3,Gabrielle>恩 既然我们这么亲密 你还介意什么嘛？
+
+320
+00:18:35,740 --> 00:18:37,950
+<14-3,Gabrielle>It's nine months out of your life.
+<14-3,Gabrielle>只需你生命中的九个月
+
+321
+00:18:37,950 --> 00:18:40,490
+<14-4,Xiao-Mei>I will be ruined.
+<14-4,Xiao-Mei>我会被毁了的
+
+322
+00:18:40,490 --> 00:18:42,620
+<14-5,Gabrielle>"Ruined"?
+<14-5,Gabrielle>毁了?
+
+323
+00:18:44,150 --> 00:18:46,390
+<14-6,Xiao-Mei>Down there.
+<14-6,Xiao-Mei>这里
+
+324
+00:18:48,310 --> 00:18:49,850
+<15-8,Ed>Wait.
+<15-8,Ed>等等
+
+325
+00:18:49,850 --> 00:18:51,850
+<14-7,Gabrielle>Are you a virgin?
+<14-7,Gabrielle>你是处女?
+
+326
+00:18:54,380 --> 00:18:57,980
+<14-8,Xiao-Mei>If I have baby, I will be shamed.
+<14-8,Xiao-Mei>如果我有了孩子 我会羞愧至死的
+
+327
+00:18:59,160 --> 00:19:03,100
+<14-9,Gabrielle>are you kidding? No one cares about virginity in this country.
+<14-9,Gabrielle>你不是开玩笑吧? 在这个国家没有人在意女人这回事
+
+328
+00:19:03,100 --> 00:19:07,020
+<14-9,Gabrielle>It went out of style in the '50s,and trust me, honey,it ain't making a comeback.
+<14-9,Gabrielle>那是50年代的人的想法了 相信我 亲爱的 不会再有人这么想的
+
+329
+00:19:09,000 --> 00:19:11,460
+<14-9,Gabrielle>seriously,no one cares.
+<14-9,Gabrielle>真的 没人会在意那个
+
+330
+00:19:11,460 --> 00:19:16,010
+<14-10,Xiao-Mei>Husband would care. No man want me if I ruined.
+<14-10,Xiao-Mei>日后的丈夫会在意的 生完孩子后不会再有人想要我了
+
+331
+00:19:16,010 --> 00:19:19,640
+<14-10,Xiao-Mei>I want husband so much.
+<14-10,Xiao-Mei>我非常想有一个丈夫
+
+332
+00:19:21,550 --> 00:19:24,250
+<14-11,Gabrielle>Well,what kind of husband do you want?
+<14-11,Gabrielle>你想要个怎样的丈夫？
+
+333
+00:19:24,250 --> 00:19:26,700
+<14-11,Gabrielle>Do you want a rich husband?
+<14-11,Gabrielle>想要个富有的丈夫吗？
+
+334
+00:19:26,700 --> 00:19:29,560
+<14-11,Gabrielle>Well,then,rich men don't marry virgins for the same reasons
+<14-11,Gabrielle>富人不会娶处女就如同
+
+335
+00:19:29,560 --> 00:19:32,270
+<14-11,Gabrielle>they don't hire chauffeurs who can't drive--
+<14-11,Gabrielle>他们不请不会开车的司机一样
+
+336
+00:19:32,280 --> 00:19:34,970
+<14-11,Gabrielle>they value experience.
+<14-11,Gabrielle>他们重视经验
+
+337
+00:19:34,970 --> 00:19:37,130
+<14-12,Xiao-Mei>Really?
+<14-12,Xiao-Mei>真的吗？
+
+338
+00:19:37,130 --> 00:19:39,610
+<14-13,Gabrielle>Would I lie to family?
+<14-13,Gabrielle>我会骗我的家人吗？
+
+339
+00:19:44,040 --> 00:19:46,000
+<15-1,Lynette>Here are the numbers you wanted.
+<15-1,Lynette>这是你想要的数据
+
+340
+00:19:46,000 --> 00:19:47,950
+<0-0,None>Lynette,wait.
+<0-0,None>Lynette,等一下
+
+341
+00:19:48,480 --> 00:19:50,010
+<15-2,Ed>Have you heard from tom?
+<15-2,Ed>你听tom说了吗？
+
+342
+00:19:50,010 --> 00:19:53,040
+<15-3,Lynette>He's not answering his cell phone. But you don't have to worry,okay?
+<15-3,Lynette>他不接电话 但你不必担心了
+
+343
+00:19:53,040 --> 00:19:55,420
+<15-3,Lynette>You got what you wanted. He's out of the building.
+<15-3,Lynette>你已经得到你想要的 他已经不在这儿了
+
+344
+00:19:55,420 --> 00:19:58,170
+<15-4,Ed>Come in here and close the door.
+<15-4,Ed>关门，来这儿
+
+345
+00:19:58,170 --> 00:20:00,530
+<15-5,Lynette>You sure? I might punch you,too.
+<15-5,Lynette>你确定吗？ 我也许也会打你的哦
+
+346
+00:20:00,530 --> 00:20:02,870
+<15-6,Ed>I'll take my chances.
+<15-6,Ed>我想试试
+
+347
+00:20:03,500 --> 00:20:07,560
+<15-7,Lynette>If this is where you want me to apologize for my husband,
+<15-7,Lynette>如果你想让我为我的丈夫向你道歉
+
+348
+00:20:07,560 --> 00:20:09,240
+<15-7,Lynette>I'm not gonna do it.
+<15-7,Lynette>门儿也没有
+
+349
+00:20:09,240 --> 00:20:11,440
+<15-7,Lynette>Maybe he shouldn't have hit you, but you provoked him.
+<15-7,Lynette>也许他不应该打你 但是是你先刺激他的
+
+350
+00:20:11,490 --> 00:20:13,400
+<15-8,Ed>-Now wait a minute--
+<15-8,Ed>- 先别激动好吗？
+
+351
+00:20:11,490 --> 00:20:13,400
+<15-9,Lynette>no! I'm sorry,
+<15-9,Lynette> 不！
+
+352
+00:20:13,910 --> 00:20:17,440
+<15-9,Lynette>tom gets punished beuse you can't deal with your screwed-up marriage.
+<15-9,Lynette>由于你那糟糕的婚姻而惩罚tom
+
+353
+00:20:17,440 --> 00:20:19,290
+<16-18,Andrew>It is pathetic,ed.
+<16-18,Andrew>Ed,你太可悲了
+
+354
+00:20:19,290 --> 00:20:22,280
+<15-9,Lynette>If you had stood up to your wife in the first place,none of this--what?
+<15-9,Lynette>如果你一早敢与你老婆对抗 什么事都不会——怎么了？
+
+355
+00:20:22,280 --> 00:20:23,630
+<17-9,Lynette>I love it.
+<17-9,Lynette>你说得真好
+
+356
+00:20:23,630 --> 00:20:26,780
+<15-10,Ed>You're giving me crap about my marriage.
+<15-10,Ed>你现在说的关于我婚姻的东西都是废话
+
+357
+00:20:26,780 --> 00:20:29,150
+<15-1,Lynette>You know what? Here!
+<15-1,Lynette>看看这个
+
+358
+00:20:29,150 --> 00:20:33,290
+<15-10,Ed>Oh,the forensic accountant found some interesting stuff in tom's expense reports.
+<15-10,Ed>会计师在tom的花销记录里 找到了些有趣的项目
+
+359
+00:20:33,290 --> 00:20:35,370
+<15-10,Ed>Yeah,it seems on his last three trips east,
+<15-10,Ed>看起来，在他最近的三次东部之旅中
+
+360
+00:20:35,370 --> 00:20:39,340
+<15-10,Ed>he cashed in his first-class ticket and took a detour to atlantic city.
+<15-10,Ed>他坐的都是头等舱 而且还顺便绕道去了趟亚特兰大
+
+361
+00:20:39,340 --> 00:20:41,820
+<15-11,Lynette>-What? That can't be right.
+<15-11,Lynette>- 什么？这肯定是调查错了
+
+362
+00:20:39,340 --> 00:20:41,820
+<15-12,Ed>Well,it's all there--
+<15-12,Ed> 详详细细的都在那儿写着
+
+363
+00:20:41,890 --> 00:20:44,450
+<0-0,None>hotels,bar tabs.
+<0-0,None>宾馆还有酒吧的账单
+
+364
+00:20:44,450 --> 00:20:48,720
+<15-12,Ed>Oh,and on this page... two tickets to a show.
+<15-12,Ed>噢，还有这页... 两张演出票
+
+365
+00:20:50,960 --> 00:20:53,290
+<15-12,Ed>And flowers.
+<15-12,Ed>还有花
+
+366
+00:20:56,290 --> 00:21:00,100
+<15-13,Lynette>That doesn't make any sense.There's gotta be some kind of an explanation for this.
+<15-13,Lynette>这样说没有道理，他肯定有他的原因
+
+367
+00:21:00,590 --> 00:21:03,550
+<15-14,Ed>Before you pass judgment on someone else's marriage,
+<15-14,Ed>在评论别人的婚姻之前
+
+368
+00:21:04,210 --> 00:21:07,180
+<15-14,Ed>I'd clean up my own house first.
+<15-14,Ed>我会先把自己的婚姻搞清楚
+
+369
+00:21:11,350 --> 00:21:14,740
+<16-1,Bree>Sorry,I don't know what's taking danielle so long to get dressed.
+<16-1,Bree>真不好意思，不知道danielle怎么 换了那么久的衣服
+
+370
+00:21:14,740 --> 00:21:18,140
+<16-2,Andrew>Just give her a break,mom.I'm sure she's just trying to look nice for ourompany.
+<16-2,Andrew>再给她点时间吧，妈妈 她在尽量让自己看起来漂亮
+
+371
+00:21:18,140 --> 00:21:21,830
+<16-3,Peter>Well,I hope she doesn't get too dressed up. I like people to be comfortable.
+<16-3,Peter>希望她没有打扮得过于花枝招展 我喜欢穿得很轻松舒服的人们
+
+372
+00:21:21,830 --> 00:21:24,520
+<16-4,Danielle>Oh,I'm comfortable.
+<16-4,Danielle>噢，我觉得很舒服
+
+373
+00:21:25,860 --> 00:21:27,910
+<16-5,Bree>Honey,what are you wearing?
+<16-5,Bree>亲爱的，你怎么穿成这样？
+
+374
+00:21:27,910 --> 00:21:30,230
+<16-6,Danielle>You got me this for christmas. Don't you remember?
+<16-6,Danielle>你圣诞节的时候给我买的 不记得了吗？
+
+375
+00:21:30,230 --> 00:21:32,810
+<16-7,Bree>Yes,I just--I'm worried you might be a little cold.
+<16-7,Bree>当然记得，我只是--我在想你这样 会不会觉得有点冷？
+
+376
+00:21:32,810 --> 00:21:35,230
+<16-8,Danielle>Ohi think it's plenty warm in here.
+<16-8,Danielle>我觉得这儿挺暖和的
+
+377
+00:21:35,230 --> 00:21:37,610
+<16-8,Danielle>Don't you,mr. Mcmillan?
+<16-8,Danielle>你不觉得吗？Mcmillan先生
+
+378
+00:21:39,560 --> 00:21:41,060
+<16-9,Peter>sure.
+<16-9,Peter>呃，是的
+
+379
+00:21:43,620 --> 00:21:47,570
+<16-10,Andrew>Well,uh,we should probably start eating. We don't want our frittatas to get cold.
+<16-10,Andrew>我们快开始吃饭吧？ 要不然frittatas马上要变凉了
+
+380
+00:21:47,570 --> 00:21:51,670
+<16-11,Bree>Right. Good. Um,sorry. Everybody,dig in.
+<16-11,Bree>嗯，就是呀，大家请享用吧
+
+381
+00:21:54,790 --> 00:21:58,240
+<16-12,Peter>Does anybody else think this salsa's a little too spicy?
+<16-12,Peter>有没有人觉得这酱汁太辣了点儿？
+
+382
+00:21:59,410 --> 00:22:03,070
+<16-13,Danielle>I always say,he hotter,the better."
+<16-13,Danielle>我总是说，越“辣”，越好
+
+383
+00:22:06,780 --> 00:22:10,060
+<16-14,Andrew>So,mr. Mcmillan, I hear you went to perkins college.
+<16-14,Andrew>Mcmillan先生 我听说你以前上的是perkins大学
+
+384
+00:22:10,060 --> 00:22:12,870
+<16-14,Andrew>I'm thinking about going there after I graduate.
+<16-14,Andrew>我在考虑等我高中毕业以后 也去那儿念书
+
+385
+00:22:12,870 --> 00:22:15,450
+<0-0,None>Uh,perkins,huh?
+<0-0,None>噢,perkins是吧?
+
+386
+00:22:15,450 --> 00:22:20,420
+<16-15,Peter>I was there.Yeah,I made it to every party, and I went to classes in my spare time.
+<16-15,Peter>我在那儿的时候参加了许多派对 在课余去上上课，呵呵
+
+387
+00:22:21,600 --> 00:22:25,070
+<16-15,Peter>no,actually,it's a great college. I think you'd like it.
+<16-15,Peter>它其实是一个很好的大学 我想你会喜欢它的
+
+388
+00:22:25,730 --> 00:22:30,220
+<16-16,Bree>Isn't this wonderful? Good food,pleasant conversation...
+<16-16,Bree>像现在这样实在太好了 美味的食物，令人愉悦的谈话...
+
+389
+00:22:30,220 --> 00:22:34,180
+<16-16,Bree>this really is a very special night.
+<16-16,Bree>这真的是一个特别的夜晚
+
+390
+00:22:34,790 --> 00:22:38,590
+<16-17,Danielle>I feel the same way.
+<16-17,Danielle>我同意
+
+391
+00:22:42,150 --> 00:22:45,130
+<16-18,Andrew>So,peter,is it growing?
+<16-18,Andrew>呃，peter，它在变大吗？
+
+392
+00:22:46,920 --> 00:22:48,160
+<16-19,Peter>What?
+<16-19,Peter>什么？
+
+393
+00:22:48,160 --> 00:22:52,060
+<16-20,Andrew>Uh,the campus. Has it grown at all since you've been there?
+<16-20,Andrew>我是说校园，从你在那儿之后 它变大了吗？
+
+394
+00:22:55,200 --> 00:22:59,550
+<16-21,Peter>yeah,it's,uh...it's grown... con-considerably.
+<16-21,Peter>是的，它...它变大了很...很多
+
+395
+00:22:59,550 --> 00:23:03,100
+<16-22,Andrew>I would just love to get my hands on a brochure.
+<16-22,Andrew>真想亲手摸到学校的宣传册子
+
+396
+00:23:04,130 --> 00:23:08,140
+<16-23,Peter>The alumni association is always sending me stuff,you know.
+<16-23,Peter>校友会一直有寄东西给我
+
+397
+00:23:08,140 --> 00:23:10,620
+<16-23,Peter>I'll--I'll get you something!
+<16-23,Peter>我会带点儿给你！
+
+398
+00:23:10,620 --> 00:23:13,880
+<16-24,Bree>Oh,my god,are you okay?
+<16-24,Bree>哦，天啊，你还好吗？
+
+399
+00:23:16,250 --> 00:23:20,820
+<16-25,Peter>I just remembered,you know,this guy I'm sponsoring-- he said he needed to see me tonight,so I should go to him.
+<16-25,Peter>我刚才想起，我正在帮助的一个家伙说 他今天晚上要见我，所以我要走了
+
+400
+00:23:20,820 --> 00:23:22,450
+<16-26,Bree>Well,I gues that's important,so--
+<16-26,Bree>我猜 这是件重要的是，那么...
+
+401
+00:23:22,450 --> 00:23:26,020
+<16-27,Peter>yeah,so ihould go. No need to show me out.
+<16-27,Peter>是的，我马上得走 不必出来送我了
+
+402
+00:23:31,370 --> 00:23:36,140
+<16-28,Bree>what a shame.I really wanted him to have a chance to get to know you guys.
+<16-28,Bree>太可惜了，我真得很希望能 有机会让他更了解你们俩
+
+403
+00:23:36,140 --> 00:23:40,080
+<16-29,Danielle>Don't worry,I... I think we made an impression.
+<16-29,Danielle>别担心，我... 我想我们俩已经给他留下印象了
+
+404
+00:23:46,730 --> 00:23:48,930
+<17-1,Lynette>Hey. Hey!
+<17-1,Lynette>嗨，嗨！
+
+405
+00:23:49,550 --> 00:23:52,380
+<17-1,Lynette>I didn't know if you were coming back.
+<17-1,Lynette>我不知道你回来
+
+406
+00:23:52,380 --> 00:23:55,280
+<17-2,Tom>I waited until the parking lot clead.
+<17-2,Tom>我一直等到停车场都空了
+
+407
+00:23:55,280 --> 00:23:57,110
+<0-0,None>So,um...
+<0-0,None>那么...
+
+408
+00:23:58,930 --> 00:24:01,610
+<17-3,Lynette>what happened?You said you were just gonna go in there and talk to him.
+<17-3,Lynette>发生什么事情了？你说你 要进去和ed摊牌的
+
+409
+00:24:01,610 --> 00:24:04,290
+<17-4,Tom>I know,I know. I know I shouldn't have hit him.
+<17-4,Tom>我知道，我知道 我知道我不应该打他的
+
+410
+00:24:04,290 --> 00:24:07,390
+<17-4,Tom>but... what's done is done.
+<17-4,Tom>可是... 做过的事如同泼出去的水
+
+411
+00:24:09,720 --> 00:24:11,790
+<17-5,Lynette>Anything else going on?
+<17-5,Lynette>还有其他的事情吗？
+
+412
+00:24:11,790 --> 00:24:14,250
+<17-6,Tom>-Like what?
+<17-6,Tom>- 譬如？
+
+413
+00:24:11,790 --> 00:24:14,250
+<16-1,Bree>I don't know.
+<16-1,Bree> 我哪里知道
+
+414
+00:24:14,720 --> 00:24:17,000
+<17-7,Lynette>Anything you wanna talk about?
+<17-7,Lynette>有没有什么事情想和我说的？
+
+415
+00:24:17,000 --> 00:24:19,490
+<17-7,Lynette>'Cause there's nothing you couldn't tell me.
+<17-7,Lynette>你可以告诉我任何事情
+
+416
+00:24:19,490 --> 00:24:22,190
+<17-7,Lynette>-I would understand.
+<17-7,Lynette>- 我会理解你的
+
+417
+00:24:19,490 --> 00:24:22,190
+<17-8,Tom>No,I feel good about this.
+<17-8,Tom> 没有，我现在感觉挺好的
+
+418
+00:24:22,190 --> 00:24:26,310
+<17-8,Tom>It's okay,'cause I didn't fit in around here anyway. I'm gonna get another job someplace else.
+<17-8,Tom>我也觉得自己不适合这里 我会在别的地方再找一份工作
+
+419
+00:24:26,310 --> 00:24:28,380
+<17-8,Tom>Everything's good.
+<17-8,Tom>万事都好
+
+420
+00:24:28,380 --> 00:24:30,930
+<17-8,Tom>And you,I love.
+<17-8,Tom>至于你，我爱你
+
+421
+00:24:30,930 --> 00:24:33,760
+<17-9,Lynette>I love you,too.
+<17-9,Lynette>我也爱你
+
+422
+00:24:36,240 --> 00:24:38,480
+<17-10,Lynette>You know what's weird?
+<17-10,Lynette>你知道是哪儿不对劲吗？
+
+423
+00:24:38,480 --> 00:24:40,920
+<17-11,Tom>No,what?
+<17-11,Tom>不知道，怎么了？
+
+424
+00:24:40,920 --> 00:24:43,810
+<17-12,Lynette>In all the years we have been married,
+<17-12,Lynette>我和你结婚那么多年
+
+425
+00:24:43,810 --> 00:24:48,380
+<17-12,Lynette>I have never seen you lead with your fists.
+<17-12,Lynette>我从来没见过你挥舞拳头
+
+426
+00:24:49,130 --> 00:24:51,290
+<0-0,None>well...
+<0-0,None>唔...
+
+427
+00:24:51,290 --> 00:24:55,500
+<17-13,Tom>maybe I still got some surprises in me.
+<17-13,Tom>也许我还有一些能令人惊奇的地方
+
+428
+00:24:56,190 --> 00:24:59,100
+<17-14,Lynette>Maybe you do.
+<17-14,Lynette>也许的确如此
+
+429
+00:25:03,860 --> 00:25:05,670
+<18-1,Matthew>Is it done?
+<18-1,Matthew>搞掂了吗？
+
+430
+00:25:09,720 --> 00:25:14,990
+<18-2,Betty>We can mourn your brotherater.Right now there are things that still need to be done.
+<18-2,Betty>我们可以稍候再哀悼你哥哥 现在 还有些要解决的事情
+
+431
+00:25:15,550 --> 00:25:18,060
+<18-3,Betty>We need to get rid of everything...
+<18-3,Betty>我们要扔掉所有东西...
+
+432
+00:25:18,060 --> 00:25:21,590
+<18-3,Betty>mattress,clothes, all of it.
+<18-3,Betty>床铺、衣服 所有的一切
+
+433
+00:25:32,890 --> 00:25:35,130
+<18-4,Matthew>mom,the--the door's locked.
+<18-4,Matthew>妈，这...这门锁上了
+
+434
+00:25:35,130 --> 00:25:37,060
+<18-5,Betty>I know.
+<18-5,Betty>我知道
+
+435
+00:25:38,230 --> 00:25:41,280
+<18-6,Matthew>Mom,you need to open this door right now!
+<18-6,Matthew>妈，你必须马上打开这门！
+
+436
+00:25:44,860 --> 00:25:47,190
+<20-16,Peter>mom!
+<20-16,Peter>妈妈！
+
+437
+00:26:05,340 --> 00:26:07,350
+<19-1,Gabrielle>Honey, why aren't you dressed yet?
+<19-1,Gabrielle>亲爱的， 你怎么还没有穿好衣服？
+
+438
+00:26:07,350 --> 00:26:10,370
+<19-1,Gabrielle>We have to be at the fertility clinic in 40 minutes!
+<19-1,Gabrielle>我们要在四十分钟之内到达诊所！
+
+439
+00:26:10,370 --> 00:26:12,420
+<19-2,Carlos>Aw,shoot! Is that today?
+<19-2,Carlos>该死！怎么是今天？
+
+440
+00:26:12,420 --> 00:26:16,200
+<19-3,Gabrielle>And,uh,give xiao-mei a kick in the pants. I haven't seen her all morning.
+<19-3,Gabrielle>对了，把晓梅给叫起来 我整个早上都没有看见她
+
+441
+00:26:19,660 --> 00:26:21,400
+<0-0,None>hey.
+<0-0,None>嗨
+
+442
+00:26:21,790 --> 00:26:24,220
+<19-4,Carlos>Today's the,uh,big day.
+<19-4,Carlos>今天，恩...是个重要的日子
+
+443
+00:26:24,220 --> 00:26:27,760
+<19-4,Carlos>You ready to,uh,make a baby?
+<19-4,Carlos>你准备好生孩子了吗？
+
+444
+00:26:29,810 --> 00:26:32,040
+<20-1,Andrew>Ready.
+<20-1,Andrew>好了
+
+445
+00:26:43,070 --> 00:26:44,730
+<0-0,None>Please...
+<0-0,None>拜托你...
+
+446
+00:26:45,470 --> 00:26:47,860
+<19-5,Xiao-Mei>be gentle.
+<19-5,Xiao-Mei>温柔一点
+
+447
+00:26:53,820 --> 00:26:56,760
+<19-6,Gabrielle>Honey,come on. We're gonna be late.
+<19-6,Gabrielle>亲爱的，快点儿啊 我们要迟到了
+
+448
+00:27:02,310 --> 00:27:06,910
+<19-7,Carlos>I think she's confused as to how we're gonna make this baby happen.
+<19-7,Carlos>我想她没弄清楚 我们打算怎么要这个宝宝
+
+449
+00:27:08,020 --> 00:27:11,460
+<19-8,Gabrielle>Oh. And were you planning on setting her straight?
+<19-8,Gabrielle>哦，那你刚才打算让她弄明白吗？
+
+450
+00:27:12,630 --> 00:27:15,210
+<19-9,Carlos>Next thing out of my mouth.
+<19-9,Carlos>正准备说呢
+
+451
+00:27:18,510 --> 00:27:20,670
+<20-1,Andrew>Come on! The guy's ready to explode.
+<20-1,Andrew>别这样！ 那家伙已经快要爆炸了
+
+452
+00:27:20,670 --> 00:27:22,980
+<20-2,Danielle>I don't care. I'm not sleeping with mom's boyfriend.
+<20-2,Danielle>我不在乎。我又不是在和 妈妈的男朋友发生什么关系
+
+453
+00:27:22,980 --> 00:27:25,180
+<20-3,Andrew>You can't back out now. You were great the other night.
+<20-3,Andrew>你已经不能回头了 你那天晚上太棒了
+
+454
+00:27:25,180 --> 00:27:27,140
+<20-3,Andrew>You got peter on the hook. He's primed.
+<20-3,Andrew>你让peter上钩了 他已经被你挑起欲望了
+
+455
+00:27:27,140 --> 00:27:29,660
+<20-4,Danielle>I was just messing with his head to get back at mom.That's all.
+<20-4,Danielle>我只是要作弄他来报复妈妈，没别的了
+
+456
+00:27:29,660 --> 00:27:34,020
+<20-5,Andrew>Yeah,but why stop there?She's keeping you from matthew.Now,come on,she deserves this.
+<20-5,Andrew>是啊，为什么要停止呢？她一直不让 你和matthew见面 她活该
+
+457
+00:27:34,020 --> 00:27:37,140
+<20-6,Danielle>I'm not that stupid. Go grind your own ax.
+<20-6,Danielle>我没那么傻 要玩你自己玩
+
+458
+00:27:37,530 --> 00:27:40,560
+<20-7,Andrew>that's him.I don't have time for this crap. Now strip down to your bra and panties now.
+<20-7,Andrew>他来了，我没空在这里废话 快脱掉你的外衣
+
+459
+00:27:40,560 --> 00:27:43,400
+<20-8,Danielle>Get out of my room, you psycho!
+<20-8,Danielle>滚出我房间 你这个神经病！
+
+460
+00:27:46,950 --> 00:27:50,070
+<20-9,Andrew>Um,my mom won't be back for a while, so you probably don't wanna wait around.
+<20-9,Andrew>我妈一时半会不会回来的 所以你大概不想在这里等她吧
+
+461
+00:27:50,070 --> 00:27:53,550
+<20-10,Peter>Well,that's okay.I just wanted to make sure you got the perkins catalog.
+<20-10,Peter>没关系，我来是为了给你 peikins大学的资料
+
+462
+00:27:53,550 --> 00:27:56,950
+<20-10,Peter>Uh,your mom told me that you're going on a tour there tomorrow.
+<20-10,Peter>你妈妈告诉我你明天会去那儿参观
+
+463
+00:27:56,950 --> 00:27:58,600
+<20-11,Andrew>-Yeah.
+<20-11,Andrew>- 是的
+
+464
+00:27:56,950 --> 00:27:58,600
+<20-12,Peter>You're gonna love it.
+<20-12,Peter> 你会喜欢那儿的
+
+465
+00:27:58,600 --> 00:28:03,840
+<20-12,Peter>The campus is beautiful,the teachers are amazing, and the student body is such a great mix.
+<20-12,Peter>美丽的校园，优秀的老师 而且学生群是一个混合体
+
+466
+00:28:03,840 --> 00:28:06,680
+<20-12,Peter>You know, they're all about diversity.
+<20-12,Peter>我的意思是，他们非常多元化
+
+467
+00:28:06,680 --> 00:28:10,650
+<20-13,Andrew>Whatever.All right,well, I'll let my mom know you stopped by.
+<20-13,Andrew>好的，我会和我妈妈说你来过
+
+468
+00:28:11,320 --> 00:28:13,200
+<0-0,None>Okay.
+<0-0,None>好的
+
+469
+00:28:15,580 --> 00:28:20,620
+<20-14,Peter>Andrew...I also wanted to apologize for leaving so fast the other night.
+<20-14,Peter>Andrew...我想为那天晚上 离开得那么匆忙而道歉
+
+470
+00:28:20,620 --> 00:28:22,760
+<20-18,Peter>I...
+<20-18,Peter>我...
+
+471
+00:28:22,760 --> 00:28:26,820
+<20-14,Peter>I started to get the feeling that your sister was coming on to me,which was upsetting because--
+<20-14,Peter>我感觉到你的妹妹对我有意思 我有点不安
+
+472
+00:28:26,820 --> 00:28:29,310
+<20-15,Andrew>you're a sex addict?
+<20-15,Andrew>你是一个性瘾者
+
+473
+00:28:29,960 --> 00:28:33,150
+<20-16,Peter>-Your mom told you about that?
+<20-16,Peter>- 你妈妈向你提及过？
+
+474
+00:28:29,960 --> 00:28:33,150
+<20-17,Andrew>Let's just say the word's out.
+<20-17,Andrew> 我们就直说了吧
+
+475
+00:28:33,650 --> 00:28:36,570
+<0-0,None>But,m,I'm curious.
+<0-0,None>不过，我很好奇
+
+476
+00:28:36,570 --> 00:28:40,340
+<20-17,Andrew>Back in the day,what kind of stuff were you into?
+<20-17,Andrew>你在那段时间是什么样子
+
+477
+00:28:41,630 --> 00:28:43,600
+<20-18,Peter>I don't know that i wanna talk about that.
+<20-18,Peter>我不清楚我是否想谈这些事
+
+478
+00:28:43,600 --> 00:28:46,500
+<20-19,Andrew>Well,I just wanna make sure you're not into anything too freaky.
+<20-19,Andrew>我只是想确定 你会不会变得太怪异
+
+479
+00:28:46,500 --> 00:28:49,770
+<20-19,Andrew>You know,I mean,you are dating my mom, and I'm kinda protective of her.
+<20-19,Andrew>我的意思是，你在和我妈妈约会 而我想保护她
+
+480
+00:28:49,770 --> 00:28:53,360
+<20-20,Peter>Well,you can relax.I mean, I wasn't some sort of pervert,you know.
+<20-20,Peter>你不必担心 我不是那种变态狂
+
+481
+00:28:53,360 --> 00:28:58,840
+<20-20,Peter>All I can say is...I went through a dark period, and I slept with a whole lot of people.
+<20-20,Peter>我经历了一段黑暗的时期 我与许多人发生过关系
+
+482
+00:29:01,560 --> 00:29:03,270
+<20-21,Andrew>People?
+<20-21,Andrew>人？
+
+483
+00:29:03,270 --> 00:29:04,960
+<20-22,Peter>What's wrong?
+<20-22,Peter>有什么不对的地方？
+
+484
+00:29:04,960 --> 00:29:10,850
+<20-23,Andrew>No,it's just that when most guys discuss their conquests,they don't say "people."
+<20-23,Andrew>大多数人讨论被征服的战利品时 他们不会说“人”
+
+485
+00:29:13,010 --> 00:29:15,300
+<20-24,Peter>-oh,well...
+<20-24,Peter>- 噢，这个嘛...
+
+486
+00:29:13,010 --> 00:29:15,300
+<20-25,Andrew>no,it's okay.
+<20-25,Andrew> 没关系，我理解
+
+487
+00:29:16,910 --> 00:29:20,010
+<20-25,Andrew>I appreciate the fact that you value...
+<20-25,Andrew>我非常欣赏你如此重视
+
+488
+00:29:20,010 --> 00:29:22,710
+<20-12,Peter>diversity.
+<20-12,Peter>多元化
+
+489
+00:29:29,380 --> 00:29:31,580
+<21-1,Susan>-who is it?
+<21-1,Susan>- 谁呀？
+
+490
+00:29:29,380 --> 00:29:31,580
+<0-0,None>Mike.
+<0-0,None> Mike
+
+491
+00:29:35,690 --> 00:29:38,010
+<0-0,None>-Susan?
+<0-0,None>- Susan?
+
+492
+00:29:35,690 --> 00:29:38,010
+<21-3,Susan>Hi. Sorry.
+<21-3,Susan> 嗨，不好意思
+
+493
+00:29:38,110 --> 00:29:40,280
+<21-3,Susan>I'm just on the lookout for edie.
+<21-3,Susan>我只是在防备Edie
+
+494
+00:29:40,280 --> 00:29:43,230
+<21-4,Mike>Oh,well,you can relax. Edie won't be coming after you.
+<21-4,Mike>你放心吧 Edie不会追杀你的
+
+495
+00:29:43,230 --> 00:29:44,060
+<21-5,Susan>Why?
+<21-5,Susan>为什么？
+
+496
+00:29:44,060 --> 00:29:46,960
+<21-6,Mike>I talked to the P.I., And he's not gonna tell her anything.
+<21-6,Mike>我和那个私家侦探谈过了 他不会告诉她任何事情
+
+497
+00:29:47,570 --> 00:29:50,300
+<21-7,Susan>-What did you say?
+<21-7,Susan>- 你和他说什么了？
+
+498
+00:29:47,570 --> 00:29:50,300
+<21-8,Mike>I paid him off,
+<21-8,Mike> 我拿钱堵住他的嘴
+
+499
+00:29:50,300 --> 00:29:53,780
+<21-8,Mike>so it's over. I just thought you should know.
+<21-8,Mike>所以这结束了 我只是觉得你应该知道
+
+500
+00:29:53,780 --> 00:29:56,230
+<0-0,None>Well,wait.
+<0-0,None>等一下
+
+501
+00:29:56,230 --> 00:29:58,560
+<21-9,Susan>Why would you do that?
+<21-9,Susan>你为什么要那样做？
+
+502
+00:29:58,560 --> 00:30:01,460
+<21-10,Mike>People will just get hurt if it gets out.
+<21-10,Mike>把事情弄清楚了反而会使人受伤
+
+503
+00:30:01,460 --> 00:30:04,400
+<21-10,Mike>I didn't see the point.
+<21-10,Mike>我以前没有发现这点
+
+504
+00:30:30,530 --> 00:30:32,500
+<21-10,Mike>come on,come on,come on.
+<21-10,Mike>快快快
+
+505
+00:30:36,650 --> 00:30:40,080
+<21-11,Susan>Hey there. You look thirsty.
+<21-11,Susan>嗨， 你看上去很渴
+
+506
+00:30:40,710 --> 00:30:43,060
+<21-12,Gus>This is really nice of you, mrs. Mayer.
+<21-12,Gus>你真是太好了 Mayer太太
+
+507
+00:30:43,060 --> 00:30:45,960
+<21-12,Gus>To be honest with you, I wasn't even sure that you liked me.
+<21-12,Gus>老实说 我原来并不肯定你是否喜欢我
+
+508
+00:30:45,960 --> 00:30:50,010
+<21-13,Susan>And you know why? Because we're all so busy and detached from each other.
+<21-13,Susan>你知道为什么吗？因为我们都 很忙而且互相都太冷漠了
+
+509
+00:30:50,010 --> 00:30:52,660
+<21-13,Susan>You're at my house every day, and sure,
+<21-13,Susan>你每天都会到我家门口 然后
+
+510
+00:30:52,660 --> 00:30:56,570
+<21-13,Susan>we wave and we say hello, but we barely even know each other.
+<21-13,Susan>我们招手打招呼， 但是我们一点都不了解对方
+
+511
+00:30:56,570 --> 00:31:00,070
+<21-13,Susan>How long have you been delivering my mail, for god's sake?
+<21-13,Susan>你到底为我送了多久的信？
+
+512
+00:31:00,070 --> 00:31:02,490
+<21-14,Gus>Three and a half weeks.
+<21-14,Gus>三个半星期
+
+513
+00:31:02,490 --> 00:31:04,170
+<0-0,None>Really?
+<0-0,None>真的吗？
+
+514
+00:31:04,170 --> 00:31:07,170
+<21-15,Susan>It seems like forever. let me top you off.
+<21-15,Susan>我觉得一直都是你送信啊 我来帮你再倒满一杯
+
+515
+00:31:07,170 --> 00:31:10,020
+<21-16,Gus>Oh,no,I couldn'T. This is my third glass. I...
+<21-16,Gus>不用了， 这已经是第三杯了，我...
+
+516
+00:31:10,020 --> 00:31:13,010
+<21-16,Gus>seriously,I'm sloshin'.
+<21-16,Gus>说真的，肚子晃荡作响了
+
+517
+00:31:13,390 --> 00:31:15,970
+<21-17,Susan>well,you probably wanna use the bathroom before you leave,huh?
+<21-17,Susan>那么，也许你想去洗手间了吧？
+
+518
+00:31:15,970 --> 00:31:18,280
+<21-18,Gus>-No,I'm good.
+<21-18,Gus>- 不，我很好
+
+519
+00:31:15,970 --> 00:31:18,280
+<23-1,Susan>Are you sure?
+<23-1,Susan> 你确定？
+
+520
+00:31:18,280 --> 00:31:22,670
+<25-3,Bree>Uh,I mean,you have such a long route, and that ice tea's gonna go right through ya.
+<25-3,Bree>你还有那么多信要送， 冰茶会不断被吸收的...
+
+521
+00:31:22,670 --> 00:31:26,590
+<23-3,Gus>It's better here than mrs. Mccluskey's hydrangeas.
+<23-3,Gus>在这里比在Mccluskey先生的 排水渠了要好多了
+
+522
+00:31:26,980 --> 00:31:30,000
+<23-8,Gus>Well,you know,uh... maybe I will use your bathroom.
+<23-8,Gus>那么，也许我要用一下你的洗手间了
+
+523
+00:31:30,000 --> 00:31:34,870
+<23-7,Susan>Great! Oh,the one down here is broken.Why don't you use the one upstairs?It's right off my bedroom.
+<23-7,Susan>楼下的坏了，何不用楼上的那间？ 就在我睡房的右侧
+
+524
+00:31:36,790 --> 00:31:39,600
+<23-1,Susan>Yeah. Okay.
+<23-1,Susan>好的
+
+525
+00:31:40,860 --> 00:31:43,200
+<24-1,Bree>Got it.
+<24-1,Bree>知道了
+
+526
+00:32:10,210 --> 00:32:12,360
+<23-8,Gus>I still can't believe it.
+<23-8,Gus>我仍然不能相信
+
+527
+00:32:12,360 --> 00:32:15,550
+<23-1,Susan>I mean,why would xiao-mei just offer herself up to me like that?
+<23-1,Susan>为什么晓梅会那样
+
+528
+00:32:15,550 --> 00:32:19,670
+<23-9,Susan>well,honey,she's a virgin. Who knows why virgins do anything?
+<23-9,Susan>亲爱的，她是个处女 谁也难以理解处女做的事情
+
+529
+00:32:19,960 --> 00:32:21,960
+<23-9,Susan>She's a viin?
+<23-9,Susan>她是处女？
+
+530
+00:32:21,960 --> 00:32:23,780
+<23-1,Susan>Are you serious?
+<23-1,Susan>你是认真的？
+
+531
+00:32:23,780 --> 00:32:27,740
+<23-8,Gus>Yeah. I wouldn't just slam her for no reason.
+<23-8,Gus>是啊，我不会毫无道理的贬低她的啊
+
+532
+00:32:29,670 --> 00:32:32,550
+<23-3,Gus>Mr. Solis? It's time to collect your N.A.
+<23-3,Gus>Solis先生? 是时候收集你的精液了
+
+533
+00:32:33,350 --> 00:32:36,670
+<24-4,Andrew>Oh! Okay,honey, only good swimmers now.
+<24-4,Andrew>好的，亲爱的 现在就只需要好的游泳者了
+
+534
+00:32:39,860 --> 00:32:43,890
+<25-1,Bree>if you like,we have a variety of magazines and videos available.
+<25-1,Bree>如果你喜欢，我们有许多杂志与 音像制品提供给你
+
+535
+00:32:47,690 --> 00:32:50,150
+<23-8,Gus>I think I'm good.
+<23-8,Gus>我想我用不着
+
+536
+00:32:57,400 --> 00:33:00,700
+<23-1,Susan>Gus? Are you okay up there?
+<23-1,Susan>Gus? 你还好吗？
+
+537
+00:33:06,200 --> 00:33:07,790
+<23-2,Susan>gus!
+<23-2,Susan>gus!
+
+538
+00:33:07,790 --> 00:33:10,820
+<23-3,Gus>Uh,do you want me to keep the hat on?
+<23-3,Gus>你想我戴着这帽子吗？
+
+539
+00:33:10,820 --> 00:33:14,430
+<23-3,Gus>I know it's a fantasy for some women.
+<23-3,Gus>我知道这对于一些女人来说是一种幻想
+
+540
+00:33:20,060 --> 00:33:21,920
+<23-6,Julie>mom?
+<23-6,Julie>妈妈
+
+541
+00:33:24,680 --> 00:33:27,350
+<23-5,Julie>Is the mailman here?
+<23-5,Julie>送信的人在这儿？
+
+542
+00:33:29,250 --> 00:33:31,490
+<23-5,Julie>That's my daughter. Get dressed!
+<23-5,Julie>是我女儿 快穿衣服！
+
+543
+00:33:32,010 --> 00:33:33,770
+<23-6,Julie>mom?
+<23-6,Julie>妈妈？
+
+544
+00:33:33,770 --> 00:33:37,900
+<23-7,Susan>Yes,honey!Gus the mailman is here! He's using the bathroom.
+<23-7,Susan>我在这儿!Gus，那个送信的在这儿! 他在用洗手间
+
+545
+00:33:37,900 --> 00:33:40,530
+<23-7,Susan>He'll be down in a minute.
+<23-7,Susan>他马上就会下楼了
+
+546
+00:33:40,530 --> 00:33:45,450
+<23-7,Susan>Oh!  darn it. Guess we'll have to take a rain check,huh?
+<23-7,Susan>真不巧 估计我们得改日了
+
+547
+00:33:45,450 --> 00:33:47,980
+<23-8,Gus>I can come back on tuesday.
+<23-8,Gus>我星期二可以来
+
+548
+00:33:48,870 --> 00:33:53,050
+<23-9,Susan>tu-tuesday?No,no,tuesday's not good, 'cause tuesday's the day I,um...
+<23-9,Susan>星-星期二？不 因为一到星期二
+
+549
+00:33:54,120 --> 00:33:56,580
+<23-9,Susan>become a lesbian.
+<23-9,Susan>会变成一个女同性恋
+
+550
+00:34:13,310 --> 00:34:15,210
+<0-0,None>andrew?
+<0-0,None>andrew?
+
+551
+00:34:15,210 --> 00:34:19,390
+<24-1,Bree>Honey,where are you?I got your message. What's the emergency?
+<24-1,Bree>你在哪里？我收到你的短信了 有什么急事？
+
+552
+00:34:20,130 --> 00:34:21,870
+<0-0,None>Andrew?
+<0-0,None>Andrew?
+
+553
+00:34:22,690 --> 00:34:24,560
+<0-0,None>Andrew?
+<0-0,None>Andrew?
+
+554
+00:34:25,640 --> 00:34:27,730
+<0-0,None>Andrew?
+<0-0,None>Andrew?
+
+555
+00:34:28,290 --> 00:34:31,100
+<24-2,Bree>Honey,what are you doing in my bed?
+<24-2,Bree>亲爱的，你在我床上干什么？
+
+556
+00:34:31,100 --> 00:34:34,000
+<24-3,Peter>Have you seen my pants? I can't--
+<24-3,Peter>你看见我的裤子了吗？ 我不能找到...
+
+557
+00:34:39,180 --> 00:34:41,310
+<24-4,Andrew>now we're even.
+<24-4,Andrew>现在我们打平手了
+
+558
+00:34:47,130 --> 00:34:51,370
+<25-1,Bree>Did you forget that we're supposed to take that tour of perkins college today?
+<25-1,Bree>你忘了我们今天应该要去 参观perkins大学吗？
+
+559
+00:34:52,430 --> 00:34:54,240
+<0-0,None>Seriously?
+<0-0,None>你是认真的吗？
+
+560
+00:34:54,240 --> 00:34:59,500
+<25-2,Andrew>After last night,I didn't exactly think you'd be too keen on sitting next to me in a car for three hours.
+<25-2,Andrew>昨晚之后，我猜你不会想坐在 我旁边开三个小时的车
+
+561
+00:34:59,500 --> 00:35:04,800
+<25-3,Bree>Consider me a cheerleader for anything that expedites me getting you out from under my roof.
+<25-3,Bree>所有让你可以离开这里的事情 都可以让我振奋起来
+
+562
+00:35:07,170 --> 00:35:10,140
+<25-4,Andrew>Glad we can come to an understanding.
+<25-4,Andrew>很高兴我们达成共识了
+
+563
+00:35:30,730 --> 00:35:33,580
+<26-1,Andrew>Why'd we stop here? We have half a tank left.
+<26-1,Andrew>为什么我们要停在这儿？ 我们还有半桶油
+
+564
+00:35:33,580 --> 00:35:36,860
+<26-2,Bree>There's so many things i wanna say to you,andrew.
+<26-2,Bree>我有很多话想和你说，andrew
+
+565
+00:35:37,850 --> 00:35:41,990
+<26-2,Bree>But mostly,I just want you to know how sorry I am.
+<26-2,Bree>但最重要的，我想告诉你 我感到多么的抱歉
+
+566
+00:35:41,990 --> 00:35:44,400
+<26-3,Andrew>Sorry for what?
+<26-3,Andrew>为什么而抱歉？
+
+567
+00:35:44,400 --> 00:35:47,850
+<26-4,Bree>Every child deserves to be loved unconditionally,
+<26-4,Bree>每个孩子都应该得到无条件的爱护
+
+568
+00:35:48,600 --> 00:35:52,110
+<26-4,Bree>and I thought that was the kind of love that I had for you.
+<26-4,Bree>而我一直认为我对你的爱就是那种爱
+
+569
+00:35:54,440 --> 00:35:57,620
+<26-4,Bree>Maybe if I had, it would've been different.
+<26-4,Bree>也许是真的 事情就会与现在完全不同了
+
+570
+00:35:59,200 --> 00:36:04,160
+<26-5,Andrew>why do i suddenly get the feeling we're not gonna make it out to perkins college today?
+<26-5,Andrew>我怎么感觉我们 今天不会去perkins大学？
+
+571
+00:36:12,170 --> 00:36:14,610
+<26-6,Andrew>-What are you doing?
+<26-6,Andrew>- 你在干什么？
+
+572
+00:36:12,170 --> 00:36:14,610
+<26-7,Bree>I packed up some of your things.
+<26-7,Bree> 我收拾了一些你的东西
+
+573
+00:36:14,610 --> 00:36:17,920
+<26-7,Bree>There's also,um,an envelope in here with some money,
+<26-7,Bree>还有一个信封，里头装了点钱
+
+574
+00:36:17,920 --> 00:36:21,400
+<26-7,Bree>and that should tide you over until you get a job.
+<26-7,Bree>在你找到工作之前足够你生活
+
+575
+00:36:22,240 --> 00:36:25,600
+<26-8,Andrew>What,you're gonna leave me out here in the middle of nowhere?
+<26-8,Andrew>你要把我扔在荒郊野外？
+
+576
+00:36:26,830 --> 00:36:30,900
+<26-9,Bree>I noticed a bus stop about a mile back.
+<26-9,Bree>来的路上离这一英里有一个公车站
+
+577
+00:36:31,460 --> 00:36:33,820
+<26-9,Bree>You can go anywhere you want.
+<26-9,Bree>你可以去任何你想去的地方
+
+578
+00:36:33,820 --> 00:36:36,910
+<26-10,Andrew>Mama,mom, please don't do this.
+<26-10,Andrew>妈妈，求你别这样
+
+579
+00:36:37,740 --> 00:36:40,070
+<26-11,Bree>I have to.
+<26-11,Bree>我不得不
+
+580
+00:36:41,670 --> 00:36:45,470
+<26-11,Bree>I can't be around you anymore. I'm just not strong enough.
+<26-11,Bree>我不能再在你身边了 我不够坚强
+
+581
+00:36:50,100 --> 00:36:52,890
+<26-12,Andrew>You know what the good news is?
+<26-12,Andrew>你知道好消息是什么吗？
+
+582
+00:36:52,890 --> 00:36:54,820
+<26-14,Andrew>I win.
+<26-14,Andrew>我赢了
+
+583
+00:36:56,230 --> 00:36:58,410
+<26-13,Bree>You win?
+<26-13,Bree>你赢了？
+
+584
+00:36:59,420 --> 00:37:02,740
+<26-14,Andrew>I remember the look in your eyes when I told you I was gay,
+<26-14,Andrew>我记得你当时的眼神 当我告诉你我是同性恋
+
+585
+00:37:03,110 --> 00:37:07,350
+<26-14,Andrew>and I knew that one day, you would stop loving me.
+<26-14,Andrew>那时候我就知道总有一天 你会不再爱我
+
+586
+00:37:10,540 --> 00:37:12,940
+<28-1,Mike>So here we are.
+<28-1,Mike>那一天来了
+
+587
+00:37:12,940 --> 00:37:17,370
+<26-14,Andrew>I was righ and I... I win.
+<26-14,Andrew>我是对的，我，赢了
+
+588
+00:37:20,970 --> 00:37:23,710
+<26-15,Bree>Well,good for you.
+<26-15,Bree>那好的，好的
+
+589
+00:38:14,190 --> 00:38:16,770
+<27-1,Susan>Hi. I made you a thank-you pie,
+<27-1,Susan>嗨，我做了一个派感谢你
+
+590
+00:38:16,770 --> 00:38:19,500
+<27-1,Susan>and by "made," I mean "bought."
+<27-1,Susan>我说“做”的意思其实就是“买”
+
+591
+00:38:58,810 --> 00:39:01,880
+<28-1,Mike>so what exactly are you thanking me for?
+<28-1,Mike>你想感谢我什么？
+
+592
+00:39:02,630 --> 00:39:05,760
+<28-2,Susan>For keeping edie from smashing my face in.
+<28-2,Susan>谢你不让我的头被edie揉碎
+
+593
+00:39:07,110 --> 00:39:09,770
+<28-2,Susan>That's the nicest thing anybody ever did for me.
+<28-2,Susan>那是别人对我做过得最善良的事情了
+
+594
+00:39:09,770 --> 00:39:13,260
+<28-3,Mike>Just... trying to keep peace on the lane.
+<28-3,Mike>我只是...想保持社区的宁静
+
+595
+00:39:13,670 --> 00:39:15,900
+<28-4,Susan>Well,you keep telling yourself that.
+<28-4,Susan>你一直用这个理由告诉自己
+
+596
+00:39:15,900 --> 00:39:18,570
+<28-4,Susan>I know why you really paid that guy off.
+<28-4,Susan>我知道你实际上 为什么给钱那个私家侦探
+
+597
+00:39:20,020 --> 00:39:22,240
+<28-4,Susan>You still care about me.
+<28-4,Susan>你仍然关心我
+
+598
+00:39:22,740 --> 00:39:23,990
+<28-5,Mike>What?
+<28-5,Mike>什么？
+
+599
+00:39:25,750 --> 00:39:28,650
+<28-6,Susan>you're always worried about julie and me,
+<28-6,Susan>你一直在担心julie和我
+
+600
+00:39:28,650 --> 00:39:31,640
+<28-6,Susan>and you beat upnmy new boyfriend.
+<28-6,Susan>你打了我的新男友
+
+601
+00:39:32,060 --> 00:39:34,900
+<28-6,Susan>and now you're protecting me from edie.
+<28-6,Susan>现在你又在保护我
+
+602
+00:39:35,380 --> 00:39:37,940
+<28-6,Susan>Do you know what all that means?
+<28-6,Susan>你知道这些意味着什么吗？
+
+603
+00:39:38,550 --> 00:39:41,130
+<28-7,Mike>That you're high maintenance?
+<28-7,Mike>“你高风尚高觉悟？”
+
+604
+00:39:43,870 --> 00:39:47,200
+<28-8,Susan>all right, you go ahead a be coy. Fine.
+<28-8,Susan>算了 你继续这样装傻吧
+
+605
+00:39:48,060 --> 00:39:50,810
+<28-8,Susan>I'll be the one to break the ice.
+<28-8,Susan>我来捅破这层纸
+
+606
+00:39:51,810 --> 00:39:54,920
+<28-8,Susan>I've never stopped caring about you.
+<28-8,Susan>我一直在关心你
+
+607
+00:39:56,270 --> 00:39:59,020
+<28-9,Mike>Is that why you jumped in bed with karl?
+<28-9,Mike>这就是你和karl睡觉的原因？
+
+608
+00:39:59,020 --> 00:40:04,020
+<28-10,Susan>I would've never even gone there if I had thought there was a chance with us.
+<28-10,Susan>我不会那样 如果我知道我与你之间还有机会
+
+609
+00:40:04,020 --> 00:40:07,930
+<28-10,Susan>You just closed the door so completely,I...
+<28-10,Susan>你把我们之间那扇门关得那么彻底
+
+610
+00:40:09,310 --> 00:40:12,000
+<28-10,Susan>ugh,can we just not talk about him?
+<28-10,Susan>我们能不能不说他了？
+
+611
+00:40:13,110 --> 00:40:15,190
+<28-10,Susan>Have some more pie.
+<28-10,Susan>再吃点派
+
+612
+00:40:15,500 --> 00:40:18,260
+<28-10,Susan>I know you like pie.
+<28-10,Susan>我知道你喜欢吃派
+
+613
+00:40:19,870 --> 00:40:22,640
+<28-10,Susan>I know you like me.
+<28-10,Susan>我知道你喜欢我
+
+614
+00:40:24,720 --> 00:40:26,520
+<0-0,None>Listen...
+<0-0,None>听着...
+
+615
+00:40:27,520 --> 00:40:30,670
+<28-10,Susan>I'm not asking for us to get back together.
+<28-10,Susan>我并不是想要与你破镜重圆
+
+616
+00:40:30,670 --> 00:40:34,060
+<28-10,Susan>I just want us to be friends.
+<28-10,Susan>我只是想与你成为朋友
+
+617
+00:40:34,540 --> 00:40:37,660
+<28-11,Mike>-Susan?
+<28-11,Mike>- Susan?
+
+618
+00:40:34,540 --> 00:40:37,660
+<28-12,Susan>Yes?
+<28-12,Susan> 嗯？
+
+619
+00:40:38,710 --> 00:40:41,170
+<28-13,Mike>Your house is on fire.
+<28-13,Mike>你房子着火了
+
+620
+00:40:45,910 --> 00:40:48,550
+<28-14,Susan>my whole house is... on fire!
+<28-14,Susan>我整栋房子...着火了！
+
+621
+00:40:48,550 --> 00:40:52,870
+<28-15,Mary Alice Voiceover>When the truth is ugly, people try to keep it hidden,
+<28-15,Mary Alice Voiceover>当真相是丑陋的时候 人们尝试将它隐藏起来
+
+622
+00:40:52,870 --> 00:40:57,770
+<28-15,Mary Alice Voiceover>because they know if revealed, the damage it will do.
+<28-15,Mary Alice Voiceover>因为人们知道，真相泄露 所带来的伤害是多么严重
+
+623
+00:40:58,900 --> 00:41:02,190
+<28-15,Mary Alice Voiceover>So they conceal it within sturdy walls...
+<28-15,Mary Alice Voiceover>所以人们用严实的高墙 将其藏匿起来...
+
+624
+00:41:03,470 --> 00:41:07,020
+<28-15,Mary Alice Voiceover>or they place it behind closed doors...
+<28-15,Mary Alice Voiceover>或者将其关在紧缩的门后...
+
+625
+00:41:08,320 --> 00:41:12,060
+<28-15,Mary Alice Voiceover>or they obscure it with clever disguises...
+<28-15,Mary Alice Voiceover>或者用聪明的伪装使其变得模糊...
+
+626
+00:41:13,250 --> 00:41:17,460
+<28-15,Mary Alice Voiceover>but truth,no matter how ugly, always emerges...
+<28-15,Mary Alice Voiceover>但是真相，无论多么丑陋 总会浮出水面...
+
+627
+00:41:24,050 --> 00:41:28,940
+<28-16,Mary Alice Voiceover>and someone we care about always ends up getting hurt...
+<28-16,Mary Alice Voiceover>那些我们关心的人最终 还是会受到伤害...
+
+628
+00:41:35,420 --> 00:41:39,350
+<28-17,Mary Alice Voiceover>and someone else will revel in their pain,
+<28-17,Mary Alice Voiceover>另外一些人会因为 别人的伤痛而非常快乐
+
+629
+00:41:39,870 --> 00:41:43,460
+<28-17,Mary Alice Voiceover>and that's the ugliest truth of all.
+<28-17,Mary Alice Voiceover>这才是世界上最丑陋的事实
+
+630
+00:41:43,460 --> 00:41:47,966
+<0-0,None><font color="#ffff00">The Desperate Housewives Season 02  Episode 21
+<0-0,None><font color="#ffff00">绝望的主妇 第2季 第21集
+
+631
+00:41:43,460 --> 00:41:47,966
+<0-0,None>The End-</font>
+<0-0,None>=完=-</font>
+

@@ -1,0 +1,3665 @@
+1
+20
+<1-1,Mary Alice Voiceover><i>Previously on Desperate Housewives:</i>
+<1-1,Mary Alice Voiceover><i>《绝望的主妇》  前情回顾</i>
+
+2
+21
+<1-2,Mary Alice Voiceover><i>Nora looked for trouble,</i>
+<1-2,Mary Alice Voiceover><i>诺拉自找麻烦</i>
+
+3
+22
+<1-2,Mary Alice Voiceover><i>and found it.</i>
+<1-2,Mary Alice Voiceover><i>最终如愿以偿</i>
+
+4
+23
+<1-3,Lynette>You will never again see my husband.
+<1-3,Lynette>你再也不会见到我丈夫了
+
+5
+24
+<1-4,Mary Alice Voiceover><i>Julie got to know Edie's nephew.</i>
+<1-4,Mary Alice Voiceover><i>朱莉认识了伊迪的外甥</i>
+
+6
+25
+<1-5,Austin>Couldn't take her eyes off my abs.
+<1-5,Austin>她老是盯着我的腹肌看
+
+7
+26
+<1-5,Austin>I felt violated.
+<1-5,Austin>看得我不舒服
+
+8
+27
+<1-6,Mary Alice Voiceover><i>Susan and Ian made plans.</i>
+<1-6,Mary Alice Voiceover><i>苏珊和伊恩计划了美妙旅程</i>
+
+9
+28
+<1-7,Susan>I'd love to go to France someday.
+<1-7,Susan>我梦想去一趟法国  
+
+10
+29
+<1-8,Ian>Would you like to go next month?
+<1-8,Ian>你想不想下个月就去
+
+11
+30
+<1-9,Mary Alice Voiceover><i>Gabrielle and Carlos reunited.</i>
+<1-9,Mary Alice Voiceover><i>加布丽尔和卡洛斯重温旧情</i>
+
+12
+31
+<1-10,Carlos>It's been a long time.
+<1-10,Carlos>很久没这样了 
+
+13
+32
+<1-11,Mary Alice Voiceover><i>And dinner with the Bigsbys...</i>
+<1-11,Mary Alice Voiceover><i>和碧茨比夫妇共进晚餐</i>
+
+14
+33
+<1-12,Carolyn>That's the police report that Alma filed after Orson hit her.
+<1-12,Carolyn>这是奥森打她后  阿尔玛留存的警方报告
+
+15
+34
+<1-13,Mary Alice Voiceover><i>... was full of surprises.</i>
+<1-13,Mary Alice Voiceover><i>...充满意外</i>
+
+16
+35
+<1-14,Orson>I'm going through something. I had an affair.
+<1-14,Orson>我正在经历一些事  我有了外遇
+
+17
+37
+<2-1,Mary Alice Voiceover><i>It was supposed to be an ordinary day for Carolyn Bigsby.</i>
+<2-1,Mary Alice Voiceover><i>对于卡洛琳·碧茨比来说  这本应是平凡的一天</i>
+
+18
+38
+<2-1,Mary Alice Voiceover><i>She had planned to bake her husband a strudel,</i>
+<2-1,Mary Alice Voiceover><i>她本打算为丈夫烤果陷酥饼</i>
+
+19
+39
+<2-1,Mary Alice Voiceover><i>give her dog a bath,</i>
+<2-1,Mary Alice Voiceover><i>为狗狗洗澡</i>
+
+20
+40
+<2-1,Mary Alice Voiceover><i>and water her African violets.</i>
+<2-1,Mary Alice Voiceover><i>为非洲紫罗兰浇水</i>
+
+21
+41
+<2-8,Mary Alice><i>Yes, Carolyn had planned to do</i>
+<2-8,Mary Alice><i>是的  卡洛琳本打算</i>
+
+22
+42
+<2-1,Mary Alice Voiceover><i>all sorts of things she thought mattered.</i>
+<2-1,Mary Alice Voiceover><i>做一些她所关心的事情</i>
+
+23
+43
+<2-1,Mary Alice Voiceover><i>But earlier that day, a woman who wasn't her friend</i>
+<2-1,Mary Alice Voiceover><i>但那天早上  一个来者不善的女人</i>
+
+24
+44
+<2-1,Mary Alice Voiceover><i>told Carolyn something she wasn't supposed to hear.</i>
+<2-1,Mary Alice Voiceover><i>告诉了她一件本不应知道的事情</i>
+
+25
+45
+<2-1,Mary Alice Voiceover><i>From that moment on,</i>
+<2-1,Mary Alice Voiceover><i>从那一刻起</i>
+
+26
+46
+<2-1,Mary Alice Voiceover><i>Carolyn felt nothing really mattered anymore.</i>
+<2-1,Mary Alice Voiceover><i>卡洛琳感到一切都不重要了</i>
+
+27
+47
+<2-2,Susan>- Hello, Carolyn.
+<2-2,Susan>-你好  卡洛琳 
+
+28
+47
+<2-3,Carolyn> Yeah, hey, how are you?
+<2-3,Carolyn>你好啊
+
+29
+48
+<2-4,Harvey>Carolyn, what are you doing here?
+<2-4,Harvey>卡洛琳  你怎么来了
+
+30
+49
+<2-5,Carolyn>I've been thinking, Harvey,
+<2-5,Carolyn>我在想  哈维  
+
+31
+50
+<2-5,Carolyn>that if you love this Monique woman so much,
+<2-5,Carolyn>如果你深爱那个叫莫妮可的女人
+
+32
+51
+<2-5,Carolyn>maybe you should be with her.
+<2-5,Carolyn>也许我应该成全你们
+
+33
+52
+<2-6,Harvey>For God's sake, Carolyn, she's dead.
+<2-6,Harvey>别这样  卡洛琳  她已经死了
+
+34
+53
+<2-7,Carolyn>Yeah, I know.
+<2-7,Carolyn>对  我知道
+
+35
+54
+<2-8,Mary Alice><i>Yes, Carolyn Bigsby had planned on
+<2-8,Mary Alice><i>是的  对于卡洛琳·碧茨比来说  
+
+36
+55
+<2-8,Mary Alice>it being an ordinary day.</i>
+<2-8,Mary Alice>这本应是平凡的一天</i>
+
+37
+56
+<2-9,Carolyn>Harvey, you come out of there, damn it.
+<2-9,Carolyn>哈维  你他妈给我滚出来
+
+38
+57
+<2-10,Mary Alice Voiceover><i>But as every housewife knows...</i>
+<2-10,Mary Alice Voiceover><i>但每个家庭主妇都知道...</i>
+
+39
+58
+<2-11,Carolyn>Down. Nobody goes anywhere.
+<2-11,Carolyn>蹲下  谁都不许动
+
+40
+59
+<2-12,Mary Alice Voiceover><i>... plans change.</i>
+<2-12,Mary Alice Voiceover><i>...计划赶不上变化</i>
+
+41
+61
+<3-1,Mary Alice Voiceover><i>Lynette Scavo had a dream last night.</i>
+<3-1,Mary Alice Voiceover><i>勒奈特·斯加沃昨晚做了一个梦</i>
+
+42
+62
+<3-1,Mary Alice Voiceover><i>It was one she'd had many times before.</i>
+<3-1,Mary Alice Voiceover><i>那是一个曾多次涌现的梦境</i>
+
+43
+63
+<3-1,Mary Alice Voiceover><i>She dreamt of the last time she saw me.</i>
+<3-1,Mary Alice Voiceover><i>她梦到了最后一次与我见面时的场景</i>
+
+44
+64
+<3-1,Mary Alice Voiceover><i>And of the last time we spoke.</i>
+<3-1,Mary Alice Voiceover><i>那也是我们最后一次交谈</i>
+
+45
+65
+<5-1,Lynette>Hey, Mary Alice!
+<5-1,Lynette>玛丽·艾莉丝 
+
+46
+66
+<4-1,Lynette>Are you OK?
+<4-1,Lynette>你还好吗
+
+47
+67
+<4-2,Mary Alice>Yes, thank you.
+<4-2,Mary Alice>还好  谢谢关心
+
+48
+68
+<4-2,Mary Alice>I'm fine.
+<4-2,Mary Alice>我很好
+
+49
+69
+<0-0,None>OK.
+<0-0,None>好吧
+
+50
+70
+<4-3,Lynette>See you later.
+<4-3,Lynette>再见
+
+51
+71
+<4-4,Mary Alice Voiceover><i>It was still hard for Lynette to accept</i>
+<4-4,Mary Alice Voiceover><i>勒奈特至今都无法释怀</i>
+
+52
+72
+<4-4,Mary Alice Voiceover><i>that this unremarkable exchange had been our last.</i>
+<4-4,Mary Alice Voiceover><i>这次不起眼的对话  是生离死别</i>
+
+53
+73
+<4-4,Mary Alice Voiceover><i>Or that moments later I would enter my house</i>
+<4-4,Mary Alice Voiceover><i>并且在我进屋不久之后</i>
+
+54
+74
+<4-4,Mary Alice Voiceover><i>and put a bullet through my brain.</i>
+<4-4,Mary Alice Voiceover><i>我用一颗子弹  结束了自己的生命</i>
+
+55
+75
+<5-1,Lynette>I had the Mary Alice dream again last night.
+<5-1,Lynette>我昨天又梦到玛丽·艾莉丝了
+
+56
+77
+<5-2,Gabrielle>Oh, hon, again?
+<5-2,Gabrielle>又梦到她了  
+
+57
+78
+<5-3,Lynette>I haven't had it for months.
+<5-3,Lynette>已经好几月没梦到她了
+
+58
+79
+<5-3,Lynette>I don't know why it came back.
+<5-3,Lynette>不知道为什么会重现  
+
+59
+80
+<5-4,Bree>Somebody just bought her old house.
+<5-4,Bree>可能是有人买下了她的老房子
+
+60
+81
+<5-4,Bree>Maybe that triggered something.
+<5-4,Bree>勾起了你的回忆  
+
+61
+82
+<5-5,Lynette>It was awful, as always.
+<5-5,Lynette>梦境一如既往地可怕
+
+62
+83
+<5-5,Lynette>I saw she was in pain and I just walked away.
+<5-5,Lynette>我明知道她很痛苦  但却转身走开了
+
+63
+84
+<5-6,Gabrielle>There was nothing you could do.
+<5-6,Gabrielle>你当时也无能为力啊
+
+64
+85
+<5-7,Lynette>And that's what I did, nothing.
+<5-7,Lynette>我确实无所作为
+
+65
+86
+<5-8,Bree>Hey, is that the new neighbor?
+<5-8,Bree>那就是新来的邻居吗
+
+66
+87
+<5-9,Gabrielle>- He's cute.
+<5-9,Gabrielle>-真帅啊 
+
+67
+87
+<5-10,Bree> Edie said he's a bachelor.
+<5-10,Bree>伊迪说他还是单身
+
+68
+88
+<5-11,Gabrielle>- Keep talking.
+<5-11,Gabrielle>-接着说 
+
+69
+88
+<5-12,Bree> Who lives with his invalid sister.
+<5-12,Bree>他和残疾的妹妹住在一起
+
+70
+89
+<5-13,Gabrielle>You can stop now.
+<5-13,Gabrielle>不要再说了
+
+71
+90
+<5-14,Bree>Should we go introduce ourselves?
+<5-14,Bree>我们要不要去打个招呼
+
+72
+91
+<5-15,Gabrielle>Yeah. Let's give him the scoop on the neighborhood.
+<5-15,Gabrielle>对呀  去跟他聊聊家常
+
+73
+92
+<5-16,Lynette>Do you think he knows
+<5-16,Lynette>你们觉得他知道
+
+74
+93
+<5-16,Lynette>Mary Alice shot herself in his living room?
+<5-16,Lynette>玛丽·艾莉丝是在他客厅里自杀的吗
+
+75
+94
+<5-17,Bree>Then again, he probably wants some time to unpack.
+<5-17,Bree>不过想想  还是给他点时间拆包行李吧
+
+76
+95
+<6-1,Bree>Orson, if you have a moment,
+<6-1,Bree>奥森  你如果不忙的话  
+
+77
+96
+<6-1,Bree>there's something I'd like your thoughts on.
+<6-1,Bree>有样东西需要你过目一下
+
+78
+97
+<6-2,Orson>Certainly. What is it?
+<6-2,Orson>好呀  什么东西  
+
+79
+98
+<6-2,Orson>Menu for our holiday open house?
+<6-2,Orson>假日家庭招待会的菜单吗
+
+80
+99
+<6-3,Bree>No! It's a police report from the night you beat your first wife.
+<6-3,Bree>不  是你殴打前妻的报案记录
+
+81
+100
+<6-3,Bree>I'm still working on the menu.
+<6-3,Bree>菜单还在制定当中
+
+82
+101
+<6-4,Orson>I assure you, I did not beat my wife.
+<6-4,Orson>我向你保证  我没有殴打前妻
+
+83
+102
+<6-4,Orson>She suffered these injuries in a fall.
+<6-4,Orson>是她自己摔伤的
+
+84
+103
+<6-5,Bree>- How did she fall?
+<6-5,Bree>-她是怎么摔倒的 
+
+85
+103
+<6-6,Orson> I pushed her.
+<6-6,Orson>我推了她一把
+
+86
+104
+<6-6,Orson>It was self-defense. She attacked me.
+<6-6,Orson>那属于自卫  她打我
+
+87
+105
+<6-7,Bree>Why would she attack you?
+<6-7,Bree>她为什么要打你
+
+88
+106
+<6-8,Orson>She spilled some red wine on a white table cloth.
+<6-8,Orson>她把红酒洒到了白桌布上
+
+89
+107
+<6-8,Orson>She was cleaning it with dish soap.
+<6-8,Orson>却用洗碗皂清洗  
+
+90
+108
+<6-8,Orson>When I pointed out her mistake,
+<6-8,Orson>我指正了她的错误
+
+91
+109
+<6-8,Orson>she started screaming, "Shut up! Shut up!"
+<6-8,Orson>她却冲我大喊  "闭嘴  闭嘴"
+
+92
+110
+<6-8,Orson>and striking me repeatedly with a saute pan.
+<6-8,Orson>然后拿平底锅不停打我
+
+93
+111
+<6-8,Orson>Look. The police dropped the charges.
+<6-8,Orson>你看  警察撤消了指控
+
+94
+112
+<6-8,Orson>Where did you get this?
+<6-8,Orson>这是你从哪弄来的
+
+95
+113
+<6-9,Bree>Carolyn.
+<6-9,Bree>卡洛琳给我的  
+
+96
+114
+<6-10,Orson>Oh, of course. Who else?
+<6-10,Orson>想想也是  还能是谁  
+
+97
+115
+<6-10,Orson>If she paid this much attention to her own marriage
+<6-10,Orson>如果她能对自己的婚姻能这么上心
+
+98
+116
+<6-10,Orson>maybe Harvey wouldn't have cheated on her.
+<6-10,Orson>哈维也不至于出轨
+
+99
+117
+<6-11,Bree>- Harvey cheated?
+<6-11,Bree>-哈维出轨了 
+
+100
+117
+<8-7,Gabrielle> Yes!
+<8-7,Gabrielle>是啊
+
+101
+118
+<6-12,Orson>With some flight attendant named Monique.
+<6-12,Orson>和一个叫莫妮可的空姐
+
+102
+119
+<6-12,Orson>Darling, I could never strike a woman.
+<6-12,Orson>亲爱的  我永远不会打女人的
+
+103
+120
+<6-12,Orson>Well, you do believe me, don't you?
+<6-12,Orson>你是相信我的  对吧
+
+104
+121
+<6-13,Bree>All right. I accept your explanation.
+<6-13,Bree>好吧  我接受你的解释
+
+105
+122
+<6-13,Bree>I just wish there were fewer things for you to explain.
+<6-13,Bree>我希望别再有这些麻烦事  要你解释了
+
+106
+123
+<6-13,Bree>By the way,
+<6-13,Bree>顺便提一句
+
+107
+124
+<6-13,Bree>to remove a red wine stain you sprinkle salt to absorb it.
+<6-13,Bree>食盐可以吸收红酒渍
+
+108
+125
+<6-14,Orson>That's just what I was saying to Alma when she clocked me!
+<6-14,Orson>我就是这么告诉阿尔玛的  她却打了我
+
+109
+126
+<7-1,Lynette>Whoa. What fresh hell is this?
+<7-1,Lynette>又要整出什么新花样
+
+110
+127
+<7-2,Nora>Hey, Tom?
+<7-2,Nora>汤姆
+
+111
+128
+<7-3,Lynette>You've stepped onto my property and talked to Tom.
+<7-3,Lynette>你不仅踏入了我的领地  还跟汤姆搭讪
+
+112
+129
+<7-3,Lynette>That's two rules you've broken
+<7-3,Lynette>一下子打破两项规定  
+
+113
+130
+<7-3,Lynette>and I'm not sure that top doesn't make three.
+<7-3,Lynette>而穿着暴露大概算是第三项
+
+114
+131
+<7-4,Nora>Would you tell your lunatic wife I'm not talking to her?
+<7-4,Nora>你能告诉你的疯婆娘  我没在跟她说话吗
+
+115
+132
+<7-5,Lynette>You're the lunatic if you think I'm letting you
+<7-5,Lynette>如果你以为我会让你接近我老公  
+
+116
+133
+<7-5,Lynette>- near my husband.
+<7-5,Lynette>-那你才是疯了 
+
+117
+133
+<7-5,Lynette> Just drop Kayla off and go.
+<7-5,Lynette>把凯拉放下就赶紧走
+
+118
+134
+<7-6,Nora>Kayla won't be visiting today.
+<7-6,Nora>凯拉今天不是来玩的
+
+119
+135
+<7-12,Nora>We're moving,
+<7-12,Nora>我们要搬家了
+
+120
+136
+<7-6,Nora>and here's where you can send the child support.
+<7-6,Nora>你可以把抚养费寄到这里
+
+121
+137
+<7-7,Tom>Mexico?
+<7-7,Tom>墨西哥
+
+122
+138
+<7-8,Nora>An old friend of mine got me a sweet job
+<7-8,Nora>我的一位老朋友帮我找了
+
+123
+139
+<7-8,Nora>dancing at a nightclub.
+<7-8,Nora>一份夜店舞娘的美差
+
+124
+140
+<7-8,Nora>- In Tijuana.
+<7-8,Nora>-在蒂华纳[美墨边境小城] 
+
+125
+140
+<7-9,Tom> Great. And you're taking Kayla?
+<7-9,Tom>见鬼  你要把凯拉带走吗
+
+126
+141
+<7-4,Nora>Thank your wife.
+<7-4,Nora>托您太太的福
+
+127
+142
+<7-10,Nora>She's been itching to get rid of us ever since we got here.
+<7-10,Nora>自从我们搬到这里她就急于摆脱我们
+
+128
+143
+<7-10,Nora>She finally got her way.
+<7-10,Nora>她终于得逞了
+
+129
+144
+<7-10,Nora>Wave bye-bye to your daddy, honey.
+<7-10,Nora>宝贝  和爸爸挥手再见
+
+130
+145
+<7-11,Tom>Nora, can we just talk about this?
+<7-11,Tom>诺拉  这事容再谈谈吗
+
+131
+146
+<7-12,Nora>Oh, we're not allowed to talk.
+<7-12,Nora>我们不允许交谈
+
+132
+147
+<7-12,Nora>Remember?
+<7-12,Nora>记得吗
+
+133
+148
+<7-13,Lynette>She's Tom's daughter.
+<7-13,Lynette>她是汤姆的女儿  
+
+134
+149
+<7-13,Lynette>Can't just take her out of the country.
+<7-13,Lynette>你不能就这么带她出国
+
+135
+150
+<7-14,Nora>Watch me.
+<7-14,Nora>那走着瞧
+
+136
+151
+<8-1,Judge>Does either party have anything to add before I rule on
+<8-1,Judge>在我就财产分割及赡养费问题做出裁决前
+
+137
+152
+<8-1,Judge>division of assets and alimony?
+<8-1,Judge>双方还有什么要补充的吗
+
+138
+153
+<8-2,Gabrielle’s Lawyer>No, we're confident that your ruling will reflect
+<8-2,Gabrielle’s Lawyer>没有  我们相信您的裁决能充分反映出
+
+139
+154
+<8-2,Gabrielle’s Lawyer>the pain and suffering endured by my client.
+<8-2,Gabrielle’s Lawyer>我当事人所经受的痛苦与折磨
+
+140
+155
+<8-3,Carlos’s Lawyer>Does the definition of suffering encompass
+<8-3,Carlos’s Lawyer>折磨的定义是否包含
+
+141
+156
+<8-3,Carlos’s Lawyer>the seduction of my client four days ago?
+<8-3,Carlos’s Lawyer>她四天前对我当事人的勾引呢
+
+142
+157
+<8-4,Judge>Excuse me?
+<8-4,Judge>你说什么
+
+143
+158
+<8-5,Carlos’s Lawyer>She thought he was coming into money
+<8-5,Carlos’s Lawyer>她认为他将获丰厚财产
+
+144
+159
+<8-5,Carlos’s Lawyer>and hoped to stall the divorce
+<8-5,Carlos’s Lawyer>于是希望通过拖延离婚
+
+145
+160
+<8-5,Carlos’s Lawyer>until she could claim her share.
+<8-5,Carlos’s Lawyer>来获得分成
+
+146
+161
+<8-6,Gabrielle>How dare you! That is a vicious lie.
+<8-6,Gabrielle>你竟敢这么说  那纯属诽谤
+
+147
+162
+<8-7,Gabrielle><i>Oh, Carlos, give it to me!</i>
+<8-7,Gabrielle><i>卡洛斯  我要你</i>
+
+148
+163
+<0-0,None><i>Carlos, yes, yes!</i>
+<0-0,None><i>卡洛斯  就是这样  太棒了</i>
+
+149
+164
+<0-0,None><i>Carlos!</i>
+<0-0,None><i>卡洛斯</i>
+
+150
+165
+<8-8,Gabrielle>You recorded our lovemaking?
+<8-8,Gabrielle>你竟把我们做爱都录了下来
+
+151
+166
+<8-9,Carlos>It's all here, Your Honor.
+<8-9,Carlos>法官大人  证据都在这里了
+
+152
+167
+<8-9,Carlos>When she climaxes she starts screaming out dollar amounts.
+<8-9,Carlos>她达到高潮的时候  呐喊的是钞票
+
+153
+168
+<8-10,Judge>Mrs. Solis, would you like to respond?
+<8-10,Judge>索利斯太太  你要做出回应吗
+
+154
+169
+<8-11,Gabrielle>As a matter of fact, I do have a few thoughts.
+<8-11,Gabrielle>事实上  我确实有些想法
+
+155
+170
+<8-11,Gabrielle>Carlos, you're a dead man. Do you hear me?
+<8-11,Gabrielle>卡洛斯  你死定了  你听到没有
+
+156
+171
+<8-12,Carlos>The ruling seems fair to me.
+<8-12,Carlos>在我看来裁决很公平  
+
+157
+172
+<8-12,Carlos>You get the house.
+<8-12,Carlos>你分到了房子
+
+158
+173
+<8-12,Carlos>I just get everything in it.
+<8-12,Carlos>而我获得了里面所有财产  
+
+159
+174
+<8-13,Gabrielle>I said "dead"!
+<8-13,Gabrielle>我说你死定了
+
+160
+175
+<8-14,Carlos>No alimony. That's a drag.
+<8-14,Carlos>没有赡养费  挺苦恼的
+
+161
+176
+<8-14,Carlos>But you like to work, right?
+<8-14,Carlos>但你挺喜欢工作的  对吧  
+
+162
+177
+<8-15,Gabrielle>Just give me one shot at him. I'm willing to do the time!
+<8-15,Gabrielle>我要一枪毙了他  坐牢我也愿意
+
+163
+178
+<9-1,Julie>I was packing your suitcase,
+<9-1,Julie>我在帮你收拾行李
+
+164
+179
+<9-1,Julie>You're out of toothpaste.
+<9-1,Julie>发现你的牙膏用完了  
+
+165
+180
+<9-1,Julie>Do you want me to go to the store and get some?
+<9-1,Julie>我去商店买点吧
+
+166
+181
+<9-2,Susan>What is this?
+<9-2,Susan>这是什么
+
+167
+182
+<9-3,Julie>It was Austin's, OK?
+<9-3,Julie>那是奥斯丁留下的
+
+168
+183
+<9-4,Susan>Edie's nephew? Since when are you friends?
+<9-4,Susan>伊迪的外甥吗  你们什么时候变成朋友了
+
+169
+184
+<9-4,Susan>We are not friends.
+<9-4,Susan>我们不是朋友  
+
+170
+185
+<9-5,Julie>I was tutoring him. He brought beer.
+<9-5,Julie>我在给他做家教  他带来啤酒
+
+171
+186
+<9-5,Julie>I told him to throw it out, he did. End of story.
+<9-5,Julie>我让他丢掉  他照做了  就是这样
+
+172
+187
+<9-6,Susan>Did you have any?
+<9-6,Susan>你喝了吗
+
+173
+188
+<9-7,Susan>I cannot believe your timing.
+<9-7,Susan>你可真会把握时机啊
+
+174
+189
+<9-7,Susan>I about to fly off to Paris
+<9-7,Susan>我正准备飞去巴黎
+
+175
+190
+<9-7,Susan>and you're inviting boys over for Oktoberfest.
+<9-7,Susan>你就把男生请来过啤酒节
+
+176
+191
+<9-8,Julie>That's it.
+<9-8,Julie>别说了
+
+177
+192
+<9-8,Julie>Go and finish packing. This conversation's over.
+<9-8,Julie>赶紧去收拾行李吧  谈话到此结束
+
+178
+193
+<9-9,Susan>Last time I checked I was the parent.
+<9-9,Susan>好像我才是家长
+
+179
+194
+<9-10,Julie>Yeah. Last time I checked I was the daughter
+<9-10,Julie>是的  但好像我是个听话的女儿
+
+180
+195
+<9-10,Julie>who never gave you any reason to doubt her.
+<9-10,Julie>你不应当来怀疑我
+
+181
+196
+<9-1,Julie>- OK. And...
+<9-1,Julie>-好吧  那... 
+
+182
+196
+<9-11,Susan> Don't play the parent card with me.
+<9-11,Susan>别把我当小孩看待
+
+183
+197
+<9-12,Julie>I finished packing your suitcase,
+<9-12,Julie>我要为你收拾行李
+
+184
+198
+<9-12,Julie>doing your laundry and balancing your checkbook.
+<9-12,Julie>给你洗衣服  帮你管理开支
+
+185
+199
+<9-12,Julie>And now I'm going to the store to buy your toothpaste.
+<9-12,Julie>而现在我要去商店给你买牙膏
+
+186
+200
+<9-13,Susan>A simple "No, I didn't drink any beer" would've sufficed.
+<9-13,Susan>你直接说"我没喝啤酒"不就得了
+
+187
+201
+<10-1,Carolyn>Bree, you haven't returned my calls. I've been worried.
+<10-1,Carolyn>布里  你没回我电话  我很担心你
+
+188
+202
+<10-1,Carolyn>Have you told the wife beater you're leaving him?
+<10-1,Carolyn>你跟那个虐妻的人离婚了吗
+
+189
+203
+<10-2,Bree>Sorry, no.
+<10-2,Bree>抱歉  还没有  
+
+190
+204
+<10-2,Bree>Turns out he has an explanation for the police report.
+<10-2,Bree>针对报案记录  他给了我合理的解释
+
+191
+205
+<10-3,Carolyn>Come on. There's never a good reason for hitting a woman.
+<10-3,Carolyn>得了吧  打女人能有什么好借口
+
+192
+206
+<10-4,Bree>I used to think that, too. Then I met you.
+<10-4,Bree>认识你之前我也这么想的  现在不了
+
+193
+207
+<10-4,Bree>Good day.
+<10-4,Bree>祝你好运
+
+194
+208
+<10-5,Carolyn>I'm trying to help you. You're living in a fool's paradise.
+<10-5,Carolyn>我在帮你  你是活在黄粱美梦当中
+
+195
+209
+<10-6,Bree>Well, I guess that makes us neighbors.
+<10-6,Bree>彼此彼此
+
+196
+210
+<10-7,Carolyn>What's that supposed to mean?
+<10-7,Carolyn>这是什么意思
+
+197
+211
+<10-8,Bree>It means you should stop worrying about my marriage
+<10-8,Bree>就是说你别插手我的婚姻
+
+198
+212
+<10-8,Bree>and start worrying about your own.
+<10-8,Bree>先管好你自己的
+
+199
+213
+<10-9,Carolyn>Don't play coy with me.
+<10-9,Carolyn>别在我面前闪烁其词
+
+200
+214
+<10-9,Carolyn>You've got something to say, just say it.
+<10-9,Carolyn>你有话就快说
+
+201
+215
+<10-10,Bree>OK. Does the name Monique mean anything to you?
+<10-10,Bree>好吧  你对莫妮可这个名字有印象吗
+
+202
+216
+<11-1,Tom>Hey, I found this site that offers really cheap fares to Tijuana,
+<11-1,Tom>我发现在这个网站买去蒂华纳的票很便宜
+
+203
+217
+<11-1,Tom>but should I even be thinking of going to Tijuana?
+<11-1,Tom>可我是不是该去趟蒂华纳
+
+204
+218
+<11-2,Lynette>Fine with me.
+<11-2,Lynette>我无所谓啊
+
+205
+219
+<11-2,Lynette>As soon as you figure out a way to leave your genitals here.
+<11-2,Lynette>只要你把小弟弟留下就行
+
+206
+220
+<11-3,Tom>What are you saying, Lynette?
+<11-3,Tom>说什么呢  勒奈特
+
+207
+221
+<11-3,Tom>I'm not allowed to visit my daughter or what?
+<11-3,Tom>我还不能见见我的女儿吗
+
+208
+222
+<11-4,Lynette>See? This is exactly what she wants.
+<11-4,Lynette>看见了吧  这就是她想要的
+
+209
+223
+<11-4,Lynette>She takes Kayla and I get blamed.
+<11-4,Lynette>她带走了凯拉  而我背黑锅
+
+210
+224
+<11-4,Lynette>Well, screw her. Let's sue for custody.
+<11-4,Lynette>去她娘的  我们把抚养权要过来
+
+211
+225
+<11-5,Tom>Full custody? You'd go for that?
+<11-5,Tom>全部的抚养权  你要这么做吗
+
+212
+226
+<11-6,Lynette>You bet I would.
+<11-6,Lynette>当然啦
+
+213
+227
+<11-6,Lynette>Kayla will be much better off without "Crazy" in her life.
+<11-6,Lynette>凯拉离开了那个疯婆娘才会过得更好
+
+214
+228
+<11-7,Tom>- So will we. 
+<11-7,Tom>-我们也是 
+
+215
+228
+<11-8,Lynette> I... I am right there with you.
+<11-8,Lynette>我非常同意
+
+216
+229
+<11-9,Tom>I just... I never thought you'd want a fifth kid.
+<11-9,Tom>我只是觉得你不想要第五个孩子了
+
+217
+230
+<13-12,Harvey>I don't.
+<13-12,Harvey>我是不想
+
+218
+231
+<11-10,Lynette>But I didn't want the first four
+<11-10,Lynette>之前四个我也不想要
+
+219
+232
+<11-10,Lynette>and they're starting to grow on me.
+<11-10,Lynette>可照样也长大了
+
+220
+233
+<12-1,Carlos>Hey. Look whose plastic handcuffs got taken off.
+<12-1,Carlos>瞧啊  谁的塑料手铐被取下来了
+
+221
+234
+<12-1,Carlos>OK. You're clearly still a little miffed about the settlement.
+<12-1,Carlos>显然你对判决还有点生气
+
+222
+235
+<12-1,Carlos>Come on, be fair.
+<12-1,Carlos>好了  公平点
+
+223
+236
+<12-1,Carlos>I did buy most of the stuff in this house, honey.
+<12-1,Carlos>这里大多数东西确实是我买的  宝贝
+
+224
+237
+<12-2,Carlos>- What the hell are you doing? 
+<12-2,Carlos>-你在干嘛 
+
+225
+237
+<12-3,Gabrielle> Oh, I'm helping you pack.
+<12-3,Gabrielle>帮你打包
+
+226
+238
+<12-3,Gabrielle>Think of all the money you're gonna save on bubble wrap.
+<12-3,Gabrielle>看我帮你省了多少包装材料
+
+227
+239
+<12-4,Carlos>Hey! Do you know how much that was worth?
+<12-4,Carlos>你知道那东西多值钱吗
+
+228
+240
+<12-4,Carlos>Do you know how much I was worth?
+<12-4,Carlos>你知道我有多值钱吗
+
+229
+241
+<12-5,Gabrielle>When we met I was on the cover of magazines.
+<12-5,Gabrielle>我们认识时  我可是封面模特啊
+
+230
+242
+<12-5,Gabrielle>I had a career and a future.
+<12-5,Gabrielle>我事业辉煌  前途光明
+
+231
+243
+<12-5,Gabrielle>But I gave it all up for you. And what did I get in return?
+<12-5,Gabrielle>为了你我放弃了一切  可我得到了什么
+
+232
+244
+<12-6,Carlos>If you break one more thing, so help me.
+<12-6,Carlos>你要是再敢打碎一个  你就死定了
+
+233
+245
+<12-7,Gabrielle>What? What are you gonna do?
+<12-7,Gabrielle>怎么了  你要把我怎么样
+
+234
+246
+<12-8,Gabrielle>Carlos, have you lost your mind?
+<12-8,Gabrielle>卡洛斯  你疯了吗
+
+235
+247
+<12-9,Carlos>Well, you're helping me pack my stuff.
+<12-9,Carlos>你帮我打包
+
+236
+248
+<12-9,Carlos>I'm helping you remodel your house.
+<12-9,Carlos>我就帮你改造一下房子
+
+237
+249
+<12-9,Carlos>You know, I don't know about you,
+<12-9,Carlos>我不知道你怎么想
+
+238
+250
+<12-9,Carlos>but I always thought there should be a window
+<12-9,Carlos>可我一直希望这里
+
+239
+251
+<13-15,Carolyn>that was right there.
+<13-15,Carolyn>有扇窗户
+
+240
+252
+<12-9,Carlos>We could stop this right now
+<12-9,Carlos>我们是就此打住
+
+241
+253
+<12-9,Carlos>or we can keep on playing. Your call.
+<12-9,Carlos>还是接着玩  听你的
+
+242
+254
+<0-0,None>Toothpaste. Mouthwash.
+<0-0,None>牙膏  漱口水
+
+243
+255
+<13-1,Austin>Did somebody get an anonymous email?
+<13-1,Austin>有人收到匿名邮件了吗
+
+244
+256
+<13-2,Julie>Said the boy with the economic size acne cream.
+<13-2,Julie>某人带着经济型痤疮膏
+
+245
+257
+<13-3,Austin>There you go again, checking out my basket.
+<13-3,Austin>又来了  你可以看我的篮子
+
+246
+258
+<13-4,Julie>Go away.
+<13-4,Julie>走开
+
+247
+259
+<13-4,Julie>Do you know how much trouble your beer can got me in?
+<13-4,Julie>知道你的啤酒罐给我惹来多大麻烦
+
+248
+260
+<13-5,Austin>Let me make it up to you.
+<13-5,Austin>让我好好补偿你吧
+
+249
+261
+<13-5,Austin>I'll carry your stuff.
+<13-5,Austin>我帮你提篮子
+
+250
+262
+<13-6,Julie>Whatever.
+<13-6,Julie>管他呢
+
+251
+263
+<13-7,Harvey>- Yeah? 
+<13-7,Harvey>-哪位 
+
+252
+263
+<13-8,Carolyn> Harvey, it's me.
+<13-8,Carolyn>哈维  是我
+
+253
+264
+<13-9,Harvey>Hey, hon, I'm in the middle of something here, so...
+<13-9,Harvey>亲爱的  我正忙呢
+
+254
+265
+<13-10,Carolyn>I know about Monique.
+<13-10,Carolyn>莫妮可的事我知道了
+
+255
+266
+<13-11,Harvey>Um... Excuse me a sec.
+<13-11,Harvey>等我一会
+
+256
+267
+<13-12,Harvey>Look, I don't know who you've been talking to, but, um...
+<13-12,Harvey>听着  不知道谁告诉你的  但是
+
+257
+268
+<13-13,Carolyn>Did you love her?
+<13-13,Carolyn>你爱她吗
+
+258
+269
+<13-14,Harvey>She was just a friend.
+<13-14,Harvey>她只是普通朋友
+
+259
+270
+<13-14,Harvey>And she disappeared eight months ago.
+<13-14,Harvey>她八个月前失踪了
+
+260
+271
+<13-14,Harvey>The police just found her body.
+<13-14,Harvey>警察前不久才找到她的尸体
+
+261
+272
+<13-15,Carolyn>Eight months ago? That's right.
+<13-15,Carolyn>八个月前  那就对了
+
+262
+273
+<13-15,Carolyn>When you fell into that big depression.
+<13-15,Carolyn>那时候你正萎靡不振
+
+263
+274
+<13-15,Carolyn>And I kept thinking,
+<13-15,Carolyn>而我还天真地想
+
+264
+275
+<13-15,Carolyn>"Why is Harvey so blue? How do I cheer him up?"
+<13-15,Carolyn>哈维怎么这么难过呢 我该怎么让他开心
+
+265
+276
+<13-15,Carolyn>That was about her, wasn't it?
+<13-15,Carolyn>全都是因为她  是不是
+
+266
+277
+<13-16,Harvey>It's over. She's dead.
+<13-16,Harvey>都结束了  她死了
+
+267
+278
+<13-17,Carolyn>But if she weren't,
+<13-17,Carolyn>但要是她没死
+
+268
+279
+<13-17,Carolyn>who would you be with, me or her?
+<13-17,Carolyn>你会跟谁在一起  我还是她
+
+269
+280
+<13-18,Harvey>She's dead.
+<13-18,Harvey>她已经死了
+
+270
+281
+<13-19,Cashier>That'll be $12.99.
+<13-19,Cashier>一共12.99美元
+
+271
+282
+<13-19,Cashier>I'll take your Field's card.
+<13-19,Cashier>请出示会员卡
+
+272
+283
+<13-20,Austin>Couldn't keep your wallet in your pants.
+<13-20,Austin>你就不能把钱包放裤子里吗
+
+273
+284
+<13-21,Cashier>Mr. Bigsby?
+<13-21,Cashier>碧茨比先生
+
+274
+285
+<13-12,Harvey>Look, um...
+<13-12,Harvey>听着
+
+275
+286
+<13-22,Harvey>...I gotta go.
+<13-22,Harvey>我得挂了
+
+276
+287
+<14-1,Boys>Mommy, look at us!
+<14-1,Boys>妈妈  快看我们
+
+277
+288
+<14-2,Lynette>I'll look as soon as I get back from the store.
+<14-2,Lynette>我先去趟超市  很快回来看你们
+
+278
+289
+<14-3,Kids>Bye, Mom!
+<14-3,Kids>再见  妈妈
+
+279
+290
+<15-1,Edie>This is Edie.
+<15-1,Edie>我是伊迪
+
+280
+291
+<15-1,Edie>Yeah, I'm his aunt.
+<15-1,Edie>是的  我是他阿姨
+
+281
+292
+<15-1,Edie>He shoplifted what?
+<15-1,Edie>他偷了什么
+
+282
+293
+<15-1,Edie>Yeah, yeah, yeah. Be right there.
+<15-1,Edie>好  好  马上就到
+
+283
+294
+<16-1,Ian>You're still packing? We're going to be late.
+<16-1,Ian>你怎么还没好  我们快迟到了
+
+284
+295
+<16-2,Susan>No. We're fine.
+<16-2,Susan>没有啊  没事啦
+
+285
+296
+<16-2,Susan>Besides, I can't leave
+<16-2,Susan>而且  我要等朱莉
+
+286
+297
+<16-2,Susan>until Julie gets back with my toothpaste.
+<16-2,Susan>买来牙膏才能走
+
+287
+298
+<16-3,Ian>We don't need it. I packed a large tube and dental floss.
+<16-3,Ian>我们不需要  我带了一大盒还有牙线
+
+288
+299
+<16-4,Susan>Really?
+<16-4,Susan>是吗
+
+289
+300
+<16-5,Ian>Why are Americans so amazed when the English display
+<16-5,Ian>怎么英国人流露出一点对牙齿的爱护
+
+290
+301
+<16-5,Ian>the slightest acquaintance with dental hygiene?
+<16-5,Ian>你们美国人就大惊小怪呢
+
+291
+302
+<16-6,Susan>OK. I'm gonna need some help with this big baby.
+<16-6,Susan>好了  这大玩意儿  你可得帮个手
+
+292
+303
+<16-6,Susan>Go. Zip, zip, zip.
+<16-6,Susan>快  拉拉拉
+
+293
+304
+<16-7,Ian>Susan, do you really need all this? We're not emigrating.
+<16-7,Ian>苏珊  真的都要带吗  又不是移民
+
+294
+305
+<16-8,Susan>It's my first time to Paris. I want it to be magical.
+<16-8,Susan>我第一次去巴黎  一定要完美无暇
+
+295
+306
+<16-8,Susan>And that means accessories, so back off.
+<16-8,Susan>就是说全部要带  所以赶紧的
+
+296
+307
+<16-9,Ian>It's the fashion capitol of the world.
+<16-9,Ian>那可是全球的时尚之都
+
+297
+308
+<16-9,Ian>While I'm working take my credit card and buy new things.
+<16-9,Ian>我工作时  你可以直接刷我的卡消费
+
+298
+309
+<16-10,Susan>No, no, I am not gonna spend your money.
+<16-10,Susan>不行  我不会花你的钱
+
+299
+310
+<16-11,Ian>I have an expense account.
+<16-11,Ian>我可以报销
+
+300
+311
+<16-12,Susan>And you just tell me this now?
+<16-12,Susan>你居然才告诉我
+
+301
+312
+<16-13,Ian>I'll tell the driver you'll be a minute.
+<16-13,Ian>我去告诉司机  你马上就好
+
+302
+313
+<0-0,None>Hello.
+<0-0,None>你好
+
+303
+314
+<16-14,Susan>Yes, this is her mother.
+<16-14,Susan>对  我是她妈妈
+
+304
+315
+<18-12,Susan>What?
+<18-12,Susan>什么
+
+305
+316
+<17-1,Lynette>Well, you're gonna love the neighborhood.
+<17-1,Lynette>你肯定会爱上这里的
+
+306
+317
+<17-1,Lynette>- Are you all moved in? 
+<17-1,Lynette>-东西都搬完了吗 
+
+307
+317
+<17-2,Art> Pretty much.
+<17-2,Art>差不多了
+
+308
+318
+<17-2,Art>Just waiting on medical equipment for my sister.
+<17-2,Art>只等我妹妹的医疗设备了
+
+309
+319
+<17-3,Lynette>Oh. Yeah, I heard she isn't well.
+<17-3,Lynette>我听说她身体不好
+
+310
+320
+<17-3,Lynette>- Can I ask what's wrong with her? 
+<17-3,Lynette>-能说说她怎么了吗 
+
+311
+320
+<17-4,Art> Of course.
+<17-4,Art>当然
+
+312
+321
+<17-4,Art>Unfortunately, she has this rare degenerative...
+<17-4,Art>很不幸  她患了罕见的退化...
+
+313
+322
+<17-5,Lynette>That's rough. Excuse me.
+<17-5,Lynette>真可怜  不好意思
+
+314
+323
+<17-6,Susan>You told me you weren't friends with him.
+<17-6,Susan>你说他不是你朋友
+
+315
+324
+<17-6,Susan>Now you shoplift together?
+<17-6,Susan>现在你们还一起偷东西
+
+316
+325
+<17-7,Julie>Mom, you know I wouldn't steal.
+<17-7,Julie>妈妈  你知道我不会偷的
+
+317
+326
+<16-8,Susan>I want to believe that.
+<16-8,Susan>我也希望如此
+
+318
+327
+<17-8,Susan>But suddenly you're having boys over, you're drinking beer...
+<17-8,Susan>可你突然带男孩子回家  还喝啤酒
+
+319
+328
+<17-9,Austin>And soon she'll be listening to
+<17-9,Austin>而且很快她就会去听
+
+320
+329
+<17-9,Austin>that rock and roll music everybody talks about.
+<17-9,Austin>现在流行的摇滚
+
+321
+330
+<17-10,Edie>So, how are we gonna handle this?
+<17-10,Edie>那我们怎么解决这个问题
+
+322
+331
+<17-11,Susan>I have somebody in the car who's late for a plane.
+<17-11,Susan>我车里有人要赶飞机  在等我
+
+323
+332
+<17-11,Susan>- Can you give me two minutes? 
+<17-11,Susan>-给我两分钟时间 
+
+324
+332
+<17-12,Julie> Mom!
+<17-12,Julie>妈妈
+
+325
+333
+<17-13,Susan>I am so disappointed in you.
+<17-13,Susan>我对你太失望了
+
+326
+334
+<17-14,Susan>- Hello, Carolyn. 
+<17-14,Susan>-你好  卡洛琳 
+
+327
+334
+<17-15,Carolyn> Yeah. Hey, how are you?
+<17-15,Carolyn>你好啊
+
+328
+335
+<17-16,Edie>Look, make him work it off.
+<17-16,Edie>让他在这帮忙
+
+329
+336
+<17-16,Edie>You get a free stock boy for a month.
+<17-16,Edie>你这个月就有个免费的苦力了
+
+330
+337
+<17-17,Austin>A month? It was a ten dollar bottle of whiskey.
+<17-17,Austin>一个月  不就一瓶10美元的威士忌吗
+
+331
+338
+<17-18,Edie>Exactly.
+<17-18,Edie>就是啊
+
+332
+339
+<17-18,Edie>You weren't even smart enough to steal the good stuff.
+<17-18,Edie>你都不知道偷点好东西
+
+333
+340
+<17-19,Edie>Harvey, don't walk away.
+<17-19,Edie>哈维  别走啊
+
+334
+341
+<17-19,Edie>Come on. Let's sort this out.
+<17-19,Edie>快点  说清楚
+
+335
+342
+<17-20,Lynette>Hey, Nora, how's tricks?
+<17-20,Lynette>诺拉  你的小算盘打得怎么样了
+
+336
+343
+<17-20,Lynette>I thought it was your car I saw in the lot.
+<17-20,Lynette>我说在停车场还看到了你的车
+
+337
+344
+<17-21,Nora>You're a conniving bitch.
+<17-21,Nora>你这个耍阴谋的婊子
+
+338
+345
+<17-22,Lynette>Ah. I see you've heard from our lawyer.
+<17-22,Lynette>看来我律师跟你联系了
+
+339
+346
+<17-23,Nora>So, it's not enough that you run me out of town.
+<17-23,Nora>把我赶走还不够
+
+340
+347
+<17-23,Nora>You gotta steal my damn kid.
+<17-23,Nora>你还要抢走我的孩子
+
+341
+348
+<17-24,Harvey>Carolyn, what are you doing here?
+<17-24,Harvey>卡洛琳  你来这干嘛
+
+342
+349
+<17-25,Carolyn>I've been thinking, Harvey,
+<17-25,Carolyn>哈维  我一直在想
+
+343
+350
+<17-25,Carolyn>that if you love Monique so much...
+<17-25,Carolyn>你既然这么爱莫妮可
+
+344
+351
+<17-26,Lynette>Even you have to admit Kayla would be better off with us
+<17-26,Lynette>你得承认凯拉和我们一起总比住在
+
+345
+352
+<17-26,Lynette>than in a dingy apartment over a Tijuana strip club.
+<17-26,Lynette>蒂华纳夜店楼上的阴暗隔间好得多
+
+346
+353
+<17-27,Nora>Believe me, Lynette,
+<17-27,Nora>相信我  勒奈特
+
+347
+354
+<17-27,Nora>you do not want to screw with me.
+<17-27,Nora>你不会想跟我纠缠不清的
+
+348
+355
+<17-28,Lynette>You went after my husband.
+<17-28,Lynette>是你纠缠我的老公
+
+349
+356
+<17-28,Lynette>If anyone should be afraid, it's you.
+<17-28,Lynette>应该感到害怕的人是你
+
+350
+357
+<17-29,Harvey>Go!
+<17-29,Harvey>走
+
+351
+358
+<17-29,Harvey>Go!
+<17-29,Harvey>快跑
+
+352
+359
+<17-30,Carolyn>Harvey!
+<17-30,Carolyn>哈维
+
+353
+360
+<17-30,Carolyn>Harvey, you come out of there, damn it!
+<17-30,Carolyn>哈维  你他妈给我滚出来
+
+354
+361
+<17-31,Carolyn>Down.
+<17-31,Carolyn>蹲下
+
+355
+362
+<17-31,Carolyn>Everybody down.
+<17-31,Carolyn>都蹲下
+
+356
+363
+<17-31,Carolyn>Nobody goes anywhere.
+<17-31,Carolyn>谁都不许动
+
+357
+364
+<17-31,Carolyn>Don't move. Get down.
+<17-31,Carolyn>不许动  蹲下
+
+358
+365
+<18-1,Ian>You can't be serious. We have tickets.
+<18-1,Ian>不是吧  我们票都买了
+
+359
+366
+<18-1,Ian>The plane leaves in two hours.
+<18-1,Ian>飞机两小时后就起飞了
+
+360
+367
+<18-2,Susan>I'm sorry. I know, Julie picked a lousy time to rebel.
+<18-2,Susan>对不起  朱莉叛逆得不是时候
+
+361
+368
+<18-2,Susan>I just can't fly off and ignore it.
+<18-2,Susan>我不能就这么走了
+
+362
+369
+<18-3,Ian>You're overreacting.
+<18-3,Ian>你太小题大做了
+
+363
+370
+<18-3,Ian>It's an adolescent prank
+<18-3,Ian>只是年轻人打打闹闹
+
+364
+371
+<18-3,Ian>and you're turning it into some great bloody crisis.
+<18-3,Ian>可你却认为是大难临头
+
+365
+372
+<18-4,Susan>You have a lot of meetings, anyway.
+<18-4,Susan>你不是有很多会议吗
+
+366
+373
+<18-4,Susan>We'll go some other time?
+<18-4,Susan>我们下次再去吧
+
+367
+374
+<18-4,Susan>I can't leave Julie right now.
+<18-4,Susan>我不可能扔下朱莉不管
+
+368
+375
+<18-5,Ian>We'll take her with us!
+<18-5,Ian>我们带上她
+
+369
+376
+<18-6,Susan>Oh, that's responsible parenting.
+<18-6,Susan>有这样教育的吗
+
+370
+377
+<18-6,Susan>Stealing whiskey?
+<18-6,Susan>偷威士忌  
+
+371
+378
+<18-6,Susan>That's it, young lady, I'm taking you to Paris.
+<18-6,Susan>小事  姑娘  我带你去巴黎
+
+372
+379
+<18-7,Ian>Ah, but that's just some ruse.
+<18-7,Ian>但这是个策略
+
+373
+380
+<18-7,Ian>Once we get her on the plane we make her fly coach,
+<18-7,Ian>一旦把她带上飞机  我们就给她点空中折磨
+
+374
+381
+<18-7,Ian>middle seat, no mercy.
+<18-7,Ian>坐中间的座位  决不手软
+
+375
+382
+<18-8,Susan>I'm sorry.
+<18-8,Susan>真的不行
+
+376
+383
+<18-9,Ian>It won't be Paris without you.
+<18-9,Ian>失去你  巴黎黯然失色
+
+377
+384
+<18-10,Susan>Hey. What the hell's going on?
+<18-10,Susan>怎么回事
+
+378
+385
+<18-11,Cop>- It's Mrs. Bigsby. She has a gun.
+<18-11,Cop>-是碧茨比太太  她有枪 
+
+379
+385
+<18-12,Susan> What?
+<18-12,Susan>什么
+
+380
+386
+<19-1,Carolyn>I said nobody move.
+<19-1,Carolyn>我说了全都不许动
+
+381
+387
+<20-1,Cop>She's at the back.
+<20-1,Cop>她在后面
+
+382
+388
+<20-1,Cop>I think we can make it.
+<20-1,Cop>我觉得我们能出去
+
+383
+389
+<21-1,Carolyn>Attention shoppers,
+<21-1,Carolyn>顾客们注意了
+
+384
+390
+<21-1,Carolyn>we're having a special today on not getting shot.
+<21-1,Carolyn>今天的活动是免受枪子之苦
+
+385
+391
+<21-1,Carolyn>But it's only available at the back of the store.
+<21-1,Carolyn>但必须到超市后方来参加
+
+386
+392
+<21-1,Carolyn>Hey, how are you?
+<21-1,Carolyn>你们好
+
+387
+393
+<21-1,Carolyn>Thanks for joining us. Do I know you?
+<21-1,Carolyn>欢迎来参加  我认识你吗
+
+388
+394
+<21-2,Customer>My son Jordan's in your Sunday School class.
+<21-2,Customer>我儿子乔丹周日上您的主日课
+
+389
+395
+<21-3,Carolyn>Oh, he's a great little boy.
+<21-3,Carolyn>他是个好孩子
+
+390
+396
+<21-3,Carolyn>So don't do anything
+<21-3,Carolyn>所以别做傻事
+
+391
+397
+<21-3,Carolyn>that will make him wake up tomorrow without a mommy.
+<21-3,Carolyn>否则他明天就没妈妈了
+
+392
+398
+<21-3,Carolyn>Um, for the rest of you, hi, I'm Carolyn.
+<21-3,Carolyn>其他人注意了  你们好  我叫卡洛琳
+
+393
+399
+<21-3,Carolyn>I'm sorry for putting a crimp in your day.
+<21-3,Carolyn>很抱歉牵连大家
+
+394
+400
+<21-3,Carolyn>I'm pretty sure that
+<21-3,Carolyn>我敢肯定
+
+395
+401
+<21-3,Carolyn>my cheating husband is phoning the police.
+<21-3,Carolyn>我那花心老公正在报警
+
+396
+402
+<21-3,Carolyn>So I'm counting on all you folks to help me
+<21-3,Carolyn>所以我需要各位帮我
+
+397
+403
+<21-3,Carolyn>to keep them outside
+<21-3,Carolyn>把警察挡在门外
+
+398
+404
+<21-3,Carolyn>till Harvey and I have a chance to...talk things over.
+<21-3,Carolyn>好让我和我老公...把事情谈清楚
+
+399
+405
+<21-3,Carolyn>Harvey!
+<21-3,Carolyn>哈维
+
+400
+406
+<21-3,Carolyn>You're inconveniencing your customers. Get out here!
+<21-3,Carolyn>你给你的顾客带来极大不便  快滚出来
+
+401
+407
+<22-1,Harvey>Yeah, she's got hostages!
+<22-1,Harvey>是的  她有人质
+
+402
+408
+<22-2,Edie>Oh, my God. Austin's there. And Julie!
+<22-2,Edie>上帝  奥斯丁和朱莉都在里面
+
+403
+409
+<22-2,Edie>Get your ass out there before someone gets hurt!
+<22-2,Edie>你快滚出去  免得有人受伤
+
+404
+410
+<22-3,Harvey>What am I, a moron? She'll shoot me.
+<22-3,Harvey>我才不傻呢  她会冲我开枪的
+
+405
+411
+<22-4,Edie>She has got ten innocent people out there.
+<22-4,Edie>她挟持了10个无辜的人
+
+406
+412
+<22-4,Edie>Sometimes you've got to take one for the team.
+<22-4,Edie>有时候为了顾全大局就得有所牺牲
+
+407
+414
+<0-0,None>- Hello.
+<0-0,None>-喂 
+
+408
+414
+<23-1,Lynette> Hello. Sweetie, it's Mommy.
+<23-1,Lynette>喂  亲爱的  是妈妈
+
+409
+415
+<23-1,Lynette>I need to talk to Daddy.
+<23-1,Lynette>叫爸爸接电话  
+
+410
+416
+<23-1,Lynette>Porter's hogging all the Legos.
+<23-1,Lynette>波特霸占了所有的乐高玩具
+
+411
+417
+<23-2,Lynette>Tell him I said to share. Now, put Daddy on!
+<23-2,Lynette>告诉他我说了要一起玩  快叫爸爸来
+
+412
+418
+<23-2,Lynette>I did tell him!
+<23-2,Lynette>我就是这么说的
+
+413
+419
+<23-3,Parker>But he says he needs them all for his robot.
+<23-3,Parker>可他非要所有的乐高组装一个机器人
+
+414
+420
+<23-4,Lynette>Put Daddy on and I'll buy you a real robot.
+<23-4,Lynette>叫爸爸来  我给你买个真机器人
+
+415
+421
+<23-5,Parker>You will?
+<23-5,Parker>你说真的
+
+416
+422
+<23-6,Lynette>A big one with laser beam eyes. Now, go get Daddy.
+<23-6,Lynette>带激光眼的大机器人  快去叫爸爸
+
+417
+423
+<23-7,Parker>I'm getting a real robot.
+<23-7,Parker>我有真机器人了
+
+418
+424
+<23-9,Carolyn>I'm having a real bad day here.
+<23-9,Carolyn>我今天过得特别不好
+
+419
+425
+<23-9,Carolyn>Is a little cooperation too much to ask?
+<23-9,Carolyn>让你们合作一点很过分吗
+
+420
+426
+<23-10,Tom>Lynette?
+<23-10,Tom>勒奈特
+
+421
+427
+<23-10,Tom>Lynette?
+<23-10,Tom>勒奈特
+
+422
+428
+<23-11,Carolyn>Down at the supermarket. No, no, it's terrible. Terrible.
+<23-11,Carolyn>就在超市里面  不  不  太可怕了
+
+423
+429
+<24-1,Susan>Excuse me, what's going on?
+<24-1,Susan>对不起  出什么事了
+
+424
+430
+<24-2,Cop>- There's a crazy woman with a gun.
+<24-2,Cop>-有个疯女人拿着枪 
+
+425
+430
+<24-5,Susan> In there!
+<24-5,Susan>在那里面
+
+426
+431
+<24-2,Cop>No, no, no, stay back! Stay back!
+<24-2,Cop>别过去  往后站  往后站
+
+427
+432
+<24-3,Susan>Carolyn, open up. My daughter's inside.
+<24-3,Susan>卡洛琳  开开门  我女儿在里面
+
+428
+433
+<24-4,Carolyn>- Sorry. Store's closed.
+<24-4,Carolyn>-抱歉  打烊了 
+
+429
+433
+<24-5,Susan> There's a crazy woman in there.
+<24-5,Susan>里面有个疯女人
+
+430
+434
+<24-6,Carolyn>Yeah, I know.
+<24-6,Carolyn>是的  我知道
+
+431
+436
+<0-0,None>- Yeah?
+<0-0,None>-什么事 
+
+432
+436
+<25-1,Mrs. McCluskey> Quick, turn on the TV.
+<25-1,Mrs. McCluskey>快  打开电视
+
+433
+437
+<25-2,Gabrielle>- It's kind of on the fritz.
+<25-2,Gabrielle>-坏了 
+
+434
+437
+<25-3,Mrs. McCluskey> Turn on your radio.
+<25-3,Mrs. McCluskey>那就打开收音机
+
+435
+438
+<25-4,Gabrielle>If you'd come ten minutes earlier.
+<25-4,Gabrielle>你如果早10分钟来还能用  
+
+436
+439
+<25-5,Mrs. McCluskey>A woman's shooting at Field's Market.
+<25-5,Mrs. McCluskey>一个女人在菲尔茨超市持枪伤人
+
+437
+440
+<25-5,Mrs. McCluskey>- She's got hostages.
+<25-5,Mrs. McCluskey>-她还挟持人质 
+
+438
+440
+<25-6,Gabrielle> Oh, my God.
+<25-6,Gabrielle>我的上帝
+
+439
+441
+<25-7,Mrs. McCluskey>We're all watching it over at Bree's house
+<25-7,Mrs. McCluskey>我们都在布里家看呢
+
+440
+442
+<25-7,Mrs. McCluskey>Uh, is everything OK here?
+<25-7,Mrs. McCluskey>你这里出什么事了吗
+
+441
+443
+<25-8,Gabrielle>Yeah, everything's fine. We're having a little squabble.
+<25-8,Gabrielle>没事  我们拌了几句嘴
+
+442
+444
+<25-8,Gabrielle>Would you give us a minute?
+<25-8,Gabrielle>失陪一会儿
+
+443
+445
+<25-8,Gabrielle>Carlos, where do you think you're going with that?
+<25-8,Gabrielle>卡洛斯  你拿着那个干什么
+
+444
+446
+<26-1,Reporter>Information is very thin at this time.
+<26-1,Reporter>目前情况尚未明朗
+
+445
+447
+<26-1,Reporter>We do not see anybody in the front of the building...
+<26-1,Reporter>在前门无法看到里面的人
+
+446
+448
+<26-2,Bree>Coffee's almost ready.
+<26-2,Bree>咖啡马上就好
+
+447
+449
+<26-2,Bree>If you'd prefer to watch the coverage on channel nine,
+<26-2,Bree>如果想看九频道的转播  
+
+448
+450
+<26-2,Bree>it's on in the den.
+<26-2,Bree>书房正播着
+
+449
+451
+<26-2,Bree>Orson, Greta needs a coaster.
+<26-2,Bree>奥森  给格蕾塔拿个杯垫
+
+450
+452
+<26-2,Bree>Bree, have you heard?
+<26-2,Bree>布里  你听说了吗
+
+451
+453
+<26-3,Bree>Awful, it's just awful.
+<26-3,Bree>太可怕了  简直太可怕了
+
+452
+454
+<26-3,Bree>- Deviled egg?
+<26-3,Bree>-来点芥末鸡蛋 
+
+453
+454
+<26-3,Bree> Oh, thank you.
+<26-3,Bree>谢谢
+
+454
+455
+<26-3,Bree>I told you she'd have food.
+<26-3,Bree>我说了她这肯定有吃的
+
+455
+456
+<27-1,Carolyn>I'm sure some of you
+<27-1,Carolyn>我知道你们有些人
+
+456
+457
+<27-1,Carolyn>might be thinking that this is all my fault.
+<27-1,Carolyn>或许认为这都是我造成的
+
+457
+458
+<27-1,Carolyn>And that I'm the bad guy here. But I'm not. He is.
+<27-1,Carolyn>我十恶不赦  其实我不是  他才是
+
+458
+459
+<27-2,Carolyn>Will you people stop calling me?
+<27-2,Carolyn>你们别总打电话给我了  
+
+459
+460
+<27-2,Carolyn>I'm right in the middle of something.
+<27-2,Carolyn>我正忙着呢
+
+460
+461
+<27-3,Carolyn>He humiliated me.
+<27-3,Carolyn>他让我丢尽了人
+
+461
+462
+<27-3,Carolyn>First he cheated on me with a stewardess named Monique.
+<27-3,Carolyn>首先他跟一个叫莫妮可的空姐鬼混
+
+462
+463
+<27-3,Carolyn>How cliche is that?
+<27-3,Carolyn>多没创意
+
+463
+464
+<27-3,Carolyn>And then he told people about it.
+<27-3,Carolyn>而且他还有脸跟别人说
+
+464
+465
+<27-3,Carolyn>Now there are news trucks out there.
+<27-3,Carolyn>现在流言四起
+
+465
+466
+<27-3,Carolyn>Judy Pope's husband has an affair, nobody finds out.
+<27-3,Carolyn>朱迪·波普的老公有外遇  她还蒙在鼓里
+
+466
+467
+<27-3,Carolyn>Mine cheats and they break into programming!
+<27-3,Carolyn>他们居然拿我家的丑事到处宣扬
+
+467
+468
+<27-3,Carolyn>The whole town is laughing at me.
+<27-3,Carolyn>所有人都在嘲笑我
+
+468
+469
+<27-3,Carolyn>You hear that, Harvey?
+<27-3,Carolyn>你听见了吗  哈维
+
+469
+470
+<27-4,Harvey>I only told one person.
+<27-4,Harvey>我就跟一个人说了
+
+470
+471
+<27-5,Edie>Well, it was clearly the wrong one.
+<27-5,Edie>很明显你找错了人
+
+471
+473
+<27-6,Carolyn>I told you to stop calling me!
+<27-6,Carolyn>跟你说了别打了
+
+472
+474
+<27-6,Carolyn>Tish, I'm sorry. I thought it was somebody else.
+<27-6,Carolyn>蒂什  抱歉  我还以为是别人
+
+473
+475
+<27-6,Carolyn>Oh, my God. Was that today? I'm so sorry.
+<27-6,Carolyn>天呐  是今天吗  太抱歉了
+
+474
+476
+<27-6,Carolyn>I know, Tish. Yeah, I know. I know I...
+<27-6,Carolyn>我明白  蒂什  我知道我...
+
+475
+477
+<27-7,Julie>How can you look so calm?
+<27-7,Julie>你怎么这么平静
+
+476
+478
+<27-7,Julie>- Aren't you scared?
+<27-7,Julie>-你难道不害怕 
+
+477
+478
+<29-11,Reporter> No.
+<29-11,Reporter>不怕
+
+478
+479
+<27-8,Austin>Because I'm not gonna die today.
+<27-8,Austin>因为我今天不会死
+
+479
+480
+<27-8,Austin>And neither are you.
+<27-8,Austin>你也不会
+
+480
+481
+<27-9,Carolyn>Tish, I really don't think that I can.
+<27-9,Carolyn>蒂什  我真的去不了
+
+481
+482
+<27-6,Carolyn>I'm telling you. Oh, Tish, for God's sakes.
+<27-6,Carolyn>听我说  蒂什  上帝
+
+482
+483
+<27-9,Carolyn>Turn on your damn TV.
+<27-9,Carolyn>快打开电视吧
+
+483
+484
+<28-1,Susan>Excuse me. My name is Susan Mayer.
+<28-1,Susan>打扰一下  我是苏珊·梅尔
+
+484
+485
+<28-2,Cop>- Ma'am, this is a restricted area.
+<28-2,Cop>-女士  这里是禁区 
+
+485
+485
+<28-3,Susan> I'd like to trade places
+<28-3,Susan>我想交换
+
+486
+486
+<28-3,Susan>with one of the people inside. You do that?
+<28-3,Susan>里面的一个人质  你可以帮我吗
+
+487
+487
+<28-4,Cop>Oh, you mean our hostage exchange program?
+<28-4,Cop>您是说人质交换节目
+
+488
+488
+<28-5,Susan>You don't have to be nasty. My daughter is inside.
+<28-5,Susan>别这么刻薄  我女儿在里面
+
+489
+489
+<28-6,Cop>Ma'am, we're doing everything we can to get her out safely.
+<28-6,Cop>女士  我们正尽一切可能把她救出来
+
+490
+490
+<28-6,Cop>Now, please step back.
+<28-6,Cop>请站到后面去
+
+491
+491
+<28-7,Cop>I want the perimeter locked down. Nobody in, nobody out.
+<28-7,Cop>周边全部封锁  禁止任何人出入
+
+492
+492
+<28-7,Cop>See if you can get me a phone line with the manager's office.
+<28-7,Cop>试着接通经理办公室的电话
+
+493
+494
+<28-8,Susan>Attention, attention, Carolyn Bigsby.
+<28-8,Susan>注意  注意  卡洛琳·碧茨比
+
+494
+495
+<28-9,Cop>- Where is that coming from?
+<28-9,Cop>-哪来的声音 
+
+495
+495
+<28-10,Susan> This is Susan Mayer... again.
+<28-10,Susan>还是我  苏珊·梅尔
+
+496
+496
+<28-10,Susan>First of all, I'm sorry for the crazy lady remark.
+<28-10,Susan>首先  对疯女人这个称呼感到抱歉
+
+497
+497
+<28-10,Susan>Second, I have a proposition for you.
+<28-10,Susan>其次  我有个提议
+
+498
+498
+<28-11,Cop>Find her now!
+<28-11,Cop>把她找出来
+
+499
+499
+<28-12,Susan>Let Julie go and take me instead.
+<28-12,Susan>你放朱莉出来  我进去
+
+500
+500
+<28-12,Susan>Repeat. Take me. I will be a model hostage.
+<28-12,Susan>重复  换我进去  我肯定是个优秀人质
+
+501
+501
+<28-12,Susan>If we have a deal, signal by sending Julie to the...
+<28-12,Susan>如果你同意  请把朱莉带到...
+
+502
+502
+<28-13,Susan>Get your hands off me. Carolyn, Carolyn,
+<28-13,Susan>你们放开我  卡洛琳  卡洛琳 
+
+503
+503
+<28-13,Susan>call my cell. It's 572...
+<28-13,Susan>打我手机  号码是572...
+
+504
+504
+<29-1,Reporter>Now, we don't know
+<29-1,Reporter>我们仍不清楚
+
+505
+505
+<29-1,Reporter>where anyone is inside the building right now.
+<29-1,Reporter>里面人员的位置
+
+506
+506
+<29-1,Reporter>We are standing by waiting for information.
+<29-1,Reporter>目前正在等待消息
+
+507
+507
+<29-1,Reporter>I'm hoping to talk to the chief of police in a couple minutes,
+<29-1,Reporter>马上将对警方做一个短暂的采访
+
+508
+508
+<29-1,Reporter>and get a few more details.
+<29-1,Reporter>希望能得到最新消息
+
+509
+509
+<29-2,Bree>Andrew, would you get the phone?
+<29-2,Bree>安德鲁  接下电话
+
+510
+510
+<29-3,Reporter>Police have just released the name of the hostage taker.
+<29-3,Reporter>警方已公布嫌犯的姓名
+
+511
+511
+<28-13,Susan>It's Carolyn Bigsby,
+<28-13,Susan>是卡洛琳·碧茨比
+
+512
+512
+<29-3,Reporter>wife of store owner Harvey Bigsby.
+<29-3,Reporter>是这家超市的店主哈维·碧茨比的妻子
+
+513
+513
+<29-3,Reporter>Harvey has informed police that he is barricaded inside...
+<29-3,Reporter>哈维告知警方他正被困在里面
+
+514
+514
+<29-4,Neighbor>Oh, my God, Bree. Don't you know her?
+<29-4,Neighbor>天呐  布里  你不是认识她吗
+
+515
+515
+<0-0,None>Yes.
+<0-0,None>是的
+
+516
+516
+<29-5,Bree>I just ran into her this morning.
+<29-5,Bree>今天早上我还碰见她
+
+517
+517
+<29-6,Andrew>Mom?
+<29-6,Andrew>妈
+
+518
+518
+<29-6,Andrew>That was Edie Britt on the phone.
+<29-6,Andrew>刚才是伊迪·布利特的电话
+
+519
+519
+<29-6,Andrew>She's inside the market.
+<29-6,Andrew>她也在超市里
+
+520
+520
+<29-7,Bree>Is she all right?
+<29-7,Bree>她还好吗
+
+521
+521
+<29-8,Andrew>Yeah. Uh, she's locked inside the manager's office.
+<29-8,Andrew>还好  她被困在经理办公室里
+
+522
+522
+<29-8,Andrew>But she said that Julie Mayer
+<29-8,Andrew>但她说朱莉·梅尔
+
+523
+523
+<29-8,Andrew>and Mrs. Scavo are with the hostages.
+<29-8,Andrew>和斯加沃太太被当成人质了
+
+524
+524
+<29-9,Tom>Would you mind watching the kids?
+<29-9,Tom>帮我照看一下孩子好吗
+
+525
+525
+<29-9,Tom>I've got a doctor's appointment
+<29-9,Tom>我约了医生
+
+526
+526
+<29-9,Tom>and Lynette is taking her sweet time at the market.
+<29-9,Tom>勒奈特去超市半天也不回来
+
+527
+527
+<29-10,Tom>I'm sorry, you guys having a party?
+<29-10,Tom>对不起  你们正在开派对吗
+
+528
+528
+<29-11,Reporter>We continue to report live on the scene
+<29-11,Reporter>我们继续进行现场报道
+
+529
+529
+<29-11,Reporter>the hostage standoff at Field's Market enters its 3rd hour.
+<29-11,Reporter>人质在菲尔茨超市被扣押已有三小时
+
+530
+530
+<29-11,Reporter>According to a police spokesman,
+<29-11,Reporter>据警方发言人的消息
+
+531
+531
+<29-11,Reporter>there has been no further contact from the hostage taker.
+<29-11,Reporter>警方尚未与嫌犯取得进一步联系
+
+532
+532
+<29-11,Reporter>We continue to wait for the latest information.
+<29-11,Reporter>我们仍在等待最新进展
+
+533
+533
+<29-11,Reporter>no new news at this point.
+<29-11,Reporter>目前尚未获得最新消息
+
+534
+534
+<29-11,Reporter>We'll bring you the latest as soon as it becomes available.
+<29-11,Reporter>我们将在第一时间做现场报道
+
+535
+535
+<29-12,Orson>You all right?
+<29-12,Orson>你还好吗
+
+536
+536
+<29-13,Bree>I'm fine. I'm just running out of food.
+<29-13,Bree>我很好  只是食物快不够了
+
+537
+537
+<29-13,Bree>And it's not as if I can go to the grocery store.
+<29-13,Bree>现在又去不了商店
+
+538
+538
+<29-14,Orson>- Bree.
+<29-14,Orson>-布里 
+
+539
+538
+<29-15,Bree> Thank God I found this stale baguette
+<29-15,Bree>还好我翻出了这根法式长棍
+
+540
+539
+<29-15,Bree>so I can make bruschetta. And there's shrimp,
+<29-15,Bree>我可以做烤面包片  还有虾
+
+541
+540
+<29-15,Bree>so I'm gonna make my rice and seafood dish...
+<29-15,Bree>这就可以做一道海鲜饭...
+
+542
+541
+<29-16,Orson>Bree, this is not your fault.
+<29-16,Orson>布里  这不是你的错
+
+543
+542
+<29-17,Bree>I had to tell her.
+<29-17,Bree>我不得不告诉她
+
+544
+543
+<29-17,Bree>She hurt me, so I hurt her back.
+<29-17,Bree>她伤害了我  所以我还击
+
+545
+544
+<29-17,Bree>If anything should happen to Julie or Lynette...
+<29-17,Bree>如果朱莉或勒奈特  出了意外怎么办
+
+546
+545
+<29-18,Orson>- Is there anything I can do?
+<29-18,Orson>-我能做点什么 
+
+547
+545
+<29-19,Bree> You can peel a clove of garlic.
+<29-19,Bree>你可以剥一瓣蒜
+
+548
+546
+<0-0,None>OK.
+<0-0,None>好吧
+
+549
+547
+<30-1,Carolyn>I wanted kids.
+<30-1,Carolyn>我想要生孩子
+
+550
+548
+<30-1,Carolyn>I wanted kids so badly,
+<30-1,Carolyn>我很想要个孩子 
+
+551
+549
+<30-1,Carolyn>but Harvey had two from his first wife.
+<30-1,Carolyn>但是哈维跟她的第一任妻子生了两个
+
+552
+550
+<30-1,Carolyn>He said it made her fat.
+<30-1,Carolyn>他说  她因此变肥了
+
+553
+551
+<30-1,Carolyn>Harvey likes them lean
+<30-1,Carolyn>哈维喜欢苗条的女人
+
+554
+552
+<30-1,Carolyn>I run four miles a day.
+<30-1,Carolyn>我每天都要跑4英里  
+
+555
+553
+<30-1,Carolyn>It's my first cookie in six years.
+<30-1,Carolyn>这是6年来我第一次吃甜饼干
+
+556
+554
+<30-1,Carolyn>Did you hear that, Harvey?
+<30-1,Carolyn>你听到了吗  哈维
+
+557
+555
+<30-1,Carolyn>I'm breaking my diet!
+<30-1,Carolyn>我不再节食了
+
+558
+556
+<30-2,Harvey>She's starting to lose it out there. What do I do?
+<30-2,Harvey>她开始有点失控了  我要怎么做
+
+559
+557
+<30-3,Edie>Just keep her calm. Tell her you're sorry.
+<30-3,Edie>先让她平静下来  告诉她你很抱歉
+
+560
+558
+<30-3,Edie>And see if you can get her
+<30-3,Edie>试试能不能让她
+
+561
+559
+<30-3,Edie>to release the kids and old people.
+<30-3,Edie>把孩子和老人先放了
+
+562
+560
+<30-4,Harvey>OK, I'll try.
+<30-4,Harvey>好的  我试试
+
+563
+561
+<30-13,Harvey>Carolyn, honey, uh, it's me.
+<30-13,Harvey>卡洛琳  亲爱的  是我
+
+564
+562
+<29-3,Reporter>Harvey.
+<29-3,Reporter>哈维
+
+565
+563
+<29-10,Tom>Listen, I'm really sorry.
+<29-10,Tom>听着  我真的很抱歉
+
+566
+564
+<30-5,Harvey>What I did was wrong.
+<30-5,Harvey>是我错了
+
+567
+565
+<30-5,Harvey>But I still love you a lot.
+<30-5,Harvey>但是我依然很爱你
+
+568
+566
+<30-6,Carolyn>Cut the crap.
+<30-6,Carolyn>不要废话了
+
+569
+567
+<30-6,Carolyn>I had my hair done this morning.
+<30-6,Carolyn>我今天早上做了头发  
+
+570
+568
+<30-6,Carolyn>Did you notice, huh?
+<30-6,Carolyn>你注意到了没
+
+571
+569
+<30-6,Carolyn>Did you even notice?
+<30-6,Carolyn>你瞧过一眼没
+
+572
+570
+<30-7,Harvey>Well, I was distracted.
+<30-7,Harvey>我被分心了
+
+573
+571
+<30-7,Harvey>You were shooting at me.
+<30-7,Harvey>你在对我开枪
+
+574
+572
+<30-8,Edie>Tell her let the kids go.
+<30-8,Edie>告诉她把孩子放了
+
+575
+573
+<30-9,Carolyn>Who the hell was that?!
+<30-9,Carolyn>这他妈的是谁啊
+
+576
+574
+<30-9,Carolyn>You got a woman in there?
+<30-9,Carolyn>怎么有女人在里面
+
+577
+575
+<30-10,Harvey>She's a customer.
+<30-10,Harvey>一个顾客而已
+
+578
+576
+<30-11,Carolyn>Don't lie to me, Harvey!
+<30-11,Carolyn>别对我说谎  哈维
+
+579
+577
+<30-11,Carolyn>She's another one of your whores, isn't she?
+<30-11,Carolyn>她是你的另一个贱人  不是吗
+
+580
+578
+<30-12,Edie>Oh, fantastic.
+<30-12,Edie>这下好了
+
+581
+579
+<30-13,Harvey>Carolyn, I swear.
+<30-13,Harvey>卡洛琳  我发誓
+
+582
+580
+<30-14,Carolyn>Shut up!
+<30-14,Carolyn>闭嘴
+
+583
+581
+<30-14,Carolyn>I hope you're having a good time in there, whore!
+<30-14,Carolyn>我希望你在里面玩得尽兴  贱人
+
+584
+582
+<30-14,Carolyn>'Cause I got a bullet for you, too.
+<30-14,Carolyn>因为我也为你准备了一颗子弹
+
+585
+583
+<31-1,Carlos>God, what a nightmare.
+<31-1,Carlos>天啊  这可真是一场恶梦
+
+586
+584
+<31-2,Gabrielle>You know what the weird part is?
+<31-2,Gabrielle>你知道最怪异的是什么吗
+
+587
+585
+<31-3,Carlos>What?
+<31-3,Carlos>什么
+
+588
+586
+<31-4,Gabrielle>I keep thinking about that crazy lady in the market and...
+<31-4,Gabrielle>我一直在想商场里的那个疯女人
+
+589
+587
+<31-4,Gabrielle>I understand her.
+<31-4,Gabrielle>我觉得我理解她
+
+590
+588
+<31-4,Gabrielle>I could be her.
+<31-4,Gabrielle>我也会像她那样
+
+591
+589
+<31-5,Carlos>Come on.
+<31-5,Carlos>不会的
+
+592
+590
+<31-6,Gabrielle>No, I mean it.
+<31-6,Gabrielle>不  我是说真的
+
+593
+591
+<31-6,Gabrielle>The rage that I have felt in this past six months...
+<31-6,Gabrielle>在过去的半年里  我感觉到的愤怒
+
+594
+592
+<31-6,Gabrielle>If I had a gun in the courthouse today...
+<31-6,Gabrielle>如果今天  在法庭里我有把枪的话
+
+595
+593
+<31-7,Carlos>You could never shoot me.
+<31-7,Carlos>你永远都不会朝我开枪的
+
+596
+594
+<31-8,Gabrielle>I don't know what I'm capable of anymore.
+<31-8,Gabrielle>我不知道我会做出什么来
+
+597
+595
+<31-8,Gabrielle>This divorce has turned me into
+<31-8,Gabrielle>这场离婚让我变成了
+
+598
+596
+<31-8,Gabrielle>this bitter, hateful person.
+<31-8,Gabrielle>这个尖酸刻薄  无比愤恨的人
+
+599
+597
+<31-8,Gabrielle>- And I don't like her.
+<31-8,Gabrielle>-我不喜欢她 
+
+600
+597
+<31-9,Carlos> Hey, baby.
+<31-9,Carlos>宝贝
+
+601
+598
+<31-10,Gabrielle>For what it's worth,
+<31-10,Gabrielle>无论如何
+
+602
+599
+<31-10,Gabrielle>I don't like who it's turned you into, either.
+<31-10,Gabrielle>我也不喜欢现在的你
+
+603
+600
+<31-11,Carlos>Then let's stop being those people.
+<31-11,Carlos>那我们就做回自己
+
+604
+601
+<0-0,None>OK.
+<0-0,None>好的
+
+605
+602
+<0-0,None>OK.
+<0-0,None>好的
+
+606
+603
+<32-1,Tom>Hey, just so you know,
+<32-1,Tom>你要知道
+
+607
+604
+<32-1,Tom>I heard the woman in there teaches Sunday School.
+<32-1,Tom>我听说里面那个女人是在主日学校教书的
+
+608
+605
+<32-1,Tom>A Sunday School teacher would never hurt a kid.
+<32-1,Tom>主日学校的老师永远都不会伤害孩子的
+
+609
+606
+<32-1,Tom>- No way.
+<32-1,Tom>-不会的 
+
+610
+606
+<32-2,Susan> Thank you.
+<32-2,Susan>谢谢
+
+611
+607
+<32-2,Susan>I'm sure Lynette's gonna be fine, too.
+<32-2,Susan>我肯定勒奈特也会没事的
+
+612
+608
+<32-3,Tom>Oh, I'm not worried about Lynette.
+<32-3,Tom>我可不担心勒奈特
+
+613
+609
+<32-3,Tom>Hell, with Lynette in there
+<32-3,Tom>天  勒奈特在那里的话  
+
+614
+610
+<32-3,Tom>they don't even need that negotiator.
+<32-3,Tom>连谈判员都可以省了
+
+615
+611
+<32-3,Tom>You put Lynette in a room
+<32-3,Tom>你把勒奈特留在
+
+616
+612
+<32-3,Tom>with a woman who wants to shoot her husband,
+<32-3,Tom>有个想要射杀亲夫的女人的房间里
+
+617
+613
+<32-3,Tom>she'll have them renewing their vows.
+<32-3,Tom>她会让他们重立山盟海誓 
+
+618
+614
+<32-5,Tom>Right. Lynette is very persuasive.
+<32-5,Tom>没错  勒奈特很有说服力
+
+619
+615
+<32-5,Tom>I give it an hour, tops.
+<32-5,Tom>最多一个小时
+
+620
+616
+<32-5,Tom>We'll all be back home and eating our hamburgers.
+<32-5,Tom>我们就能回到家里吃汉堡了
+
+621
+617
+<32-5,Tom>She was gonna go to the store tomorrow.
+<32-5,Tom>她本来是打算明天再去超市的
+
+622
+618
+<32-5,Tom>But we were out of hamburger.
+<32-5,Tom>但是我们没有汉堡了
+
+623
+619
+<32-5,Tom>And I wanted hamburgers.
+<32-5,Tom>而我想吃汉堡
+
+624
+620
+<33-1,Nora>I hope all this is giving you
+<33-1,Nora>我希望现在的场面  能让你
+
+625
+621
+<33-1,Nora>a little perspective on our situation.
+<33-1,Nora>稍微明白我们的状况
+
+626
+622
+<33-2,Lynette>Shh! She told us not to talk.
+<33-2,Lynette>嘘  她警告我们不许说话
+
+627
+623
+<33-3,Nora>You're thinking about your kids, right?
+<33-3,Nora>你在想你的孩子们  对吧  
+
+628
+624
+<33-3,Nora>How awful it'd be to never see them.
+<33-3,Nora>如果永远见不到他们  可就糟透了
+
+629
+625
+<33-3,Nora>That's what you're asking me to feel the rest of my life.
+<33-3,Nora>而你的要求  让我的余生正有这种感觉
+
+630
+626
+<33-4,Lynette>- Nora, please!
+<33-4,Lynette>-诺拉  求你了 
+
+631
+626
+<33-5,Carolyn> Hey, what did I say?
+<33-5,Carolyn>我是怎么说的
+
+632
+627
+<33-6,Lynette>I'm sorry. I'm sorry. We'll be quiet.
+<33-6,Lynette>对不起  对不起  我们会保持安静的
+
+633
+628
+<33-7,Carolyn>You and your friend are starting to bug me.
+<33-7,Carolyn>你和你的朋友开始让我有点恼怒了
+
+634
+629
+<33-8,Nora>She's not my friend.
+<33-8,Nora>她不是我的朋友
+
+635
+630
+<33-8,Nora>She's trying to steal my kid.
+<33-8,Nora>她要抢走我的孩子  
+
+636
+631
+<33-9,Lynette>Nora, shut up!
+<33-9,Lynette>诺拉  闭嘴
+
+637
+632
+<33-10,Carolyn>- Is that true?
+<33-10,Carolyn>-这是真的吗 
+
+638
+632
+<0-0,None> No!
+<0-0,None>不
+
+639
+633
+<33-11,Lynette>I... we're... we have... we're sharing custody,
+<33-11,Lynette>我  我们  我们分享监护权
+
+640
+634
+<33-11,Lynette>and she tried to seduce my husband, so...
+<33-11,Lynette>而她想要勾引我的丈夫  所以
+
+641
+635
+<33-12,Carolyn>She put the moves on your husband?
+<33-12,Carolyn>她就对你丈夫上下其手
+
+642
+636
+<33-12,Carolyn>Why didn't you say so?
+<33-12,Carolyn>你怎么不早说
+
+643
+637
+<34-1,Reporter>That was a shot.
+<34-1,Reporter>那是枪声  
+
+644
+638
+<34-1,Reporter>We just heard a shot fired inside the building.
+<34-1,Reporter>我们听到里面传出了枪声
+
+645
+639
+<34-1,Reporter>A shot has been fired.
+<34-1,Reporter>有人开了一枪
+
+646
+640
+<35-1,Carolyn>I believe the phrase you're looking for is "thank you".
+<35-1,Carolyn>我相信你想表达的是  谢谢
+
+647
+641
+<36-1,Reporter>We just had a shot.
+<36-1,Reporter>刚有人开了一枪
+
+648
+642
+<36-1,Reporter>We heard a shot fired inside the market.
+<36-1,Reporter>我们听到超市里面有枪声
+
+649
+643
+<36-1,Reporter>Police are responding,
+<36-1,Reporter>警方开始采取措施
+
+650
+644
+<36-1,Reporter>taking this very seriously.
+<36-1,Reporter>他们开始严阵以待
+
+651
+645
+<36-1,Reporter>We are going to just continue to stand
+<36-1,Reporter>我们会继续在这等着
+
+652
+646
+<36-1,Reporter>and watch and wait and see what happens.
+<36-1,Reporter>看接下来会发生什么
+
+653
+647
+<36-2,Ian>It was on television at the airport.
+<36-2,Ian>机场的电视有直播  
+
+654
+648
+<36-2,Ian>I came as soon as I could.
+<36-2,Ian>我健步如飞地赶来了
+
+655
+649
+<36-3,Susan>The last thing I said to her was that
+<36-3,Susan>我对她最后说的一句话是
+
+656
+650
+<36-3,Susan>she disappointed me.
+<36-3,Susan>她让我失望了
+
+657
+651
+<37-1,Reporter>Police have just confirmed that a hostage has been shot.
+<37-1,Reporter>警察已经确认一名人质遭到枪击
+
+658
+652
+<37-1,Reporter>Repeat, a hostage has been shot.
+<37-1,Reporter>重复  一名人质已遭到枪击
+
+659
+653
+<37-1,Reporter>There's no word on the name of the victim at this time,
+<37-1,Reporter>目前还不知道被害者的名字
+
+660
+654
+<37-1,Reporter>but it is believed to be a female.
+<37-1,Reporter>但确认是一名女性  
+
+661
+655
+<37-2,Twin>Mrs. Hodge?
+<37-2,Twin>霍吉太太
+
+662
+656
+<37-2,Twin>When's Mommy gonna be back from the store?
+<37-2,Twin>妈妈什么时候才会从超市回来
+
+663
+657
+<37-3,Bree>I'm sure she'll be back soon.
+<37-3,Bree>我相信她很快就回来了 
+
+664
+658
+<37-3,Bree>Why don't we go have some cookies?
+<37-3,Bree>为何不去吃点甜饼干呢
+
+665
+659
+<37-4,Twin>Mommy said we can't have cookies before dinner.
+<37-4,Twin>妈妈说过  晚饭前我们不能吃甜饼干
+
+666
+660
+<37-5,Bree>I'm sure she won't mind. Come on.
+<37-5,Bree>我敢肯定  她是不会介意的  来吧
+
+667
+661
+<37-5,Bree>Let's go. Come on.
+<37-5,Bree>走吧  快来
+
+668
+662
+<38-1,Lynette>OK, I've got to keep the pressure on to stop the bleeding.
+<38-1,Lynette>我必须按住这止血
+
+669
+663
+<38-2,Nora>Well, the good news is, you won't need that lawyer now.
+<38-2,Nora>好消息是  你不需要请律师了
+
+670
+664
+<38-3,Lynette>You are gonna get through this just fine.
+<38-3,Lynette>你会挺过去的  
+
+671
+665
+<38-3,Lynette>There is a parking lot full of ambulances out there.
+<38-3,Lynette>停车场里停满了救护车
+
+672
+666
+<38-3,Lynette>You gotta let us take her out of here!
+<38-3,Lynette>你必须让我们把她送出去  
+
+673
+667
+<38-4,Carolyn>No one's leaving.
+<38-4,Carolyn>谁都别想离开
+
+674
+668
+<38-5,Nora>Listen to me. Lynette...
+<38-5,Nora>听我说  勒奈特
+
+675
+669
+<38-5,Nora>- About Kayla...
+<38-5,Nora>-关于凯拉 
+
+676
+669
+<38-6,Lynette> Oh, forget it!
+<38-6,Lynette>别再说了
+
+677
+670
+<38-6,Lynette>We'll work that out later.
+<38-6,Lynette>我们以后再想法子
+
+678
+671
+<38-7,Nora>I don't have later, you stupid bitch.
+<38-7,Nora>我没时间了  你这个蠢货
+
+679
+672
+<38-7,Nora>OK, so listen.
+<38-7,Nora>好的  就这么听着
+
+680
+673
+<38-8,Lynette>OK. I'm listening.
+<38-8,Lynette>好的  我在听
+
+681
+674
+<38-9,Nora>Kayla was the only good thing that I've ever done.
+<38-9,Nora>生下凯拉  是我这辈子唯一做过的
+
+682
+675
+<38-9,Nora>In my whole life.
+<38-9,Nora>一件美事
+
+683
+676
+<38-9,Nora>I need you to really take really good care of her.
+<38-9,Nora>我需要你全心全意地好好照顾她
+
+684
+677
+<0-0,None>OK?
+<0-0,None>好吗
+
+685
+678
+<38-9,Nora>I don't have all day. Come on.
+<38-9,Nora>我没时间和你耗了  快点
+
+686
+679
+<38-10,Lynette>Yeah. Yes, I will. I will, I will.
+<38-10,Lynette>好的  好的  我会的  我会的
+
+687
+680
+<38-10,Lynette>I will love her like she is my own. I will. Nora?
+<38-10,Lynette>我会视她如己出  我会的  诺拉
+
+688
+681
+<38-10,Lynette>Nora?!
+<38-10,Lynette>诺拉
+
+689
+682
+<38-10,Lynette>Nora!
+<38-10,Lynette>诺拉
+
+690
+683
+<0-0,None>God!
+<0-0,None>天啊
+
+691
+684
+<38-11,Carolyn>Don't look at me that way.
+<38-11,Carolyn>别这么看着我  
+
+692
+685
+<38-11,Carolyn>You know you wanted her dead.
+<38-11,Carolyn>你不就想置她于死地吗
+
+693
+686
+<38-12,Lynette>How could you say that?
+<38-12,Lynette>你怎么说得出口
+
+694
+687
+<38-13,Carolyn>You told me about her and your husband
+<38-13,Carolyn>在我表明对于第三者的立场之后
+
+695
+688
+<38-13,Carolyn>after I made it pretty clear where I stand on whores.
+<38-13,Carolyn>是你告诉我她跟你丈夫的事
+
+696
+689
+<38-14,Lynette>I did not want this.
+<38-14,Lynette>我可没想要这结局 
+
+697
+690
+<38-14,Lynette>Don't you dare say that I wanted this.
+<38-14,Lynette>你竟敢说我想要她死
+
+698
+691
+<38-15,Carolyn>- Shut up!
+<38-15,Carolyn>-闭嘴 
+
+699
+691
+<38-16,Lynette> No, I will not shut up!
+<38-16,Lynette>不  我不会闭嘴的
+
+700
+692
+<38-16,Lynette>What's the matter with you?!
+<38-16,Lynette>你是不是有病
+
+701
+693
+<38-17,Carolyn>Have you not been paying attention?
+<38-17,Carolyn>你没注意到吗  
+
+702
+694
+<38-17,Carolyn>My husband cheated on me.
+<38-17,Carolyn>我丈夫背叛了我
+
+703
+695
+<38-18,Lynette>Who cares?! Who cares?! We all have pain.
+<38-18,Lynette>谁在乎  谁在意  我们都有痛苦
+
+704
+696
+<38-18,Lynette>Everyone in here has pain,
+<38-18,Lynette>这里的所有人都有苦楚  
+
+705
+697
+<38-18,Lynette>but we deal with it.
+<38-18,Lynette>但是我们会解决它
+
+706
+698
+<38-18,Lynette>We swallow it and get going with our lives.
+<38-18,Lynette>我们咽下苦果  继续生活
+
+707
+699
+<38-18,Lynette>What we don't do is go around shooting strangers!
+<38-18,Lynette>我们绝不会到处枪杀陌生人
+
+708
+700
+<38-19,Carolyn>She deserved it!
+<38-19,Carolyn>她罪有应得
+
+709
+701
+<38-20,Lynette>Well, maybe you deserved to be cheated on!
+<38-20,Lynette>或许你这下场  也是罪有应得
+
+710
+702
+<38-20,Lynette>I'm... I'm... I'm sorry. I shouldn't have said that.
+<38-20,Lynette>我  我  对不起  我不该这么说的
+
+711
+703
+<38-21,Carolyn>Yeah, you shouldn't have.
+<38-21,Carolyn>你的确不应该
+
+712
+704
+<39-1,Mary Alice Voiceover><i>Lynette Scavo had a dream that night.</i>
+<39-1,Mary Alice Voiceover><i>勒奈特那天晚上做了个梦</i>
+
+713
+705
+<39-1,Mary Alice Voiceover><i>It was one she'd had many times before.</i>
+<39-1,Mary Alice Voiceover><i>那是一个曾多次涌现的梦境</i>
+
+714
+706
+<40-1,Lynette>Hey, Mary Alice!
+<40-1,Lynette>玛丽·艾莉丝
+
+715
+707
+<40-1,Lynette>Are you OK?
+<40-1,Lynette>你还好吗
+
+716
+708
+<40-2,Mary Alice>Yes, thank you.
+<40-2,Mary Alice>还好  谢谢关心
+
+717
+709
+<40-2,Mary Alice>I'm fine.
+<40-2,Mary Alice>我很好
+
+718
+710
+<40-3,Lynette>OK. I'll see you later.
+<40-3,Lynette>好的  再见
+
+719
+711
+<40-4,Mary Alice Voiceover><i>But this night something changed.</i>
+<40-4,Mary Alice Voiceover><i>但这晚  梦境并非一如既往</i>
+
+720
+712
+<40-5,Lynette>No, you're not. I can tell.
+<40-5,Lynette>不  你不好  我看得出来
+
+721
+713
+<40-5,Lynette>Please...
+<40-5,Lynette>拜托
+
+722
+714
+<40-5,Lynette>...tell me what's wrong.
+<40-5,Lynette>告诉我发生什么事了
+
+723
+715
+<40-5,Lynette>Let me save you.
+<40-5,Lynette>让我来帮你
+
+724
+716
+<40-6,Mary Alice>You can't.
+<40-6,Mary Alice>你帮不了我
+
+725
+717
+<40-7,Lynette>Why not?
+<40-7,Lynette>为什么
+
+726
+718
+<40-8,Mary Alice>Sweetie, we can't prevent what we can't predict.
+<40-8,Mary Alice>亲爱的  对于无法预料的事  我们无能为力
+
+727
+719
+<40-9,Lynette>Isn't there anything I can do?
+<40-9,Lynette>真的走投无路了吗
+
+728
+720
+<40-10,Mary Alice>Yes.
+<40-10,Mary Alice>有
+
+729
+721
+<40-10,Mary Alice>Yes.
+<40-10,Mary Alice>有
+
+730
+722
+<40-10,Mary Alice>You can enjoy this beautiful day.
+<40-10,Mary Alice>好好享受这美好的一天
+
+731
+723
+<40-10,Mary Alice>We get so few of them.
+<40-10,Mary Alice>珍惜一切
+
+732
+724
+<40-11,Mary Alice Voiceover><i>This was the last time Lynette would ever dream of me.</i>
+<40-11,Mary Alice Voiceover><i>这是勒奈特最后一次梦到我</i>
+
+733
+final
+<40-11,Mary Alice Voiceover><i>And for her sake, I am grateful.</i>
+<40-11,Mary Alice Voiceover><i>感谢她  为我指点迷途</i>
+

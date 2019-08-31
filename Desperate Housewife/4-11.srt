@@ -1,0 +1,4330 @@
+1
+18
+<1-1,Mary Alice Voiceover>Previously on Desperate Housewives...
+<1-1,Mary Alice Voiceover>前情提要
+
+2
+19
+<1-2,Mary Alice Voiceover>Bree moved in...
+<1-2,Mary Alice Voiceover>布里搬了进来
+
+3
+20
+<1-3,Susan>You can stay as long as you want.  Mike went to rehab...
+<1-3,Susan>- 你们想住多久都可以 迈克去了勒戒所
+
+4
+21
+<1-5,Mike>I will fix this.
+<1-5,Mike>我会好起来的
+
+5
+22
+<1-6,Mary Alice Voiceover>Carlos faced a permanent illness...
+<1-6,Mary Alice Voiceover>卡洛斯罹遇一种永久的伤病
+
+6
+23
+<1-7,Dr. Dunlap>She's not gonna leave you because you lost your sight.
+<1-7,Dr. Dunlap>她不会因为你失明而抛下你的
+
+7
+24
+<1-8,Carlos>you don't know Gaby.
+<1-8,Carlos>你不了解加布
+
+8
+25
+<1-9,Mary Alice Voiceover>Dylan had questions about her father...
+<1-9,Mary Alice Voiceover>迪伦对她的父亲充满了疑惑
+
+9
+26
+<1-10,Katherine>The only thing you need to know
+<1-10,Katherine>你唯一需要知道的就是
+
+10
+27
+<1-10,Katherine>About that man is he was a monster. 
+<1-10,Katherine>- 那个男人是个禽兽
+
+11
+27
+<1-11,Dylan> Why would you not tell me that?
+<1-11,Dylan> 你为什么不告诉我呢?
+
+12
+28
+<1-12,Mary Alice Voiceover>And Adam uncovered a secret...
+<1-12,Mary Alice Voiceover>亚当揭开了一个秘密
+
+13
+29
+<1-13,Adam>You told me it was all his fault.
+<1-13,Adam>你告诉我那都是他的错
+
+14
+30
+<1-13,Adam>Now I find out it was yours.
+<1-13,Adam>我现在发现其实是你的错
+
+15
+31
+<1-14,Mary Alice Voiceover>That one person wished he hadn't.
+<1-14,Mary Alice Voiceover>那是 有一个人宁愿他不知晓的秘密
+
+16
+32
+<0-0,None>凯瑟琳·梅菲尔
+<0-0,None>Katherine Mayfair
+
+17
+33
+<3-1,Mary Alice Voiceover>Was not the kind of woman who liked to relive the past.
+<3-1,Mary Alice Voiceover>不是那种喜欢活在过去的女人
+
+18
+34
+<1-15,Mary Alice Voiceover>But when her husband adam left her,
+<1-15,Mary Alice Voiceover>但当她丈夫亚当离开她后
+
+19
+35
+<1-15,Mary Alice Voiceover>Katherine's life began to unravel,
+<1-15,Mary Alice Voiceover>凯瑟琳的生活开始释然起来
+
+20
+36
+<1-15,Mary Alice Voiceover>And the mistakes of her youth
+<1-15,Mary Alice Voiceover>她年轻时所犯的错误
+
+21
+37
+<1-15,Mary Alice Voiceover>Started to flash through her mind.
+<1-15,Mary Alice Voiceover>开始在脑海中闪回
+
+22
+38
+<1-15,Mary Alice Voiceover>She thought of Wayne Davis,the first man she married...
+<1-15,Mary Alice Voiceover>她想起了韦恩·戴维斯 她的第一任丈夫
+
+23
+39
+<1-15,Mary Alice Voiceover>And the first time he had hit her.
+<1-15,Mary Alice Voiceover>第一次她挨他的巴掌
+
+24
+40
+<1-15,Mary Alice Voiceover>She thought of how sincerely he apologized...
+<1-15,Mary Alice Voiceover>她想起他是如何真诚的道歉
+
+25
+41
+<1-15,Mary Alice Voiceover>And how meaningless his apologies were...
+<1-15,Mary Alice Voiceover>以及 他的道歉是如何的没有意义
+
+26
+42
+<1-15,Mary Alice Voiceover>And how she finally decided...
+<1-15,Mary Alice Voiceover>以及 她是如何决定...
+
+27
+43
+<1-15,Mary Alice Voiceover>to hit back.
+<1-15,Mary Alice Voiceover>进行反击
+
+28
+44
+<1-15,Mary Alice Voiceover>These were the thoughts going through katherine's mind....
+<1-15,Mary Alice Voiceover>这些情景正在凯瑟琳的脑海里重现时
+
+29
+45
+<1-15,Mary Alice Voiceover>When her friends and neighbors arrived...
+<1-15,Mary Alice Voiceover>她的朋友和邻居们突然前来造访
+
+30
+46
+<1-15,Mary Alice Voiceover>bearing gifts.
+<1-15,Mary Alice Voiceover>还带着赠礼
+
+31
+47
+<2-1,Katherine>Well,hello there.
+<2-1,Katherine>大家好啊
+
+32
+48
+<2-1,Katherine>What's all this?
+<2-1,Katherine>这些都是什么?
+
+33
+49
+<2-2,Bree>We brought you muffins.
+<2-2,Bree>我们给你带了松饼
+
+34
+50
+<2-3,Susan>And jam.
+<2-3,Susan>还有果酱
+
+35
+51
+<2-4,Katherine>Okay,uh,what's the occasion?
+<2-4,Katherine>好吧  为何行此大礼?
+
+36
+52
+<2-5,Lynette>Well,we heard you were having a rough time.
+<2-5,Lynette>我们听说了你最近不太好过
+
+37
+53
+<2-6,Gabrielle>So we just wanted you to know that we're here for you.
+<2-6,Gabrielle>我们只想让你知道  我们是支持你的
+
+38
+54
+<2-7,Katherine>Ah,so word is out that Adam's left me,
+<2-7,Katherine>亚当离开我的消息走漏了出去
+
+39
+55
+<2-7,Katherine>And you thought that muffins and jam
+<2-7,Katherine>所以你们认为那些松饼和果酱(Jam有"离开"的隐喻)
+
+40
+56
+<2-7,Katherine>Would help me pick up the pieces.
+<2-7,Katherine>能让我振作起来
+
+41
+57
+<2-8,Susan>The jam was Bree's idea.
+<2-8,Susan>带果酱是布里的主意
+
+42
+58
+<2-9,Bree>Susan!
+<2-9,Bree>- 苏珊 
+
+43
+58
+<2-10,Susan>I wanted to bring flowers,and I was shot down.
+<2-10,Susan> 我本想带些鲜花的  但被否决了
+
+44
+59
+<2-10,Susan>That's all I'm saying.
+<2-10,Susan>- 这些就是我想说的
+
+45
+59
+<2-11,Lynette>Katherine,we didn't come here to upset you.
+<2-11,Lynette> 凯瑟琳，我们不是来扰乱你心情的
+
+46
+60
+<2-12,Gabrielle>No,we thought that you just might need someone to talk to.
+<2-12,Gabrielle>当然不是  我们认为你只是需要有人来倾诉
+
+47
+61
+<2-13,Katherine>No,you just thought you'd get the juicy details.
+<2-13,Katherine>- 不  你们只是觉得自己发现了一个有料的八卦
+
+48
+61
+<2-14,Lynette>no,we came here.
+<2-14,Lynette> 不是的  我们来是
+
+49
+62
+<2-14,Lynette>We wanted to help you,to fix you lunch or clean your house.
+<2-14,Lynette>希望能够帮你做做午饭 或是 打扫打扫屋子
+
+50
+63
+<2-14,Lynette>Or offer up our own houses for you to clean,
+<2-14,Lynette>或者 把我们的屋子提供给你打扫
+
+51
+64
+<2-14,Lynette>If that's your thing.
+<2-14,Lynette>那正是你擅长的事
+
+52
+65
+<2-15,Katherine>I'm fine,truly,
+<2-15,Katherine>我很好  真的
+
+53
+66
+<2-15,Katherine>And I do appreciate your concern,
+<2-15,Katherine>我真的非常感谢你们的关心
+
+54
+67
+<2-15,Katherine>But... you know...
+<2-15,Katherine>但...你们知道...
+
+55
+69
+<2-17,Susan>I told them you weren't into jam.
+<2-17,Susan>我告诉过她们你不喜欢果酱
+
+56
+70
+<2-9,Bree>Susan!
+<2-9,Bree>苏珊
+
+57
+71
+<2-18,Bree>Look,I don't mean to pry,
+<2-18,Bree>听着  我并非想打探什么
+
+58
+72
+<2-18,Bree>But given what I know about you and Adam,
+<2-18,Bree>但基于我对你和亚当的了解
+
+59
+73
+<2-18,Bree>I'm surprised he was the one to do the leaving.
+<2-18,Bree>我很吃惊  他竟是离家出走的那个
+
+60
+74
+<2-19,Katherine>Well,Bree,the truth is...
+<2-19,Katherine>好吧  布里  事实是这样...
+
+61
+75
+<2-19,Katherine>I really don't want to talk about it.
+<2-19,Katherine>我一点也不想谈这个
+
+62
+76
+<2-20,Bree>I understand,but whatever you do,
+<2-20,Bree>我能理解  但不论怎样
+
+63
+77
+<2-20,Bree>Don't keep your feelings bottled up.
+<2-20,Bree>不要把你的情感都紧锁起来
+
+64
+78
+<2-20,Bree>You've got to let 'em out.
+<2-20,Bree>你需要宣泄出来
+
+65
+79
+<2-21,Katherine>I'll do that.
+<2-21,Katherine>我会的
+
+66
+80
+<3-1,Mary Alice Voiceover>Yes,Katherine Mayfair
+<3-1,Mary Alice Voiceover>是的  凯瑟琳·梅菲
+
+67
+81
+<3-1,Mary Alice Voiceover>Was not a woman who liked to relive the past.
+<3-1,Mary Alice Voiceover>不是那种喜欢活在过去的女人
+
+68
+82
+<3-1,Mary Alice Voiceover>But lately,her life had begun to unravel.
+<3-1,Mary Alice Voiceover>但最近  她的生活开始释然了起来
+
+69
+83
+<3-1,Mary Alice Voiceover>And she couldn't help thinking
+<3-1,Mary Alice Voiceover>她无法控制的去回想
+
+70
+84
+<3-1,Mary Alice Voiceover>Of all the mistakes she had made...
+<3-1,Mary Alice Voiceover>她曾犯下的所有错误
+
+71
+85
+<2-3,Susan>And especially...
+<2-3,Susan>特别是...
+
+72
+86
+<3-1,Mary Alice Voiceover>The ones she had buried.
+<3-1,Mary Alice Voiceover>已被她深藏于土的那一个
+
+73
+87
+<0-0,None>Desperate Housewives S04 E11
+<0-0,None>绝望主妇 第四季 第11集
+
+74
+88
+<3-2,Mary Alice Voiceover>It happened once a week on wisteria lane
+<3-2,Mary Alice Voiceover>这在紫藤巷每周都上演一次
+
+75
+89
+<3-2,Mary Alice Voiceover>Like clockwork.
+<3-2,Mary Alice Voiceover>准时如钟
+
+76
+90
+<3-2,Mary Alice Voiceover>The faithful would emerge from their homes
+<3-2,Mary Alice Voiceover>从家中开始就散发出虔诚的气息
+
+77
+91
+<3-2,Mary Alice Voiceover>In their sunday best...
+<3-2,Mary Alice Voiceover>打扮漂亮
+
+78
+92
+<3-2,Mary Alice Voiceover>With their family bibles...
+<3-2,Mary Alice Voiceover>带着家庭圣经
+
+79
+93
+<3-2,Mary Alice Voiceover>And their rosary beads...
+<3-2,Mary Alice Voiceover>还有 祈祷念珠
+
+80
+94
+<3-2,Mary Alice Voiceover>And they would head off
+<3-2,Mary Alice Voiceover>他们会途经
+
+81
+95
+<3-2,Mary Alice Voiceover>To their various houses of worship,
+<3-2,Mary Alice Voiceover>各式带着虔诚气息的房屋
+
+82
+96
+<3-2,Mary Alice Voiceover>Passing by a certain nonbeliever
+<3-2,Mary Alice Voiceover>经过一个从未对他们的仪式产生兴趣的
+
+83
+97
+<3-2,Mary Alice Voiceover>Who had never taken an interest in their ritual.
+<3-2,Mary Alice Voiceover>笃定的非信教者
+
+84
+98
+<3-2,Mary Alice Voiceover>But on this day,
+<3-2,Mary Alice Voiceover>但在这天
+
+85
+99
+<3-2,Mary Alice Voiceover>Lynette Scavo,for the first time in her life,
+<3-2,Mary Alice Voiceover>勒奈特·斯加沃 人生中第一次
+
+86
+100
+<3-2,Mary Alice Voiceover>Was struck by something...
+<3-2,Mary Alice Voiceover>被什么东西点醒了
+
+87
+101
+<4-1,Twin>Get the ball.
+<4-1,Twin>去拿那个球
+
+88
+102
+<4-2,Mary Alice Voiceover>Something she would later think of
+<4-2,Mary Alice Voiceover>那个被她之后认为
+
+89
+103
+<4-2,Mary Alice Voiceover>As divine inspiration.
+<4-2,Mary Alice Voiceover>是神祉之意的东西
+
+90
+104
+<4-3,Lynette>We should go to church.
+<4-3,Lynette>我们该去去教堂
+
+91
+105
+<4-4,Tom>What? why? what did we do?
+<4-4,Tom>什么? 为什么?  我们为什么要去?
+
+92
+106
+<5-15,Lynette>Ah,it's just...
+<5-15,Lynette>只是...
+
+93
+107
+<4-5,Lynette>We've been through a lot lately,
+<4-5,Lynette>我们最近经历了许多事情
+
+94
+108
+<4-5,Lynette>And we have a lot to be thankful for.
+<4-5,Lynette>我们有太多的感谢需要投递
+
+95
+109
+<4-5,Lynette>Don't you think we owe the big guy a little face time?
+<4-5,Lynette>你不认为我们欠了那个大家伙(上帝)一点小人情吗?
+
+96
+110
+<4-6,Tom>Fine,fine. we'll go to church...
+<4-6,Tom>好吧  好吧  我们去教堂吧
+
+97
+111
+<4-6,Tom>Next week.
+<4-6,Tom>在下周
+
+98
+112
+<5-15,Lynette>Tom...
+<5-15,Lynette>汤姆
+
+99
+113
+<4-7,Lynette>I'm serious.
+<4-7,Lynette>- 我是认真的
+
+100
+113
+<4-8,Tom>what's the rush? god will still be there next sunday.
+<4-8,Tom> 着急什么? 上帝老人家下周日还会在哪儿的
+
+101
+114
+<4-8,Tom>The pistons,on the other hand...
+<4-8,Tom>而活塞队  从另一方面说
+
+102
+115
+<4-8,Tom>They lose today,they're gone for good.
+<4-8,Tom>他们今天输了 就肯定永远消失了
+
+103
+116
+<4-9,Lynette>so I'm clear,You can't be bothered with saving your eternal soul
+<4-9,Lynette>我弄明白了 你不能去进行灵魂的救赎
+
+104
+117
+<4-9,Lynette>Because the pistons have no defense?
+<4-9,Lynette>就因为活塞队不会防守?
+
+105
+118
+<0-0,None>Okay,look.
+<0-0,None>好吧  听着
+
+106
+119
+<4-10,Tom>You didn't grow up going to church. I did.
+<4-10,Tom>你从小没有去教堂的习惯  但我有
+
+107
+120
+<4-10,Tom>My parents dragged me to st. anthony's every sunday.
+<4-10,Tom>我父母每个周日都拉我去圣安东尼教堂
+
+108
+121
+<4-10,Tom>I've done my time.
+<4-10,Tom>我的部分已经做完了
+
+109
+122
+<4-11,Lynette>Well,I haven't.
+<4-11,Lynette>但我没有
+
+110
+123
+<4-11,Lynette>I have some questions I would like answered.
+<4-11,Lynette>我有一些问题希望得到答复
+
+111
+124
+<4-11,Lynette>And I don't know anything about god or jesus,
+<4-11,Lynette>而且我对上帝或耶稣一无所知
+
+112
+125
+<4-11,Lynette>And our kids don't either. well,
+<4-11,Lynette>我们的孩子也是
+
+113
+126
+<4-12,Tom>you don't have to go to church to learn that stuff.
+<4-12,Tom>你没必要去教堂了解这些
+
+114
+127
+<4-13,Twin>Yeah,I know about jesus.
+<4-13,Twin>我了解耶稣
+
+115
+128
+<4-14,Tom>See?
+<4-14,Tom>听到了?
+
+116
+129
+<4-15,Twin>He's the guy who helps out santa claus.
+<4-15,Twin>是他拯救了圣诞老人
+
+117
+130
+<4-16,Tom>Get dressed,kids. we're going to church.
+<4-16,Tom>穿好衣服  孩子们  我们要去教堂了
+
+118
+131
+<0-0,None>好的
+<0-0,None>Mm-hmm. right.
+
+119
+132
+<5-2,Bree>Orson,I don't want to be late.
+<5-2,Bree>奥森  我不想迟到
+
+120
+133
+<5-3,Orson>Services don't start 30. yes,
+<5-3,Orson>礼拜仪式在10点30之前不会开始
+
+121
+134
+<5-4,Bree>but I'm sure edna fletcher has been there since 9:00,
+<5-4,Bree>是的  但我肯定埃德娜.弗莱彻在9点之前就在那儿
+
+122
+135
+<5-4,Bree>Kissing up to reverend Sykes.
+<5-4,Bree>接受赛克斯牧师的吻礼了
+
+123
+136
+<5-5,Orson>Is this about the ladies' auxiliary again? 
+<5-5,Orson>- 这又跟女性援助协会有关吗?
+
+124
+136
+<5-6,Bree>damn right.
+<5-6,Bree> 该死的 正是
+
+125
+137
+<5-7,Orson>Bree,please,such language on a sunday. I am sorry,
+<5-7,Orson>布里 拜托  在周日注意言辞
+
+126
+138
+<5-8,Bree>but I have to make sure
+<5-8,Bree>抱歉 但我需要确定
+
+127
+139
+<5-8,Bree>That he doesn't let her chair that committee. 
+<5-8,Bree>- 他没让她掌管那个协会
+
+128
+139
+<5-9,Orson>well,how could he?
+<5-9,Orson> 他怎么能这样?
+
+129
+140
+<5-9,Orson>you plan every pancake breakfast.
+<5-9,Orson>是你在计划每次的薄饼早餐
+
+130
+141
+<5-9,Orson>You organize every bake sale. you'd be a saint
+<5-9,Orson>是你在组织每次的糕点义卖
+
+131
+142
+<5-9,Orson>If our church believed in that sort of hogwash.
+<5-9,Orson>你该被列为圣徒 如果我们教堂会提拔那种废人
+
+132
+143
+<5-10,Bree>Exactly,and all the while,where was Edna?
+<5-10,Bree>太对了  顺便提一下  埃德娜都干什么了
+
+133
+144
+<5-10,Bree>Lounging around in zimbabwe in the peace corps.
+<5-10,Bree>跟和平工作团在津巴布韦闲晃
+
+134
+145
+<5-10,Bree>She won't let any of us forget it. Well,I wouldn't worry.
+<5-10,Bree>她休想让我们之中任何人忘掉这个. 我并不担心
+
+135
+146
+<5-11,Orson>Edna's "curing the village of dysentery" story
+<5-11,Orson>埃德娜的那个"治愈了全村痢疾"的故事
+
+136
+147
+<5-11,Orson>Has long since lost its novelty.
+<5-11,Orson>已经失去新鲜感很久了
+
+137
+148
+<5-12,Bree>Oh,Lynette. hi. you look pretty.
+<5-12,Bree>莱内特 你看起来真漂亮
+
+138
+149
+<5-12,Bree>What are you all dressed up for?
+<5-12,Bree>你为什么事精心打扮?
+
+139
+150
+<5-13,Lynette>Well,I decided I should go to church today.
+<5-13,Lynette>我决定今天要去教堂
+
+140
+151
+<5-13,Lynette>Yeah,Tom said the same thing.
+<5-13,Lynette>汤姆也这样认为
+
+141
+152
+<5-13,Lynette>Anyway,since you're the most religious person I know,
+<5-13,Lynette>因为你是我所认识的跟宗教最紧密的人
+
+142
+153
+<5-13,Lynette>I was wondering if you would take us to your church.
+<5-13,Lynette>- 我在想你们能否带我们一起去教堂
+
+143
+153
+<5-14,Bree>I would love that.
+<5-14,Bree> 我很愿意
+
+144
+154
+<5-14,Bree>We're--we're leaving right now. you can follow us.
+<5-14,Bree>我们正准备出发 你可以跟着我们
+
+145
+155
+<5-15,Lynette>Great! Just give me a second to sell Tom on the idea.
+<5-15,Lynette>太好了 给我一分钟去转告汤姆
+
+146
+156
+<5-15,Lynette>You know,he was raised catholic.
+<5-15,Lynette>- 你知道 他从小就是天主教徒
+
+147
+156
+<5-16,Bree>oh,don't go catholic.
+<5-16,Bree> 别去天主教堂
+
+148
+157
+<5-16,Bree>All that standing and kneeling and genuflecting--
+<5-16,Bree>那些静站  膝礼 和跪礼...
+
+149
+158
+<5-16,Bree>I go for worship,not a workout.
+<5-16,Bree>我是去做礼拜  不是去做锻炼的
+
+150
+159
+<5-17,Orson>Mm. not to mention the incense,which smells good at first
+<5-17,Orson>更别提那些香火了  开始闻起来还不错
+
+151
+160
+<5-17,Orson>Until you feel your breakfast coming back up.
+<5-17,Orson>直至后来你会感觉你的早餐在胃里上泛
+
+152
+161
+<5-18,Lynette>Okay.
+<5-18,Lynette>好的
+
+153
+162
+<5-18,Lynette>Well,I'll be right back.
+<5-18,Lynette>我马上回来
+
+154
+163
+<5-18,Lynette>Oh,this is so exciting. I'm going to church.
+<5-18,Lynette>太令人兴奋了  我要去教堂
+
+155
+164
+<5-18,Lynette>By the way,what am I now?
+<5-18,Lynette>顺便问下  我现在是哪派的?
+
+156
+165
+<5-19,Bree>Presbyterian.
+<5-19,Bree>长老会派信徒
+
+157
+166
+<5-20,Lynette>Right.
+<5-20,Lynette>没错
+
+158
+167
+<6-1,Father Crowley>Thank you. thank you for coming.
+<6-1,Father Crowley>谢谢  感谢你的到来
+
+159
+168
+<0-0,None>Oh,shoot.
+<0-0,None>糟糕
+
+160
+169
+<6-2,Gabrielle>Did I miss mass?
+<6-2,Gabrielle>我错过弥撒仪式了?
+
+161
+170
+<6-2,Gabrielle>Was it at 9:00?
+<6-2,Gabrielle>那是9点开始吗?
+
+162
+171
+<6-3,Father Crowley>Yes,Gabrielle. 9:00 mass is still at 9:00.
+<6-3,Father Crowley>是的  加布里埃尔  9点的弥撒仍旧是9点整开始
+
+163
+172
+<6-4,Gabrielle>Oh,that's good to know.
+<6-4,Gabrielle>很高兴你告诉我这个
+
+164
+173
+<6-4,Gabrielle>Uh,father,can I talk to you?
+<6-4,Gabrielle>神父 我能跟你聊聊吗?
+
+165
+174
+<6-5,Father Crowley>Of course. I've actually been expecting you to come by.
+<6-5,Father Crowley>当然  事实上我一直都在期待你来
+
+166
+175
+<6-6,Gabrielle>Why?
+<6-6,Gabrielle>为什么?
+
+167
+176
+<6-7,Father Crowley>Well,I thought you might need some comforting after your husband's death.
+<6-7,Father Crowley>我觉得在你丈夫去世后你会需要一些慰藉
+
+168
+177
+<0-0,None>Oh,that.
+<0-0,None>那个啊
+
+169
+178
+<6-8,Gabrielle>Yeah,I was a little blue,
+<6-8,Gabrielle>是的  我曾经是有点忧郁
+
+170
+179
+<6-8,Gabrielle>But the good news is,I've bounced back.
+<6-8,Gabrielle>但值得庆幸的是  我已经恢复了
+
+171
+180
+<6-9,Father Crowley>Really?
+<6-9,Father Crowley>真的?
+
+172
+181
+<6-10,Gabrielle>Okay,this may come as a little shock to you...
+<6-10,Gabrielle>你也许会有一点吃惊
+
+173
+182
+<6-10,Gabrielle>But guess who's getting married again?
+<6-10,Gabrielle>但是你猜猜谁又要结婚了?
+
+174
+183
+<6-10,Gabrielle>And I was thinking,
+<6-10,Gabrielle>我在想
+
+175
+184
+<6-10,Gabrielle>Maybe you could perform the ceremony.
+<6-10,Gabrielle>也许你能来主持婚礼
+
+176
+185
+<6-10,Gabrielle>Is tuesday good for you?
+<6-10,Gabrielle>星期二你没问题吧?
+
+177
+186
+<0-0,None>Uh...
+<0-0,None>恩。。。
+
+178
+187
+<6-11,Father Crowley>Victor's only been dead two weeks.
+<6-11,Father Crowley>维克托刚刚过世了两周
+
+179
+188
+<6-12,Gabrielle>Yeah,I know,but I'm no good single.
+<6-12,Gabrielle>是的  我知道  但我并不喜欢单身
+
+180
+189
+<6-12,Gabrielle>Honestly,I don't know how you do it.
+<6-12,Gabrielle>说实话  我并不知道你会怎么想
+
+181
+190
+<6-13,Father Crowley>Well,who is this man? did you just meet him?
+<6-13,Father Crowley>那个男人是谁?  是你刚认识的?
+
+182
+191
+<6-14,Gabrielle>No. no,no,no,no. it's Carlos.
+<6-14,Gabrielle>不 不 不 是卡洛斯
+
+183
+192
+<6-15,Father Crowley>Carlos? I-I didn't know you two were even speaking.
+<6-15,Father Crowley>卡洛斯? 我甚至不知道你们仍理会对方
+
+184
+193
+<6-16,Gabrielle>Oh,yeah. we bumped into each other a few months ago,
+<6-16,Gabrielle>我们几个月前偶遇上了
+
+185
+194
+<6-16,Gabrielle>And we just fell in love all over again.
+<6-16,Gabrielle>然后我们又重新坠入爱河
+
+186
+195
+<6-17,Father Crowley>Uh,a few months ago?
+<6-17,Father Crowley>几个月前?
+
+187
+196
+<6-17,Father Crowley>But you were married six months ago.
+<6-17,Father Crowley>但你6个月前都仍是已婚
+
+188
+197
+<6-18,Gabrielle>Boy,you are just determined to make this awkward,aren't ya?
+<6-18,Gabrielle>老兄  你是准备把场面弄得难堪  是吗?
+
+189
+198
+<0-0,None>Oh,Gabrielle
+<0-0,None>加布里埃尔.
+
+190
+199
+<6-20,Gabrielle>Okay,look,in the eyes of the church,
+<6-20,Gabrielle>好吧  听着  在教会的角度来说
+
+191
+200
+<6-20,Gabrielle>Carlos and I were never divorced.
+<6-20,Gabrielle>卡洛斯和我从未离婚过
+
+192
+201
+<6-20,Gabrielle>Technically,the affair was with Victor,
+<6-20,Gabrielle>严格意义上维克托才是第三者
+
+193
+202
+<6-20,Gabrielle>And God smote him.
+<6-20,Gabrielle>而且上帝惩罚了他
+
+194
+203
+<6-20,Gabrielle>So we're good.
+<6-20,Gabrielle>所以我们没错
+
+195
+204
+<6-20,Gabrielle>All right,yes,I've been a bad catholic.
+<6-20,Gabrielle>好吧  是的  我不是个好的天主教徒
+
+196
+205
+<6-20,Gabrielle>Enough with the guilt thing. are you gonna marry us or not?
+<6-20,Gabrielle>做足了坏事  那你给不给我们主持婚礼?
+
+197
+206
+<6-21,Father Crowley>Fine,as long as you promise
+<6-21,Father Crowley>好吧  只要你允诺
+
+198
+207
+<6-21,Father Crowley>To stay married to Carlos for the rest of your life.
+<6-21,Father Crowley>跟卡洛斯的婚姻会持续终生
+
+199
+208
+<8-13,Reverend Sikes>Absolutely.
+<8-13,Reverend Sikes>当然
+
+200
+209
+<6-22,Gabrielle>Oh,but if I don't,I promise you,
+<6-22,Gabrielle>但如果我没这样做  我向你允诺
+
+201
+210
+<6-22,Gabrielle>I will change religions.
+<6-22,Gabrielle>我会更改宗教信仰
+
+202
+211
+<6-1,Father Crowley>Thank you.
+<6-1,Father Crowley>谢谢
+
+203
+212
+<7-1,Susan>Sorry.
+<7-1,Susan>- 抱歉
+
+204
+212
+<7-2,Tim>no,this is good.
+<7-2,Tim> 不  这没什么
+
+205
+213
+<7-2,Tim>Accountants always appreciate it when people take the time
+<7-2,Tim>当有人花时间整理出一套精细的档案系统时
+
+206
+214
+<7-2,Tim>To develop a sophisticated filing system.
+<7-2,Tim>会计通常会很感激
+
+207
+215
+<7-3,Susan>Are you always this sarcastic with your clients?
+<7-3,Susan>你经常对你的客户冷嘲热讽吗?
+
+208
+216
+<7-4,Tim>Nope,just my favorite cousin.
+<7-4,Tim>不  只对我亲爱的表姐
+
+209
+217
+<7-5,Susan>I so appreciate you helping us out.
+<7-5,Susan>我很感谢你能来帮助我们
+
+210
+218
+<7-5,Susan>Mike would be doing our taxes,but he's off...
+<7-5,Susan>迈克通常负责我们的税务  但他外出去...
+
+211
+219
+<7-6,Tim>Getting better.
+<7-6,Tim>进行蜕变
+
+212
+220
+<7-6,Tim>Mom told me. besides,I'm happy to have the work.
+<7-6,Tim>妈妈告诉我了  另外  我很高兴接到了工作
+
+213
+221
+<7-7,Susan>Yeah,I was sorry to hear about your job.
+<7-7,Susan>是啊  我很遗憾  得知你的工作现状
+
+214
+222
+<7-7,Susan>You know,ever since N.A.F.T.A.,
+<7-7,Susan>你知道  自从有了NAFTA (北美自由贸易协议)
+
+215
+223
+<7-7,Susan>Corporate outsourcing has been the bane of the american worker.
+<7-7,Susan>企业人力资源外包成了美国人的噩梦
+
+216
+224
+<7-7,Susan>Is that right? I heard somebody say that on N.P.R.,
+<7-7,Susan>没错吧? 我听有人在N.P.R.上说过 (NPR:国内公用无线电台)
+
+217
+225
+<7-7,Susan>And I just keep repeating it to people.
+<7-7,Susan>所以我一直和大家这么说
+
+218
+226
+<7-8,Tim>Actually,I wish I could blame losing my job on N.A.F.T.A.,
+<7-8,Tim>实际上 我也希望失业缘故在于NAFTA
+
+219
+227
+<7-8,Tim>But it really has more to do with Chloe.
+<7-8,Tim>但是主要原因在于克洛伊
+
+220
+228
+<7-8,Tim>My boss' daughter.
+<7-8,Tim>我老板的女儿
+
+221
+229
+<0-0,None>Oh,Tim.
+<0-0,None>哦 提姆
+
+222
+230
+<7-10,Tim>I don't know why he got so mad. I mean,she was 18.
+<7-10,Tim>我不懂他怎么如此生气 我是说 她都满18岁了
+
+223
+231
+<7-11,Susan>Okay,so back to these receipts.
+<7-11,Susan>好吧 我们回到这些收据上
+
+224
+232
+<7-12,Tim>What is it about a girl in a cheerleader outfit?
+<7-12,Tim>穿着啦啦队队长服装又怎样?
+
+225
+233
+<7-13,Susan>Done catching up. all about accounting now.
+<7-13,Susan>叙旧到此为止 现在赶紧算账吧
+
+226
+234
+<7-14,Tim>Come on,susan. you're acting like I'm some sort of creep.
+<7-14,Tim>- 拜托 苏珊 你搞得好像我是个什么变态一样
+
+227
+234
+<7-15,Susan>no,
+<7-15,Susan> 才没有
+
+228
+235
+<7-15,Susan>I know you're not.
+<7-15,Susan>我知道你不是
+
+229
+236
+<7-16,Tim>I mean,18's legal.
+<7-16,Tim>我的意思是 18岁已经算合法了
+
+230
+237
+<7-16,Tim>I checked with a lawyer before I did anything.
+<7-16,Tim>我在动手之前还和律师核实过的
+
+231
+238
+<7-17,Susan>These receipts are self-explanatory.
+<7-17,Susan>这些账单不需要我来说明了
+
+232
+239
+<7-17,Susan>I'd even know why I'm here.
+<7-17,Susan>搞不懂我还在这做什么
+
+233
+240
+<8-1,Reverend Sikes>This is the nourishment
+<8-1,Reverend Sikes>这些就是主赐予的
+
+234
+241
+<8-1,Reverend Sikes>Each soul requires to go from acorn to oak.
+<8-1,Reverend Sikes>让每个灵魂修成正果的力量
+
+235
+242
+<8-1,Reverend Sikes>And this is what should bring us peace in our hearts--
+<8-1,Reverend Sikes>这些可以给我们心灵带来安宁
+
+236
+243
+<8-1,Reverend Sikes>The blessed knowledge that god's love for us
+<8-1,Reverend Sikes>主给予我们充满祝福的爱
+
+237
+244
+<8-12,Lynette>Is as sure as the sunlight
+<8-12,Lynette>就好比那永远闪烁的阳光
+
+238
+245
+<8-1,Reverend Sikes>and that it is always shining.
+<8-1,Reverend Sikes>一般源源不断
+
+239
+246
+<8-1,Reverend Sikes>We only need see it.
+<8-1,Reverend Sikes>我们只需要睁开眼睛就能感受到
+
+240
+247
+<8-1,Reverend Sikes>- Amen? 
+<8-1,Reverend Sikes>- 阿门?
+
+241
+247
+<8-2,All> Amen.
+<8-2,All> 阿门
+
+242
+248
+<8-3,Reverend Sikes>Now if you'll take out your hymnals
+<8-3,Reverend Sikes>现在请各位拿出你们的赞美诗集
+
+243
+249
+<8-3,Reverend Sikes>And turn to page 335.
+<8-3,Reverend Sikes>翻到335页
+
+244
+250
+<8-4,Bree>What are you doing?
+<8-4,Bree>- 你要干什么?
+
+245
+250
+<8-5,Lynette>I've got a question about his sermon.
+<8-5,Lynette> 关于他的训诫我有一个问题
+
+246
+251
+<8-6,Bree>What? no. put your hand down.
+<8-6,Bree>什么? 不行 快把手放下
+
+247
+252
+<8-7,Lynette>It'll just take a sec.
+<8-7,Lynette>- 一会就好
+
+248
+252
+<8-8,Bree>Lynette,please,we don't do that here.
+<8-8,Bree> 莱内特 拜托 我们这没这种习惯的
+
+249
+253
+<8-9,Reverend Sikes>Uh,yes,can I help you?
+<8-9,Reverend Sikes>好的 你有什么问题吗?
+
+250
+254
+<8-10,Lynette>Hi. I'm Lynette Scavo.
+<8-10,Lynette>嗨 我是丽奈特-斯加沃
+
+251
+255
+<8-10,Lynette>I'm a friend of bree hodge. and your sermon was lovely,
+<8-10,Lynette>我是布里.霍吉的朋友 你的训诫让我受益颇多
+
+252
+256
+<8-10,Lynette>Especially the part about the trees.
+<8-10,Lynette>特别是树的那一部分
+
+253
+257
+<8-11,Reverend Sikes>Thank you.
+<8-11,Reverend Sikes>- 谢谢
+
+254
+257
+<8-12,Lynette>but here's where you lost me--
+<8-12,Lynette> 但是有一点让我很疑惑
+
+255
+258
+<8-12,Lynette>"god's love is as sure as the sunlight."
+<8-12,Lynette>"主给予的爱就像阳光一般源源不断"
+
+256
+259
+<0-0,None>Yes,absolutely.
+<0-0,None>是的 那是当然
+
+257
+260
+<8-14,Bree>There. you have your answer. now sit.
+<8-14,Bree>行了 问题回答完毕 现在坐下吧
+
+258
+261
+<8-15,Lynette>The reason I ask is,there are wars all over the world,
+<8-15,Lynette>我这么问的原因是 世界上发生了许多战争
+
+259
+262
+<8-15,Lynette>And it seems like every month,
+<8-15,Lynette>好像每个月
+
+260
+263
+<8-15,Lynette>Some dumb-ass walks into a school
+<8-15,Lynette>都有些傻B大摇大摆走进学校
+
+261
+264
+<8-15,Lynette>And starts shooting children.
+<8-15,Lynette>然后拿起枪射杀学生
+
+262
+265
+<8-15,Lynette>So I'm thinking,god's love?
+<8-15,Lynette>所以我在想 主给予的爱?
+
+263
+266
+<8-15,Lynette>Not so sure.
+<8-15,Lynette>可不是源源不断的哦
+
+264
+267
+<8-16,Orson>Did she just say "dumb-ass"?
+<8-16,Orson>她刚才是不是说了"傻B"?
+
+265
+268
+<8-5,Lynette>Ah,the eternal question--
+<8-5,Lynette>啊 这个永恒的问题--
+
+266
+269
+<8-17,Reverend Sikes>"why do bad things happen to good people?"
+<8-17,Reverend Sikes>"为什么好人身上会发生灾难?"
+
+267
+270
+<8-17,Reverend Sikes>What you have to remember is,god gave us free will.
+<8-17,Reverend Sikes>你得记住的是 上帝给予我们自由的意志
+
+268
+271
+<8-17,Reverend Sikes>Much of the evil in the world is brought on by man himself.
+<8-17,Reverend Sikes>世界上邪恶的东西都是人类自己惹上身的
+
+269
+272
+<0-0,None>Oh,Lord.
+<0-0,None>哦 主啊
+
+270
+273
+<0-0,None>Yes,Lynette?
+<0-0,None>请讲 莱内特?
+
+271
+274
+<8-20,Lynette>Okay,I give you that one.
+<8-20,Lynette>好吧 就算你的答案过得去
+
+272
+275
+<8-20,Lynette>But what about the tornado that just happened?
+<8-20,Lynette>但是刚发生过的龙卷风呢?
+
+273
+276
+<8-20,Lynette>You can't blame man for that.
+<8-20,Lynette>这个灾难你可不能归咎于人身上
+
+274
+277
+<8-21,Bree>Get the keys ready. we'll slip out the back.
+<8-21,Bree>拿好车钥匙 我们准备从后面溜出去
+
+275
+278
+<8-22,Reverend Sikes>you bring up a big theological issue,
+<8-22,Reverend Sikes>你提到了一个神学方面的大问题
+
+276
+279
+<8-22,Reverend Sikes>One that deserves a lot more time to explore.
+<8-22,Reverend Sikes>这个问题需要花很长时间来探讨
+
+277
+280
+<8-22,Reverend Sikes>Why don't you come to our tuesday night bible study?
+<8-22,Reverend Sikes>要不你来咱们周二晚上的圣经研讨会吧?
+
+278
+281
+<8-22,Reverend Sikes>We can discuss it then.
+<8-22,Reverend Sikes>到时候我们再讨论这个问题
+
+279
+282
+<8-23,Lynette>Well,sure. I'm easy. thanks.
+<8-23,Lynette>没问题 我好商量
+
+280
+283
+<9-1,Susan>Katherine Dylan, hi. what's up?
+<9-1,Susan>凯瑟琳·迪伦 有什么事吗?
+
+281
+284
+<9-2,Dylan>Julie and I have a study date,
+<9-2,Dylan>我和朱莉约好了要一起学习的
+
+282
+285
+<9-2,Dylan>And my mom wants to apologize for being rude...
+<9-2,Dylan>我妈妈想要为自己的不礼貌道歉...
+
+283
+286
+<9-9,Katherine>Again.
+<9-9,Katherine>再一次的
+
+284
+287
+<9-3,Susan>Is this about the other day?
+<9-3,Susan>你是说前两天的事吗?
+
+285
+288
+<9-4,Katherine>Yes. you were just trying to help,
+<9-4,Katherine>是的 你们只是想要帮忙而已
+
+286
+289
+<9-4,Katherine>And I shouldn't have reacted the way I did.
+<9-4,Katherine>我不应该反应那么大
+
+287
+290
+<9-5,Susan>Oh,please. after what you've been through,
+<9-5,Susan>哦 这算什么 你都经历的这么多了
+
+288
+291
+<9-5,Susan>No one is judging. come on in.
+<9-5,Susan>没有人会说你的 快进来吧
+
+289
+292
+<9-5,Susan>I'll put on some coffee.
+<9-5,Susan>我给你们倒咖啡
+
+290
+293
+<9-5,Susan>Oh,um,this is my cousin Tim. Tim,this is the neighbors.
+<9-5,Susan>哦 这位是我的表弟提姆, 提姆,这两位是我的邻居
+
+291
+294
+<9-6,Tim>Mrs. Davis?
+<9-6,Tim>戴维斯夫人?
+
+292
+295
+<9-7,Katherine>Davis? nobody's called me that in years.
+<9-7,Katherine>戴维斯? 好多年没有人这么叫我了
+
+293
+296
+<9-7,Katherine>Do we know each other?
+<9-7,Katherine>我们认识吗?
+
+294
+297
+<9-8,Susan>Oh,of course you do. that's right!
+<9-8,Susan>哦 你们当然认识啦 对啦!
+
+295
+298
+<9-8,Susan>This is my cousin Timmy.
+<9-8,Susan>这是我的表弟 蒂米
+
+296
+299
+<9-8,Susan>He stayed with us
+<9-8,Susan>他去乐队野营的那个暑假
+
+297
+300
+<9-8,Susan>That summer that he went to band camp.
+<9-8,Susan>在我们家住过一段时间
+
+298
+301
+<9-9,Katherine>Oh! yes.
+<9-9,Katherine>哦 说得对
+
+299
+302
+<9-9,Katherine>I remember.
+<9-9,Katherine>我想起来了
+
+300
+303
+<9-9,Katherine>Gosh,you're all grown up. it's nice to see you again.
+<9-9,Katherine>天哪 你都长这么大了 很高兴再次见到你
+
+301
+304
+<9-10,Tim>You,too. hold it. is this little Dylan?
+<9-10,Tim>我也是 等等 这位莫非是小迪伦?
+
+302
+305
+<9-11,Katherine>Can you believe it?
+<9-11,Katherine>难以置信吧
+
+303
+306
+<9-12,Tim>Wow! the last time I saw you,you were pulling a wagon.
+<9-12,Tim>哇 上次见你的时候你还在婴儿车里呢
+
+304
+307
+<9-13,Tim>How old are you now?
+<9-13,Tim>- 你多大啦?
+
+305
+307
+<9-14,Dylan>I turn 18 next week.
+<9-14,Dylan> 下周我就满18岁了
+
+306
+308
+<10-5,Carlos>Really?
+<10-5,Carlos>真的吗?
+
+307
+310
+<9-16,Susan>Julie,Dylan's here! study time!
+<9-16,Susan>朱莉,迪伦来了! 该学习了!
+
+308
+311
+<11-6,Nurse Wilkins>I'm... sorry.
+<11-6,Nurse Wilkins>我很... 抱歉
+
+309
+312
+<9-16,Susan>That was probably a little louder than it needed to be.
+<9-16,Susan>也许没必要这么大声
+
+310
+313
+<10-1,Carlos>Edie,is that you?
+<10-1,Carlos>艾迪 是你吗?
+
+311
+314
+<10-2,Edie>Oh,my god. you knew it was me
+<10-2,Edie>哦 我的天哪 你通过脚步声
+
+312
+315
+<10-2,Edie>Just from the sound of my footsteps?
+<10-2,Edie>就能听出是我来了?
+
+313
+316
+<10-3,Carlos>No,from your perfume.
+<10-3,Carlos>不是 是你的香水
+
+314
+317
+<10-3,Carlos>I smelled it the moment you hit the parking lot.
+<10-3,Carlos>你到停车场时我就闻到了
+
+315
+318
+<10-4,Edie>Look,there's no reason to be pissy.
+<10-4,Edie>脾气没必要这么差吧
+
+316
+319
+<10-4,Edie>I'm here to do something nice.
+<10-4,Edie>我是到这来做好人的
+
+317
+320
+<10-5,Carlos>Really?
+<10-5,Carlos>真的?
+
+318
+321
+<10-6,Edie>I feel bad about the whole losing-all-of-your-money thing.
+<10-6,Edie>我对于让你一无所有的事情感到很抱歉
+
+319
+322
+<10-6,Edie>Even though we know tornado-- clearly not my fault.
+<10-6,Edie>尽管你我都明白 龙卷风可不是我的错
+
+320
+323
+<0-0,None>Um...
+<0-0,None>呃...
+
+321
+324
+<10-6,Edie>Anyway,I-I thought maybe this...
+<10-6,Edie>不管怎样 我想这个...
+
+322
+325
+<10-6,Edie>Would help.
+<10-6,Edie>可以帮到你
+
+323
+326
+<10-6,Edie>It's the diamond bracelet you gave me.
+<10-6,Edie>是你送给我的手链
+
+324
+327
+<10-6,Edie>It must be worth thousands of dollars.
+<10-6,Edie>肯定值个好几千吧
+
+325
+328
+<10-6,Edie>Do you think you still have the receipt for it?
+<10-6,Edie>你还有收据吗?
+
+326
+329
+<10-7,Carlos>Uh... I think I threw it out.
+<10-7,Carlos>我想我给扔了
+
+327
+330
+<10-8,Edie>Oh. well,you said it was from cartier,right?
+<10-8,Edie>你说是卡迪亚的手链 对吧?
+
+328
+331
+<10-8,Edie>I'm sure they have some sort of record.
+<10-8,Edie>我肯定他们会有记录的
+
+329
+332
+<10-8,Edie>Carlos?
+<10-8,Edie>卡洛斯?
+
+330
+333
+<10-9,Carlos>Actually,the box was from cartier.
+<10-9,Carlos>实际上 盒子是卡迪亚的
+
+331
+334
+<10-9,Carlos>The bracelet's from...
+<10-9,Carlos>手链是...
+
+332
+335
+<10-9,Carlos>A swap meet.
+<10-9,Carlos>在易货市场上买来的
+
+333
+336
+<10-10,Edie>Hold it.
+<10-10,Edie>等等
+
+334
+337
+<10-10,Edie>Are you saying
+<10-10,Edie>你的意思是说
+
+335
+338
+<10-10,Edie>That those diamonds are cubic zirconias?
+<10-10,Edie>那些钻石都是锆石做的?
+
+336
+339
+<10-11,Carlos>If we're lucky.
+<10-11,Carlos>如果咱们够幸运的话
+
+337
+340
+<10-12,Edie>You son of a bitch. I gave you my heart,
+<10-12,Edie>你这个狗娘养的 我把整颗心都掏给你了
+
+338
+341
+<10-12,Edie>And all you could give me was fake jewelry?
+<10-12,Edie>你送我的竟然是假珠宝?
+
+339
+342
+<10-13,Carlos>Edie...  I'm sorry. I never thought you'd find out.
+<10-13,Carlos>艾迪... 对不起 我以为你不会发现的
+
+340
+343
+<10-14,Edie>I just spat on one of your jell-o cubes.
+<10-14,Edie>我刚才往你果冻里吐了口水
+
+341
+344
+<10-14,Edie>Happy hunting.
+<10-14,Edie>慢慢摸索吧
+
+342
+345
+<11-1,Edie>Hey,you. do you know how long it's gonna be
+<11-1,Edie>嘿 小姐 你知道卡洛斯
+
+343
+346
+<11-1,Edie>Until Carlos gets his sight back?
+<11-1,Edie>恢复视力还要多久?
+
+344
+347
+<11-1,Edie>Because I have a 2-word sentence I'd like to say to him,
+<11-1,Edie>因为我有两个字要送给他
+
+345
+348
+<11-1,Edie>And there's a hand gesture that goes along with it.
+<11-1,Edie>还有一个配套的手势
+
+346
+349
+<11-2,Nurse Wilkins>I don't know. Mr. Solis' condition is very serious.
+<11-2,Nurse Wilkins>我不知道 索利斯先生状况很严重
+
+347
+350
+<11-3,Edie>Serious? what's wrong?
+<11-3,Edie>严重? 怎么回事?
+
+348
+351
+<0-0,None>Well...
+<0-0,None>呃...
+
+349
+352
+<11-4,Nurse Wilkins>You know,you should really talk to the doctor about this.
+<11-4,Nurse Wilkins>你应该和主治医生好好谈谈
+
+350
+353
+<11-4,Nurse Wilkins>I don't even think his girlfriend knows.
+<11-4,Nurse Wilkins>我想甚至他的女朋友都不知道
+
+351
+354
+<11-5,Edie>You mean Gaby?
+<11-5,Edie>你是说加布?
+
+352
+355
+<11-6,Nurse Wilkins>I'm sorry. I said too much already.
+<11-6,Nurse Wilkins>抱歉 我已经说的太多了
+
+353
+356
+<11-7,Edie>Oh,please don't tell me that's your lunch.
+<11-7,Edie>别告诉我你午餐就吃这个
+
+354
+357
+<11-8,Nurse Wilkins>Yeah. I'm sort of on a budget.
+<11-8,Nurse Wilkins>是呀 我正在省钱呢
+
+355
+358
+<11-9,Edie>No,no,no. if you're gonna give quality care,
+<11-9,Edie>不 不 不 如果你要给病人高质量的服务
+
+356
+359
+<11-9,Edie>You're gonna need some quality food.
+<11-9,Edie>你自己就得吃高质量的食物
+
+357
+360
+<11-9,Edie>Now I know of this great,little french bistro.
+<11-9,Edie>我知道有一家很不错的法国餐厅
+
+358
+361
+<11-9,Edie>It's the perfect place for lunch...
+<11-9,Edie>很适合吃午饭...
+
+359
+362
+<11-9,Edie>And conversation.
+<11-9,Edie>以及聊天
+
+360
+363
+<12-1,Julie>"your father was murdered."
+<12-1,Julie>"你的父亲是被谋杀的"
+
+361
+364
+<12-2,Dylan>I know.
+<12-2,Dylan>我知道
+
+362
+365
+<12-3,Julie>Are you sure your aunt knew what she was writing?
+<12-3,Julie>你确定你姨妈知道自己在写什么吗?
+
+363
+366
+<12-3,Julie>She was pretty sick.
+<12-3,Julie>- 她病的很严重啊
+
+364
+366
+<12-4,Dylan>no,she had it together,even on that last day.
+<12-4,Dylan> 没有 她好了 即使在她死的那一天
+
+365
+367
+<12-4,Dylan>I remember aunt Lily really wanted to tell me something,
+<12-4,Dylan>我记得莉莉姨妈很想和我说什么
+
+366
+368
+<12-4,Dylan>And then my mom just came in and stopped her.
+<12-4,Dylan>但是每次我妈进来都制止了她
+
+367
+369
+<12-5,Julie>Does your mom know you found this?
+<12-5,Julie>你妈妈知道你发现了这个吗?
+
+368
+370
+<12-6,Dylan>No,and I'm not gonna tell her either.
+<12-6,Dylan>不知道 反正我也不准备告诉她了
+
+369
+371
+<12-6,Dylan>Why give her another chance to lie to me?
+<12-6,Dylan>干嘛给她再次欺骗我的机会呢?
+
+370
+372
+<12-6,Dylan>That's why I'm going to Adam.
+<12-6,Dylan>所以我才要去找亚当
+
+371
+373
+<12-6,Dylan>I can trust him to tell me the truth.
+<12-6,Dylan>我相信他会告诉我真相
+
+372
+374
+<12-7,Julie>I just don't get it.
+<12-7,Julie>我不明白
+
+373
+375
+<12-7,Julie>I mean,why would your mom lie about your dad being murdered?
+<12-7,Julie>我的意思是 你妈妈干嘛要隐瞒你爸是被谋杀的呢?
+
+374
+376
+<12-8,Dylan>Are you serious?
+<12-8,Dylan>你是开玩笑的吧?
+
+375
+377
+<0-0,None>Julie...
+<0-0,None>朱莉...
+
+376
+378
+<12-8,Dylan>She's the one who killed him.
+<12-8,Dylan>她就是杀人凶手
+
+377
+379
+<0-0,None>Hi,babe.
+<0-0,None>嗨 宝贝
+
+378
+380
+<13-1,Gabrielle>I'm about to do something that's gonna make you very happy.
+<13-1,Gabrielle>我要做一件让你喜出望外的事情
+
+379
+381
+<13-2,Carlos>Great,but close the curtain first.
+<13-2,Carlos>好呀 不过先把窗帘拉上
+
+380
+382
+<13-2,Carlos>Last time,the nurse almost walked in
+<13-2,Carlos>上次护士差点就进来了
+
+381
+383
+<13-2,Carlos>When you were about to--
+<13-2,Carlos>- 当你要--
+
+382
+383
+<13-3,Gabrielle>carlos! I have a priest with me.
+<13-3,Gabrielle> 卡洛斯! 有神父和我一起来的
+
+383
+384
+<13-4,Carlos>Priest? what,is there something
+<13-4,Carlos>神父? 干嘛 是不是医生
+
+384
+385
+<13-4,Carlos>The doctors aren't telling me?
+<13-4,Carlos>有什么隐瞒我的?
+
+385
+386
+<13-5,Gabrielle>No,no,no. I wanted it to be a surprise,
+<13-5,Gabrielle>不 不 不 我只是想给你个惊喜
+
+386
+387
+<13-5,Gabrielle>But we're getting married!
+<13-5,Gabrielle>我们要结婚啦!
+
+387
+388
+<13-10,Gabrielle>Father,hit it.
+<13-10,Gabrielle>神父 开始吧
+
+388
+389
+<13-6,Father Crowley>Dearly beloved,we are gathered here
+<13-6,Father Crowley>各位 我们齐聚一堂
+
+389
+390
+<13-6,Father Crowley>In the presence of-- whoa,whoa,whoa.
+<13-6,Father Crowley>伴随着--
+
+390
+391
+<13-7,Carlos>Gaby,what's the rush?
+<13-7,Carlos>加比 干嘛这么急?
+
+391
+392
+<13-8,Gabrielle>I don't know. just after everything we've been through,
+<13-8,Gabrielle>我不知道 在咱们经历了如此的磨难之后
+
+392
+393
+<13-8,Gabrielle>There's nothing in our way now.
+<13-8,Gabrielle>现在没有什么能阻挡我了
+
+393
+394
+<13-8,Gabrielle>We can finally be together.
+<13-8,Gabrielle>我们最终可以在一起了
+
+394
+395
+<13-8,Gabrielle>And I really need that.
+<13-8,Gabrielle>我很需要那样
+
+395
+396
+<13-8,Gabrielle>I need a happy ending,Carlos.
+<13-8,Gabrielle>我需要一个圆满的结局 卡洛斯
+
+396
+397
+<13-8,Gabrielle>So what do you say? will you marry me?
+<13-8,Gabrielle>你说呢? 你愿意娶我吗?
+
+397
+398
+<13-9,Gabrielle>Okay.
+<13-9,Gabrielle>好吧
+
+398
+399
+<13-10,Gabrielle>Holy matrimony. bring it on.
+<13-10,Gabrielle>神圣的结合 来吧
+
+399
+400
+<13-11,Carlos>Gaby,before we get started,
+<13-11,Carlos>加布 在开始之前
+
+400
+401
+<13-11,Carlos>There's something that I need to tell you...
+<13-11,Carlos>我事情要和你说...
+
+401
+402
+<13-11,Carlos>In private.
+<13-11,Carlos>私底下
+
+402
+403
+<13-12,Gabrielle>Okay,he's gone. what's up?
+<13-12,Gabrielle>好了 他走了 什么事?
+
+403
+404
+<13-13,Carlos>Look,I haven't been completely honest with you
+<13-13,Carlos>听着 关于我受伤的程度
+
+404
+405
+<13-13,Carlos>About the extent of my injury
+<13-13,Carlos>我没有对你完全坦白
+
+405
+406
+<13-9,Gabrielle>Okay.
+<13-9,Gabrielle>好吧
+
+406
+407
+<13-14,Carlos>The doctor says...
+<13-14,Carlos>医生说...
+
+407
+408
+<13-14,Carlos>I might not get my sight back.
+<13-14,Carlos>我视力可能无法回复
+
+408
+409
+<13-14,Carlos>For three months. four,tops.
+<13-14,Carlos>就三个月而已 最多四个月
+
+409
+410
+<13-14,Carlos>I-I just want to make sure that you can handle that.
+<13-14,Carlos>我只是想确认你能承受
+
+410
+411
+<13-15,Gabrielle>That's... a really long time.
+<13-15,Gabrielle>那还真是老长一段时间呢
+
+411
+412
+<13-15,Gabrielle>But for better or worse,right?
+<13-15,Gabrielle>但是无论贫富好坏(我们都要互相照顾) 对吧?
+
+412
+413
+<13-16,Carlos>Right.
+<13-16,Carlos>对的
+
+413
+414
+<0-0,None>Okay,padre.
+<0-0,None>好了 神父
+
+414
+415
+<13-17,Gabrielle>We're ready. let's take it from the top.
+<13-17,Gabrielle>我们准备好了 从头开始吧
+
+415
+416
+<13-18,Father Crowley>Dearly beloved,we are gathered here in the sight of god
+<13-18,Father Crowley>各位 在主的面前 我们齐聚一堂
+
+416
+417
+<13-18,Father Crowley>To join this man and this woman in the holy sacrament of matrimony.
+<13-18,Father Crowley>共同见证这位男士以及这位女士这对新人的结合
+
+417
+418
+<14-1,Tim>You're out of milk. you want me to pick some up?
+<14-1,Tim>没牛奶了 要不要我去帮你买点?
+
+418
+419
+<14-2,Susan>No,that's okay. it can wait.
+<14-2,Susan>不用了 没关系 可以等一会的
+
+419
+420
+<14-3,Tim>I don't mind. I could use a little air anyway.
+<14-3,Tim>我不介意的 反正我也想出去透透气
+
+420
+421
+<14-4,Susan>Tim! where's that milk?
+<14-4,Susan>提姆! 牛奶呢?
+
+421
+422
+<14-5,Tim>Oh,I thought you didn't want any. uh...
+<14-5,Tim>我以为你不要呢
+
+422
+423
+<14-6,Susan>I'm having a baby.
+<14-6,Susan>我是孕妇呀
+
+423
+424
+<14-6,Susan>I can't give birth with brittle bones. go!
+<14-6,Susan>我身子骨不好怎么生孩子呀 快去!
+
+424
+425
+<14-7,Dylan>Bye!
+<14-7,Dylan>拜拜!
+
+425
+426
+<15-1,Lynette>Hey,church buddy. look what I got.
+<15-1,Lynette>嘿 教堂伙计 瞧瞧我买了什么
+
+426
+427
+<15-2,Bree>Wow,you bought a bible.
+<15-2,Bree>哇 你买了本圣经
+
+427
+428
+<15-3,Lynette>Yeah,and I'm breaking her in tonight.
+<15-3,Lynette>是呀 我今晚要读透它
+
+428
+429
+<15-3,Lynette>Nothing like that new bible smell.
+<15-3,Lynette>没有什么比新的一本圣经好闻了
+
+429
+430
+<14-1,Tim>Oh,so you're...
+<14-1,Tim>那么你会...
+
+430
+431
+<15-4,Bree>Coming to bible study.
+<15-4,Bree>- 来参加圣经研讨会
+
+431
+431
+<15-5,Lynette>yeah,and I hope the reverend's ready,
+<15-5,Lynette> 是呀 我希望神父都做好准备了
+
+432
+432
+<15-5,Lynette>Cause I got about a zillion questions for him.
+<15-5,Lynette>我有无数个问题要问他
+
+433
+433
+<15-6,Bree>Lynette,I-I realize
+<15-6,Bree>莱内特 我知道
+
+434
+434
+<15-6,Bree>You don't have much experience with churches,
+<15-6,Bree>你对教会还不是很了解
+
+435
+435
+<15-6,Bree>So this really isn't your fault.
+<15-6,Bree>所以也不是你的过错
+
+436
+436
+<15-7,Lynette>What isn't my fault?
+<15-7,Lynette>什么不是我的过错?
+
+437
+437
+<15-8,Bree>Well,last sunday,when you kept raising your hand...
+<15-8,Bree>上周日 你举手问问题...
+
+438
+438
+<15-8,Bree>We don't really do that.
+<15-8,Bree>我们没那个习惯的
+
+439
+439
+<15-8,Bree>The church isn't a place for questions.
+<15-8,Bree>教堂不是给你提出问题的地方
+
+440
+440
+<15-8,Bree>It's a place for answers.
+<15-8,Bree>那是得到答案的地方
+
+441
+441
+<15-9,Lynette>Yeah,but how do you get the answers
+<15-9,Lynette>是呀 但是如果你不问问题
+
+442
+442
+<15-9,Lynette>If you don't ask the questions?
+<15-9,Lynette>那哪来的答案呢?
+
+443
+443
+<15-10,Bree>Well,typically,we sit there and let the preacher preach,
+<15-10,Bree>一般 我们就是坐在下面听传教士训诫
+
+444
+444
+<15-10,Bree>And eventually,our questions are answered,
+<15-10,Bree>最终我们的问题都得到解答
+
+445
+445
+<15-10,Bree>And no one is humiliated.
+<15-10,Bree>也没有人会觉得丢脸
+
+446
+446
+<15-11,Lynette>I'm sorry. did I embarrass you on sunday?
+<15-11,Lynette>抱歉 周日我给你难堪了?
+
+447
+447
+<15-12,Bree>Well,it's just that in our church,
+<15-12,Bree>只是在我们的教堂里
+
+448
+448
+<15-12,Bree>People don't talk back to the minister.
+<15-12,Bree>人们都不回神父的话
+
+449
+449
+<15-13,Lynette>Well,what if I need to?
+<15-13,Lynette>那我有需要咋办?
+
+450
+450
+<15-13,Lynette>What if that's the kind of church I'm looking for?
+<15-13,Lynette>如果我要的教堂就是这样怎么办?
+
+451
+451
+<15-14,Bree>Well,then maybe you should explore other options.
+<15-14,Bree>那么或许你就该寻找其他的选择
+
+452
+452
+<15-14,Bree>I mean,if you really enjoy talking back to the pulpit,
+<15-14,Bree>我是说 如果你喜欢回神父的话
+
+453
+453
+<15-14,Bree>Why don't you try that gospel church by the airport?
+<15-14,Bree>要不你去机场旁边的福音教堂试试?
+
+454
+454
+<15-15,Lynette>Okay.
+<15-15,Lynette>好吧
+
+455
+455
+<15-16,Bree>Or,uh,the unitarians.
+<15-16,Bree>或者是神教派
+
+456
+456
+<15-16,Bree>From what I hear,those folks are "anything goes."
+<15-16,Bree>据我所知 那些人都是"无话不说的"
+
+457
+457
+<16-1,Dylan>Hey,Adam. It's Dylan.
+<16-1,Dylan>嘿 亚当 我是迪伦
+
+458
+458
+<16-1,Dylan>I waited at your hotel all day,but you never came back.
+<16-1,Dylan>我在宾馆等了你一天 你一直没回来
+
+459
+459
+<16-1,Dylan>You have to call me. I found this note that aunt Lily wrote.
+<16-1,Dylan>你得给我打个电话 我发现了莉莉姨妈留的纸条
+
+460
+460
+<16-1,Dylan>Mom threw it in the fireplace,but I fished it out,
+<16-1,Dylan>妈妈把它扔到壁炉里了 我给捡出来了
+
+461
+461
+<16-1,Dylan>And I have to talk to you.
+<16-1,Dylan>我得和你谈谈
+
+462
+462
+<16-1,Dylan>Call me on my cell,not at home,'cause I--
+<16-1,Dylan>打我手机 别打家里电话 因为我--
+
+463
+463
+<16-2,Katherine>She doesn't know anything. I can hear it in her voice.
+<16-2,Katherine>她什么都不知道 从她的声音里我可以听出来
+
+464
+464
+<16-3,Adam>But she's got the note.
+<16-3,Adam>- 但是她那里有纸条
+
+465
+464
+<16-4,Katherine>maybe a few burnt pieces.
+<16-4,Katherine> 或许只是碎片吧
+
+466
+465
+<16-4,Katherine>Trust me,all she's got are questions.
+<16-4,Katherine>相信我 她现在满脑都是疑问
+
+467
+466
+<16-5,Adam>Well,I could,um,refuse to see her.
+<16-5,Adam>我可以拒绝见她
+
+468
+467
+<16-6,Katherine>Yeah,'cause that won't arouse her suspicion.
+<16-6,Katherine>是呀 那样就不会引起她怀疑吗
+
+469
+468
+<16-6,Katherine>No. you are going to ask her to come here,
+<16-6,Katherine>不行 你得把她叫过来
+
+470
+469
+<16-6,Katherine>And then you're going to find out
+<16-6,Katherine>然后你就得搞清楚
+
+471
+470
+<16-6,Katherine>Exactly what she knows and what she doesn't.
+<16-6,Katherine>她到底知道些什么 不知道什么
+
+472
+471
+<16-7,Adam>After all these years,maybe it would be easier
+<16-7,Adam>都这么多年了 或许告诉她事实
+
+473
+472
+<16-7,Adam>Just to finally tell her the truth.
+<16-7,Adam>会让你好过多了
+
+474
+473
+<16-8,Katherine>And you would just wave good-bye as they cart me off to jail?
+<16-8,Katherine>然后等警察把我押进监狱时 你就可以和我挥手告别了?
+
+475
+474
+<16-9,Adam>She wouldn't call the police.
+<16-9,Adam>她不会报警的
+
+476
+475
+<16-9,Adam>Seriously,I think you two have a great relationship.
+<16-9,Adam>真的 我觉得你们俩关系很好
+
+477
+476
+<16-10,Katherine>Then you have not been paying attention.
+<16-10,Katherine>那么你就一直没上心注意我们的关系
+
+478
+477
+<16-10,Katherine>Give me a chance to get home,
+<16-10,Katherine>让我回家
+
+479
+478
+<16-10,Katherine>Then call her and set up a time for you two to meet.
+<16-10,Katherine>- 然后你打电话给她 约好见面时间
+
+480
+478
+<16-11,Adam>okay.
+<16-11,Adam> 好吧
+
+481
+479
+<17-3,Orson>You know...
+<17-3,Orson>你知道吗...
+
+482
+480
+<16-12,Katherine>When you called me tonight,
+<16-12,Katherine>你今晚打过来的时候
+
+483
+481
+<16-12,Katherine>I was half hoping you missed me.
+<16-12,Katherine>我有点希望是因为你想我了
+
+484
+482
+<16-13,Adam>Really?
+<16-13,Adam>真的吗?
+
+485
+483
+<16-14,Katherine>I miss you.
+<16-14,Katherine>我很想你
+
+486
+484
+<16-14,Katherine>I'm so terribly lonely.
+<16-14,Katherine>我真是寂寞难耐
+
+487
+485
+<16-14,Katherine>You know I don't do well on my own.
+<16-14,Katherine>你知道我一个人没法生活好的
+
+488
+486
+<16-14,Katherine>Is there any chance we could...
+<16-14,Katherine>有没有可能我们可以...
+
+489
+487
+<16-14,Katherine>Get past this,and you could come back home?
+<16-14,Katherine>熬过这一切 然后你就回来呢?
+
+490
+488
+<16-15,Adam>I will talk to Dylan.
+<16-15,Adam>我会和迪伦谈的
+
+491
+489
+<16-15,Adam>I will provide you one last alibi.
+<16-15,Adam>我会帮你做最后一次辩解的
+
+492
+490
+<16-15,Adam>After that,I'm done.
+<16-15,Adam>之后 我们之间就彻底玩完
+
+493
+491
+<17-1,Tim>Are you guys outta here? 
+<17-1,Tim>- 你们要走了?
+
+494
+491
+<17-2,Bree>yes,I'm gonna run some errands,
+<17-2,Bree> 是呀 我得去办点事
+
+495
+492
+<17-2,Bree>And Orson's gonna take Benjamin to the park.
+<17-2,Bree>奥森会带本杰明公园的
+
+496
+493
+<17-3,Orson>Actually,I thought I might take him to the museum.
+<17-3,Orson>实际上 我想我会带他去博物馆的
+
+497
+494
+<17-3,Orson>You know how much Benjamin loves Matisse.
+<17-3,Orson>你知道本杰明很喜欢马蒂斯的作品
+
+498
+495
+<17-4,Bree>Benjamin doesn't love Matisse. he loves purple. oh.
+<17-4,Bree>本杰明不喜欢马蒂斯 他喜欢紫色的东西
+
+499
+496
+<17-4,Bree>Please stop trying to turn our son into an intellectual. mm.
+<17-4,Bree>拜托你别费力让咱们的孩子变成知识分子
+
+500
+497
+<17-5,Orson>If you saw how her first two turned out,
+<17-5,Orson>你如果知道她前两个孩子长成了什么样
+
+501
+498
+<17-5,Orson>You'd understand how important it is
+<17-5,Orson>你就能理解我与范德坎普家基因
+
+502
+499
+<17-5,Orson>For me to fight the Van De Kamp D.N.A.
+<17-5,Orson>做斗争是有多么重要了
+
+503
+500
+<19-7,Susan>Hey,it's Tim.
+<19-7,Susan>嘿 我是提姆
+
+504
+501
+<17-6,Tim>It was great seeing you the other day.
+<17-6,Tim>那天见到你很开心
+
+505
+502
+<17-6,Tim>Yeah,I can't stop thinking about you either.
+<17-6,Tim>是呀 我也无法停止想念你
+
+506
+503
+<17-6,Tim>So listen,um,I've got the whole place to myself.
+<17-6,Tim>听着 现在这边就我一个人
+
+507
+504
+<17-6,Tim>You wanna come over?
+<17-6,Tim>你想不想过来?
+
+508
+505
+<0-0,None>Hey,Gaby.
+<0-0,None>嘿 加比
+
+509
+506
+<18-1,Edie>I heard you and Carlos got married yesterday.
+<18-1,Edie>我听说你和卡洛斯昨天结婚了
+
+510
+507
+<18-1,Edie>Guess this means you win.
+<18-1,Edie>我想这意味着你赢了
+
+511
+508
+<18-2,Gabrielle>Oh,Edie,it wasn't a competition,
+<18-2,Gabrielle>艾迪,这又不是什么比赛
+
+512
+509
+<18-2,Gabrielle>But,yeah,I guess I did.
+<18-2,Gabrielle>不过 是呀 我想我赢了
+
+513
+510
+<18-3,Edie>Yeah,but I think it's all for the best.
+<18-3,Edie>是呀 不过我想这对大家都好
+
+514
+511
+<18-3,Edie>I mean,after all,I could have never been
+<18-3,Edie>我是说 毕竟我没法做
+
+515
+512
+<18-3,Edie>The hero that you're about to be.
+<18-3,Edie>你那样的英雄人物
+
+516
+513
+<18-4,Gabrielle>Hero? why am I a hero?
+<18-4,Gabrielle>英雄? 我怎么会是英雄?
+
+517
+514
+<18-5,Edie>Committing your life to a man who's blind?
+<18-5,Edie>和一个瞎子共度一生?
+
+518
+515
+<18-5,Edie>My god,you're gonna have to do everything for him--
+<18-5,Edie>我的天哪 你得为他做一切的事情--
+
+519
+516
+<18-5,Edie>Dress him,shave him,lead him to the bathroom,
+<18-5,Edie>给他穿衣服 给他刮胡须 领着他去厕所
+
+520
+517
+<18-5,Edie>Pray that his aim is halfway decent.
+<18-5,Edie>- 祈祷他的视力能有半点准星就好
+
+521
+517
+<18-6,Gabrielle>it's not a big deal.
+<18-6,Gabrielle> 没什么大不了的
+
+522
+518
+<18-6,Gabrielle>Carlos is gonna get his sight back in three months.
+<18-6,Gabrielle>卡洛斯三个月之内就会恢复视力
+
+523
+519
+<0-0,None>Four,tops.
+<0-0,None>最多四个月
+
+524
+520
+<18-7,Edie>Is that what he told you? you poor,gullible fool.
+<18-7,Edie>这是他和你说的? 你这个可怜而又天真的傻瓜
+
+525
+521
+<18-8,Gabrielle>What are you talking about?
+<18-8,Gabrielle>你在说什么?
+
+526
+522
+<18-9,Edie>I hate to be the one to tell you this,
+<18-9,Edie>我不想跟你说这个
+
+527
+523
+<18-9,Edie>But I talked to the nurse,
+<18-9,Edie>可我跟护士谈过了
+
+528
+524
+<18-9,Edie>And she said that his condition is...
+<18-9,Edie>然后她说他的状况...
+
+529
+525
+<18-9,Edie>Oh,what's the word? um...
+<18-9,Edie>怎么说来着 嗯...
+
+530
+526
+<0-0,None>Oh,yeah.
+<0-0,None>对了
+
+531
+527
+<18-9,Edie>Permanent.
+<18-9,Edie>永远就那样了
+
+532
+528
+<18-10,Gabrielle>I don't believe you.
+<18-10,Gabrielle>我不信
+
+533
+529
+<18-11,Edie>Call the doctor if you'd like.
+<18-11,Edie>你愿意的话可以打电话给医生的
+
+534
+530
+<18-11,Edie>And apparently,he was begging Carlos to tell you.
+<18-11,Edie>他还求卡洛斯来告诉你呢
+
+535
+531
+<18-12,Gabrielle>No. no,no,no. this can't be true.
+<18-12,Gabrielle>不不不 不可能
+
+536
+532
+<18-13,Edie>Look on the bright side.
+<18-13,Edie>往好的一面看呢
+
+537
+533
+<18-13,Edie>Women who are married to blind guys
+<18-13,Edie>嫁给瞎子的女人
+
+538
+534
+<18-13,Edie>Don't have to worry about makeup or getting fat.
+<18-13,Edie>不用担心化妆跟变肥的问题
+
+539
+535
+<18-13,Edie>Are you sure you didn't already know about this?
+<18-13,Edie>你真的还不知道吗?
+
+540
+536
+<18-14,Gabrielle>Okay,I'm calling Dr. Dunlap.
+<18-14,Gabrielle>行 我打电话给邓拉普医生
+
+541
+537
+<18-15,Edie>You do that. oh,and by the way,
+<18-15,Edie>去吧 噢 对了
+
+542
+538
+<18-15,Edie>Congrats on your big win.
+<18-15,Edie>恭喜你大获全胜哟
+
+543
+539
+<19-1,Julie>So how's your occupational therapy going?
+<19-1,Julie>你的职业疗法怎样了?
+
+544
+540
+<19-1,Julie>Do they still have you scrubbing pots in the kitchen?
+<19-1,Julie>他们还让你在厨房里洗罐子么?
+
+545
+541
+<19-2,Mike>No,no. once they found out I'm a professional plumber,
+<19-2,Mike>没了 他们一发现我是专业水管工
+
+546
+542
+<19-2,Mike>I got promoted to scrubbing toilets. mm,well,maybe you won't mind
+<19-2,Mike>- 我就给提升去洗厕所了
+
+547
+543
+<19-3,Susan>Doing a little scrubbing when you come home next week. actually,
+<19-3,Susan>- 下周回家你不介意也来洗一洗吧
+
+548
+544
+<19-4,Mike>the doctors kinda frown on that.
+<19-4,Mike>大夫们可就不大赞成了
+
+549
+545
+<19-4,Mike>They encourage us to leave that sort of stuff behind.
+<19-4,Mike>他们鼓励我们别干那些屁事
+
+550
+546
+<19-5,Susan>Well,it doesn't have to be toilets.
+<19-5,Susan>是吧 不一定是厕所
+
+551
+547
+<19-5,Susan>I mean,it could be sinks,bathtubs.
+<19-5,Susan>可以是水池啊 浴缸啊
+
+552
+548
+<19-6,Mike>You're making me wanna use,Susan.
+<19-6,Mike>苏珊 你说得我都想用上一用了呢
+
+553
+549
+<19-6,Mike>This junkie thing's awesome.
+<19-6,Mike>上瘾这感觉真不赖
+
+554
+550
+<19-7,Susan>Oh,I forgot. uh,Tim has some questions about the taxes.
+<19-7,Susan>噢 我都忘了 提姆有几个税务上的问题
+
+555
+551
+<19-7,Susan>Do you mind talking to him? 
+<19-7,Susan>- 你不介意跟他谈谈吧?
+
+556
+551
+<19-8,Mike>no,I don't mind. though I can't believe
+<19-8,Mike> 不介意,尽管我不相信
+
+557
+552
+<19-8,Mike>He'd have any trouble with your cookie tin filing system.
+<19-8,Mike>他会在你的那个饼罐整理系统上出状况
+
+558
+553
+<19-10,Susan>Hello? hey,uh,Tim,I've got Mike here.
+<19-10,Susan>喂 提姆， 迈克在呢
+
+559
+554
+<19-10,Susan>Do you want to talk to him?
+<19-10,Susan>要跟他说话吗?
+
+560
+555
+<19-11,Tim>Uh,can I do that later? I'm sort of taking a nap.
+<19-11,Tim>晚点行吗? 我在小睡呢
+
+561
+556
+<19-12,Susan>What was that? is someone there?
+<19-12,Susan>怎么啦? 你那儿有人?
+
+562
+557
+<19-13,Tim>What? no. no. unh-unh. no--no one's here.
+<19-13,Tim>什么? 不不不 这儿没人
+
+563
+558
+<19-14,Susan>Really? cause it sounded like a girl.
+<19-14,Susan>真的吗? 好象有女孩子的声音呢
+
+564
+559
+<19-15,Tim>No,uh,it--it was just the TV.
+<19-15,Tim>不是啦 是电视上的
+
+565
+560
+<19-16,Tim>I thought you were taking a nap.
+<19-16,Tim>你不是在小睡么
+
+566
+561
+<19-17,Tim>Uh,the TV helps me sleep.
+<19-17,Tim>电视有助我睡眠
+
+567
+562
+<19-17,Tim>Uh,tell Mike I'll call him later.
+<19-17,Tim>跟迈克说我晚点给他电话
+
+568
+563
+<19-18,Susan>I've gotta go.
+<19-18,Susan>我得走了
+
+569
+564
+<19-19,Mike>What? what? you just got here.
+<19-19,Mike>什么? 你才刚到
+
+570
+565
+<19-20,Susan>I know,but this visit was really more for Julie.
+<19-20,Susan>我知道 不过这次来主要是为了朱莉的
+
+571
+566
+<19-21,Julie>For me?
+<19-21,Julie>- 为了我?
+
+572
+566
+<19-22,Susan>yeah,you're going to college soon,
+<19-22,Susan> 是啊 你就要去上大学了
+
+573
+567
+<19-22,Susan>And I want him to tell you about the dangers of drugs.
+<19-22,Susan>我想让他跟你说毒品的危害性
+
+574
+568
+<19-22,Susan>Scare her straight,Mike.
+<19-22,Susan>迈克 直接唬她好了
+
+575
+569
+<20-1,Carlos>Honey,you down here?
+<20-1,Carlos>亲爱的 你在楼下吗?
+
+576
+570
+<0-0,None>Yes,sweetheart.
+<0-0,None>是的 宝贝
+
+577
+571
+<20-2,Gabrielle>I'm in the kitchen making dinner.
+<20-2,Gabrielle>我在厨房煮晚餐呢
+
+578
+572
+<20-3,Carlos>Mmm. smells good.
+<20-3,Carlos>好香啊
+
+579
+573
+<20-4,Gabrielle>It's a new recipe for beef stew.
+<20-4,Gabrielle>新法炖牛肉呢
+
+580
+574
+<20-4,Gabrielle>I think you're gonna love it.
+<20-4,Gabrielle>我想你会爱吃的
+
+581
+575
+<20-5,Carlos>Why don't we let that simmer?
+<20-5,Carlos>让它慢慢炖好了
+
+582
+576
+<20-5,Carlos>During my nap,I had the filthiest little dream.
+<20-5,Carlos>我睡觉的时候做了个绮梦
+
+583
+577
+<20-5,Carlos>I was kinda hoping maybe we could...
+<20-5,Carlos>有点希望我们能...
+
+584
+578
+<20-6,Gabrielle>Skip straight to dessert?
+<20-6,Gabrielle>直接跳到饭后甜点?
+
+585
+579
+<20-7,Carlos>Yeah.
+<20-7,Carlos>嗯
+
+586
+580
+<20-7,Carlos>What do you say?
+<20-7,Carlos>怎么说?
+
+587
+581
+<20-8,Gabrielle>I'd say I'm one step ahead of you.
+<20-8,Gabrielle>我得说我比你先行了一步
+
+588
+582
+<20-8,Gabrielle>I have already slipped into my pink lace teddy,
+<20-8,Gabrielle>我已经穿好我的那件粉红蕾丝内衣了
+
+589
+583
+<20-8,Gabrielle>And I'm wearing those whore-y pumps that you love.
+<20-8,Gabrielle>我还穿了你喜欢的那些淫荡舞鞋
+
+590
+584
+<20-9,Carlos>Ooh,I like that image. where are you?
+<20-9,Carlos>我喜欢你这样子 你在哪儿呢?
+
+591
+585
+<20-10,Gabrielle>I'm right here,babe.
+<20-10,Gabrielle>宝贝我在这儿呢
+
+592
+586
+<20-27,Carlos>Oh,I'm sorry.
+<20-27,Carlos>噢 对不起
+
+593
+587
+<20-12,Gabrielle>I forgot that was open.
+<20-12,Gabrielle>我忘了它是开着的
+
+594
+588
+<20-12,Gabrielle>Let's do it over here,on the table.
+<20-12,Gabrielle>我们在那边干吧 桌子上
+
+595
+589
+<20-13,Carlos>Can you give me a hand?
+<20-13,Carlos>能递把手吗?
+
+596
+590
+<20-14,Gabrielle>Can't. my legs are in the air.
+<20-14,Gabrielle>不行 我双腿悬空呢
+
+597
+591
+<20-14,Gabrielle>Just follow the sound of my voice.
+<20-14,Gabrielle>跟着我声音来吧
+
+598
+592
+<20-14,Gabrielle>There you go.
+<20-14,Gabrielle>这不就来了嘛
+
+599
+593
+<20-12,Gabrielle>I'm over here,sweetie.
+<20-12,Gabrielle>我在这儿呢 小甜甜
+
+600
+594
+<20-15,Carlos>Whoa! uhh! son of a bitch!
+<20-15,Carlos>搞什么!
+
+601
+595
+<20-16,Gabrielle>Ooh,I meant to move that.
+<20-16,Gabrielle>噢 我本想拿开的
+
+602
+596
+<20-16,Gabrielle>Hang on. let me just pull my panties up so I can help you.
+<20-16,Gabrielle>等一下 我先把内衣穿好 然后再来帮你
+
+603
+597
+<20-16,Gabrielle>Okay. here.
+<20-16,Gabrielle>行了 这边
+
+604
+598
+<20-16,Gabrielle>Let's go do it over here.
+<20-16,Gabrielle>我们在这边办事吧
+
+605
+599
+<20-17,Carlos>Aah! damn it! what the hell is going on?!
+<20-17,Carlos>啊 见鬼 他妈的怎么回事啊?!
+
+606
+600
+<20-18,Gabrielle>I'll tell you what's going on.
+<20-18,Gabrielle>我告诉你怎么回事
+
+607
+601
+<20-18,Gabrielle>"in three months. four,tops."
+<20-18,Gabrielle>三个月 四个月最多了
+
+608
+602
+<20-19,Carlos>Uh-oh.
+<20-19,Carlos>喔噢
+
+609
+603
+<20-20,Gabrielle>"uh-oh" is right,you blind bastard!
+<20-20,Gabrielle>喔噢就对了 你这盲畜生!
+
+610
+604
+<20-21,Carlos>Ow! all right,I'm sorry.
+<20-21,Carlos>- 行了 我道歉 我不该撒慌的
+
+611
+604
+<20-21,Carlos>I shouldn't have lied! oh,no,no.
+<20-21,Carlos> 别介 别介
+
+612
+605
+<20-22,Gabrielle>I think it was a fantastic plan.
+<20-22,Gabrielle>这计划棒极了
+
+613
+606
+<20-22,Gabrielle>I mean,there's no way I ever would have figured out
+<20-22,Gabrielle>那样我就永远都不会知道
+
+614
+607
+<20-22,Gabrielle>That I was married to a permanently blind guy!
+<20-22,Gabrielle>自己嫁给了你这个瞎子!
+
+615
+608
+<20-23,Carlos>All right,I just thought that by the time you did,
+<20-23,Carlos>我是想等你熬过了这时间
+
+616
+609
+<20-23,Carlos>You'd be used to the idea,
+<20-23,Carlos>你会习惯的
+
+617
+610
+<20-23,Carlos>And maybe then you wouldn't leave me.
+<20-23,Carlos>然后可能你就不会离开我啦
+
+618
+611
+<20-24,Gabrielle>Leave you?
+<20-24,Gabrielle>离开你?
+
+619
+612
+<20-24,Gabrielle>Do you really think I'm that shallow?
+<20-24,Gabrielle>你真觉得我有那么浅薄么?
+
+620
+613
+<20-25,Carlos>Gaby,I'm poor and I'm blind,
+<20-25,Carlos>加布 我又穷又瞎
+
+621
+614
+<20-25,Carlos>And let's face it.
+<20-25,Carlos>说白了吧
+
+622
+615
+<20-25,Carlos>There is nothing about that that is your type.
+<20-25,Carlos>怎么看都不是你那杯茶
+
+623
+616
+<20-26,Gabrielle>Wow. thanks for the vote of confidence.
+<20-26,Gabrielle>哇 谢谢你的夸奖
+
+624
+617
+<20-26,Gabrielle>Y-yes,the truth would have freaked me out,
+<20-26,Gabrielle>没错 真相让我很讶异
+
+625
+618
+<20-26,Gabrielle>But I would have come around.
+<20-26,Gabrielle>可我会回来的
+
+626
+619
+<20-26,Gabrielle>If you had just had a little faith in me,
+<20-26,Gabrielle>如果你对我有那么一点点信心的话
+
+627
+620
+<20-26,Gabrielle>I could have proven to you that I was up for the challenge,
+<20-26,Gabrielle>我能证明给你看 我已经准备好迎接挑战了
+
+628
+621
+<20-26,Gabrielle>But you robbed me of that chance.
+<20-26,Gabrielle>- 可你夺走了我那个机会
+
+629
+621
+<20-27,Carlos>I'm sorry.
+<20-27,Carlos> 对不起
+
+630
+622
+<20-3,Carlos>Good.
+<20-3,Carlos>很好
+
+631
+623
+<20-28,Gabrielle>To avoid future confusion,I love you,
+<20-28,Gabrielle>为了大家不再有什么困扰 我爱你
+
+632
+624
+<20-28,Gabrielle>And I want to spend the rest of my life with you.
+<20-28,Gabrielle>我想和你白头到老
+
+633
+625
+<20-29,Carlos>Gaby,this is not going to be easy.
+<20-29,Carlos>加布 这日子可不轻松啊
+
+634
+626
+<20-30,Gabrielle>I know,
+<20-30,Gabrielle>我知道
+
+635
+627
+<20-30,Gabrielle>But like I said,
+<20-30,Gabrielle>但就像我说的
+
+636
+628
+<20-30,Gabrielle>"for better or for worse."
+<20-30,Gabrielle>无论幸福还是困苦
+
+637
+629
+<20-31,Carlos>Think you can forgive me?
+<20-31,Carlos>你能原谅我吗?
+
+638
+630
+<20-32,Gabrielle>I'll work on it.
+<20-32,Gabrielle>试试看吧
+
+639
+631
+<20-33,Carlos>While you're working on it,
+<20-33,Carlos>你在试的时候
+
+640
+632
+<20-33,Carlos>Mind if I dig into some of that stew?
+<20-33,Carlos>我能投入那炖肉中么?
+
+641
+633
+<20-34,Gabrielle>Sure.
+<20-34,Gabrielle>行啊
+
+642
+634
+<21-1,Susan>Ugh! get off that poor girl right now!
+<21-1,Susan>把你魔爪从那可怜的姑娘身上拿开
+
+643
+635
+<21-2,Tim>I finished your taxes.
+<21-2,Tim>你的报税单我填好了
+
+644
+636
+<21-3,Susan>What the hell is going on here? 
+<21-3,Susan>- 这是怎么回事啊
+
+645
+636
+<21-4,Katherine>Susan,I'm so sorry.
+<21-4,Katherine> 苏珊 真对不起
+
+646
+637
+<0-0,None>No,Katherine,
+<0-0,None>不 凯瑟琳
+
+647
+638
+<21-5,Susan>I know what you've been going through emotionally,
+<21-5,Susan>我知道你在感情上所承受的一切
+
+648
+639
+<21-5,Susan>So you don't have to apologize.
+<21-5,Susan>所以你不必道歉
+
+649
+640
+<21-5,Susan>And by the way,your boob is out. oh.
+<21-5,Susan>顺便说句 我看到你的胸了
+
+650
+641
+<21-7,Susan>You,on the other hand-- 
+<21-7,Susan>- 还有你
+
+651
+641
+<21-8,Tim>I know. I know.
+<21-8,Tim> 我知道我知道
+
+652
+642
+<21-9,Susan>I don't understand you. is this something you do?
+<21-9,Susan>我真搞不懂你 这是你的为人风格吗?
+
+653
+643
+<21-9,Susan>You worm your way into a neighborhood
+<21-9,Susan>你利用免费税务准备工作的承诺
+
+654
+644
+<21-9,Susan>With the promise of free tax preparation,
+<21-9,Susan>慢慢潜入到一个社区当中
+
+655
+645
+<21-9,Susan>And then you jump on the nearest middle-aged divorce?
+<21-9,Susan>- 接着就搞上了最近的那个中年离婚妇女?
+
+656
+645
+<21-10,Katherine>hey!
+<21-10,Katherine> 嘿
+
+657
+646
+<21-11,Tim>It's not like that. she came over for some drinks,
+<21-11,Tim>不是的 她是过来喝东西的
+
+658
+647
+<21-11,Tim>And we got to talking and started reminiscing,
+<21-11,Tim>我们聊着聊着 就回忆起了往事
+
+659
+648
+<21-11,Tim>And all these old feelings came rushing back.
+<21-11,Tim>过去的种种感受瞬间都涌上了心头
+
+660
+649
+<21-12,Susan>Oh,nice try,Timmy. like I'm really going to believe that.
+<21-12,Susan>噢 真会编啊 提姆 好象我真的会信你似的
+
+661
+650
+<21-12,Susan>Shame on you. just... shame!
+<21-12,Susan>丢人 真是...丢人!
+
+662
+651
+<21-12,Susan>What do you mean,"old feelings"?
+<21-12,Susan>你说的"过去的感受"是指什么?
+
+663
+652
+<21-13,Katherine>Do we really need to get into this?
+<21-13,Katherine>我们真的要谈这个吗
+
+664
+653
+<21-14,Susan>What do you have to reminisce about?
+<21-14,Susan>你们有什么好追忆的啊
+
+665
+654
+<21-14,Susan>He was here for a week when he was 16.
+<21-14,Susan>16岁时他曾在这里待过一个星期
+
+666
+655
+<21-14,Susan>What could you two have even...
+<21-14,Susan>你们两个是否有...
+
+667
+656
+<21-14,Susan>Oh,my god,you slept together.
+<21-14,Susan>天啊 你们睡过了
+
+668
+657
+<21-15,Katherine>Okay,
+<21-15,Katherine>好了
+
+669
+658
+<21-15,Katherine>before you get some sordid image in your head--
+<21-15,Katherine>- 在你胡思乱想之前
+
+670
+658
+<21-16,Tim>she took my virginity.
+<21-16,Tim> 她是我的第一次
+
+671
+659
+<21-17,Katherine>Do you have to say it like that?
+<21-17,Katherine>你用得着这样说吗
+
+672
+660
+<21-18,Tim>that's how I said it to every single guy at band camp.
+<21-18,Tim>我和所有参加野营的人 都这么说的
+
+673
+661
+<21-12,Susan>Shame on you!
+<21-12,Susan>你真不要脸
+
+674
+662
+<21-19,Susan>His mother trusted me to take care of him,
+<21-19,Susan>他妈妈很放心地把他交给了我
+
+675
+663
+<21-19,Susan>And you swoop in
+<21-19,Susan>可你却趁人之危
+
+676
+664
+<21-11,Tim>Like some swooping,sex-craved--
+<21-11,Tim>就像个性饥渴的...
+
+677
+665
+<21-19,Susan>Oh,for god sakes,Tim! pull up the blanket!
+<21-19,Susan>看在老天的份上 提姆! 把毯子盖好
+
+678
+666
+<21-20,Tim>You can't blame it on katherine. I knew exactly what I was doing.
+<21-20,Tim>你不能怪凯瑟琳 我很清楚我的所做所为
+
+679
+667
+<21-21,Susan>I don't want to hear this. I'm done with both of you.
+<21-21,Susan>别说了 我受够你们两个了
+
+680
+668
+<21-21,Susan>If anybody needs me,I'll be at the mall...
+<21-21,Susan>如果有谁要找我 就去购物中心好了
+
+681
+669
+<21-21,Susan>Buying sheets.
+<21-21,Susan>我要买床单
+
+682
+670
+<22-1,Reverend Sikes>Good morning. I'll see you after service.
+<22-1,Reverend Sikes>早上好 礼拜后再见
+
+683
+671
+<22-2,Bree>Oh! good morning,reverend.
+<22-2,Bree>噢 早啊 牧师
+
+684
+672
+<22-2,Bree>I brought your favorite-- blueberry scones.
+<22-2,Bree>我给你带来了你最喜欢的蓝莓圆饼
+
+685
+673
+<22-10,Bree>Thank you,Bree.
+<22-10,Bree>谢谢 布里
+
+686
+674
+<22-3,Reverend Sikes>By the way,I'm sorry I've taken so long
+<22-3,Reverend Sikes>对了 我很抱歉女性援助协会的事
+
+687
+675
+<22-3,Reverend Sikes>to make a decision about the ladies' auxiliary.
+<22-3,Reverend Sikes>我考虑了那么久
+
+688
+676
+<22-4,Bree>Oh,is that happening now? I'd forgotten all about it.
+<22-4,Bree>噢 已经决定了吗? 我都给忘了
+
+689
+677
+<22-5,Reverend Sikes>So is your,uh,delightful neighbor coming?
+<22-5,Reverend Sikes>你那位讨人喜欢的邻居会来吗?
+
+690
+678
+<22-5,Reverend Sikes>The one with all the questions?
+<22-5,Reverend Sikes>就是问题很多的那位?
+
+691
+679
+<22-6,Bree>Delightful? I thought she annoyed you.
+<22-6,Bree>讨人喜欢? 我还以为她惹你烦了呢
+
+692
+680
+<22-7,Reverend Sikes>No,I found her refreshing.
+<22-7,Reverend Sikes>没有 我很喜欢她
+
+693
+681
+<22-7,Reverend Sikes>It's like I always say.
+<22-7,Reverend Sikes>正如我常说的
+
+694
+682
+<22-7,Reverend Sikes>Church is not a place for answers.
+<22-7,Reverend Sikes>教堂不是个给予答案的地方
+
+695
+683
+<22-7,Reverend Sikes>It's a place for questions.
+<22-7,Reverend Sikes>而是个提出问题的地方
+
+696
+684
+<22-8,Bree>You don't say that.
+<22-8,Bree>你没说过
+
+697
+685
+<22-8,Bree>I've--i've never heard you say that,not once.
+<22-8,Bree>- 我从没听你那么说过 一次都没有
+
+698
+685
+<0-0,None>yes,well,anyway,
+<0-0,None> 有的 好吧 反正呢
+
+699
+686
+<22-9,Reverend Sikes>I want to thank you for taking the initiative.
+<22-9,Reverend Sikes>我要感谢你的热情
+
+700
+687
+<22-9,Reverend Sikes>New members are crucial to the health of this church.
+<22-9,Reverend Sikes>新成员对于教堂的健康发展至关重要
+
+701
+688
+<22-9,Reverend Sikes>I won't forget you brought them... or these.
+<22-9,Reverend Sikes>我会记得你带了他们 或是这些
+
+702
+689
+<22-10,Bree>Thank you,reverend,
+<22-10,Bree>谢谢 牧师
+
+703
+690
+<22-10,Bree>And I'm--I'm sure the Scavos will be here soon.
+<22-10,Bree>我相信斯卡沃一家很快就会出现在这里的
+
+704
+691
+<22-11,Orson>Why did you just say that?
+<22-11,Orson>你为什么那么说?
+
+705
+692
+<22-11,Orson>You know very well they went to catholic church.
+<22-11,Orson>你很清楚他们是去天主教堂的
+
+706
+693
+<22-12,Bree>Which is just down the street. I'll be right back.
+<22-12,Bree>就在街那头 我马上回来
+
+707
+694
+<0-0,None>嘶，嘘
+<0-0,None>Psst!
+
+708
+695
+<23-1,Bree>Not you.
+<23-1,Bree>不是你
+
+709
+696
+<24-10,Bree>Lynette.
+<24-10,Bree>莱内特
+
+710
+697
+<23-2,Lynette>What are you doing here?
+<23-2,Lynette>你怎么在这儿
+
+711
+698
+<23-3,Bree>I was gonna ask the same of you.
+<23-3,Bree>我也要问你同样的问题
+
+712
+699
+<23-3,Bree>Why are you in a catholic church?
+<23-3,Bree>你干吗跑到天主教堂来
+
+713
+700
+<23-4,Tom>Because we're catholic.
+<23-4,Tom>- 因为我们信天主教
+
+714
+700
+<0-0,None>oh,please.
+<0-0,None> 噢 拜托
+
+715
+701
+<23-5,Bree>Mowing your lawn in a notre dame sweatshirt
+<23-5,Bree>穿着圣母玛利亚的运动衫剪草坪
+
+716
+702
+<23-5,Bree>Doesn't make you catholic.
+<23-5,Bree>并不让人觉得你有天主味道
+
+717
+703
+<23-5,Bree>You're presbyterian now. come on. let's go.
+<23-5,Bree>你现在是长老教会的 来吧 我们走
+
+718
+704
+<23-6,Lynette>Weren't you the one who said I should explore other churches?
+<23-6,Lynette>不是你说我应该开发一些新的教会吗
+
+719
+705
+<23-7,Bree>I meant sample,like a buffet.
+<23-7,Bree>我是指样品 就像自助餐
+
+720
+706
+<23-7,Bree>You take a little plate of everything,
+<23-7,Bree>你什么都要尝试一下
+
+721
+707
+<23-7,Bree>And then you sit down for the main course,
+<23-7,Bree>然后你才坐下来吃主菜
+
+722
+708
+<22-12,Bree>Which is across the street...
+<22-12,Bree>而它就在街对面
+
+723
+709
+<23-12,Bree>At the presbyterian church.
+<23-12,Bree>那间长老教会的教堂里
+
+724
+710
+<23-8,Lynette>No. I just put 10 bucks in the collection plate,
+<23-8,Lynette>不行 我刚交了10块钱的停车费
+
+725
+711
+<23-8,Lynette>And I'm gonna get my money's worth.
+<23-8,Lynette>- 我可不要亏本
+
+726
+711
+<23-9,Father Crowley>is there a problem?
+<23-9,Father Crowley> 有什么问题吗?
+
+727
+712
+<23-10,Bree>No,no problem. just talking to my friend.
+<23-10,Bree>- 没 没问题 在跟我朋友聊天
+
+728
+712
+<23-11,Nun>she's trying to poach her.
+<23-11,Nun> 她想把她撬走
+
+729
+713
+<23-12,Bree>I am not!
+<23-12,Bree>我没有
+
+730
+714
+<23-12,Bree>My friend's just a little confused.
+<23-12,Bree>我朋友只是有点小迷惑
+
+731
+715
+<23-12,Bree>She forgot that she's presbyterian
+<23-12,Bree>她忘了自己是长老会的
+
+732
+716
+<23-12,Bree>And wandered into the wrong church.
+<23-12,Bree>- 结果走错教堂了
+
+733
+716
+<23-13,Lynette>I'm not presbyterian.
+<23-13,Lynette> 我不是的
+
+734
+717
+<23-13,Lynette>I'm a free agent.
+<23-13,Lynette>我是个自由的人
+
+735
+718
+<23-13,Lynette>And if you're open to a little Q and A,you've got me.
+<23-13,Lynette>如果你对于答疑解惑没有问题的话 我就跟你混了
+
+736
+719
+<0-0,None>Lynette,please.
+<0-0,None>莱内特 拜托
+
+737
+720
+<23-14,Bree>Can't we just go outside and talk for a moment?
+<23-14,Bree>我们不能出去谈一会儿吗
+
+738
+721
+<24-1,Lynette>Okay,what gives?
+<24-1,Lynette>好了 有什么好处?
+
+739
+722
+<24-2,Bree>Well,I was at the service this morning,
+<24-2,Bree>今早我去参加礼拜
+
+740
+723
+<24-2,Bree>And it's just not the same without you.
+<24-2,Bree>- 没有你在一切都不一样了
+
+741
+723
+<24-3,Lynette>Bree...
+<24-3,Lynette> 布里...
+
+742
+724
+<24-4,Bree>And I am... up for the head of the ladies' auxiliary,
+<24-4,Bree>我要..我要当女性援助协会的会长
+
+743
+725
+<24-4,Bree>And reverend Sykes was so impressed
+<24-4,Bree>赛克斯牧师对于我介绍
+
+744
+726
+<24-4,Bree>That I brought a new family into church,so...
+<24-4,Bree>新的家庭入会非常开心 所以...
+
+745
+727
+<24-4,Bree>If you don't come back,then--
+<24-4,Bree>如果你不回去的话 那...
+
+746
+728
+<24-5,Lynette>Oh,then you won't get what you want?
+<24-5,Lynette>- 噢 那你就得不到自己想要的了?
+
+747
+728
+<0-0,None>well,yes.
+<0-0,None> 恩 是的
+
+748
+729
+<24-12,Bree>Well,forget it.
+<24-12,Bree>好 别想了
+
+749
+730
+<24-7,Lynette>Let someone else help you with your power grab.
+<24-7,Lynette>找别人去帮你争权夺位吧
+
+750
+731
+<24-10,Bree>Lynette!
+<24-10,Bree>莱内特!
+
+751
+732
+<24-8,Bree>You were the one who came to me. you sought me out.
+<24-8,Bree>是你来找我的 你得帮我
+
+752
+733
+<24-9,Lynette>Yes,and do you know why?
+<24-9,Lynette>是啊 你知道为什么吗
+
+753
+734
+<24-9,Lynette>Because out of all my friends,
+<24-9,Lynette>因为在我所有的朋友中
+
+754
+735
+<24-9,Lynette>You are the one who had real faith.
+<24-9,Lynette>你是让我真正信任的
+
+755
+736
+<24-9,Lynette>You had an actual relationship with god.
+<24-9,Lynette>你对上帝是那么的虔诚
+
+756
+737
+<24-9,Lynette>At least,that's what I thought.
+<24-9,Lynette>至少我是这么认为的
+
+757
+738
+<24-10,Bree>Lynette--
+<24-10,Bree>莱内特--
+
+758
+739
+<24-11,Lynette>Because I have had a rough few months.  okay?
+<24-11,Lynette>因为这几个月很不好过 好吗?
+
+759
+740
+<24-11,Lynette>But I know you've had rough times,too,
+<24-11,Lynette>但我知道你过的也不开心
+
+760
+741
+<24-11,Lynette>And I always assumed
+<24-11,Lynette>我一直都认为
+
+761
+742
+<24-11,Lynette>That your faith had helped you get through them.
+<24-11,Lynette>是你的信仰让你熬了过来
+
+762
+743
+<24-11,Lynette>I envied you that,to be honest.
+<24-11,Lynette>说实话 我甚至还很嫉妒你
+
+763
+744
+<24-12,Bree>It did. it did help me.
+<24-12,Bree>是的 的确是这样的
+
+764
+745
+<24-13,Lynette>Really?
+<24-13,Lynette>是吗?
+
+765
+746
+<24-13,Lynette>Okay. how?
+<24-13,Lynette>好 那是怎样?
+
+766
+747
+<24-14,Bree>It just did.
+<24-14,Bree>就这么发生了
+
+767
+748
+<24-15,Lynette>Well,that's not a good answer.
+<24-15,Lynette>这可不是个好答案
+
+768
+749
+<24-15,Lynette>I have been through cancer and a tornado,
+<24-15,Lynette>我经历了癌症和龙卷风的洗礼
+
+769
+750
+<24-15,Lynette>And I don't know why I survived,and so many other people didn't.
+<24-15,Lynette>我不知道自己怎么会活下来 而其他人却丢了性命
+
+770
+751
+<24-15,Lynette>I don't understand,and I need to.
+<24-15,Lynette>我不明白 我要搞清楚
+
+771
+752
+<24-16,Bree>Lynette,why didn't you tell me?
+<24-16,Bree>莱内特 你怎么不告诉我呢
+
+772
+753
+<24-17,Lynette>Why didn't you ask?
+<24-17,Lynette>你怎么不问呢?
+
+773
+754
+<24-17,Lynette>Oh,that's right.
+<24-17,Lynette>噢 对了
+
+774
+755
+<24-17,Lynette>You don't like asking questions.
+<24-17,Lynette>你不喜欢问问题
+
+775
+756
+<0-0,None>Hey,Lynette.
+<0-0,None>嘿 莱内特
+
+776
+757
+<25-2,Lynette>Hi there.
+<25-2,Lynette>嗨
+
+777
+758
+<25-3,Bree>Just... wanted to tell you
+<25-3,Bree>只是...想告诉你
+
+778
+759
+<25-3,Bree>That I'm out of the running for the ladies' auxiliary.
+<25-3,Bree>我不去当女性援助协会的会长了
+
+779
+760
+<25-3,Bree>I told reverend Sykes to,uh,give it to Edna Fletcher.
+<25-3,Bree>我让赛克斯牧师...交给埃德娜.弗莱彻负责了
+
+780
+761
+<25-3,Bree>She was in the peace corps,you know.
+<25-3,Bree>她是和平工作团的 你知道的
+
+781
+762
+<25-4,Lynette>Huh. that's nice of you.
+<25-4,Lynette>噢 你人真好
+
+782
+763
+<25-5,Bree>I suppose. I just wanted to let you know that.
+<25-5,Bree>也许吧 我只是想告诉你一声
+
+783
+764
+<25-5,Bree>And also to... apologize.
+<25-5,Bree>还要...和你道歉
+
+784
+765
+<25-6,Lynette>Oh,you don't have to do that.
+<25-6,Lynette>噢 不用的
+
+785
+766
+<25-7,Bree>Yes,I do. you were right. faith shouldn't be blind.
+<25-7,Bree>不 一定要 你说得没错 信仰不该是盲目的
+
+786
+767
+<25-7,Bree>You don't threaten it by asking questions.
+<25-7,Bree>不会因为各种问题而感到退缩
+
+787
+768
+<25-7,Bree>You make it stronger,and I lost sight of that.
+<25-7,Bree>而是变得更坚强 而我却忽略了这一点
+
+788
+769
+<25-8,Lynette>Well,maybe a little.
+<25-8,Lynette>或许有那么一点
+
+789
+770
+<25-9,Bree>And it meant a lot that you came to me for guidance,and...
+<25-9,Bree>你对我的指引对我来说意义深刻 而..
+
+790
+771
+<25-9,Bree>I'm sorry that I wasn't there for you.
+<25-9,Bree>我很抱歉我没能支持你
+
+791
+772
+<25-9,Bree>I want you to have faith in me and our friendship.
+<25-9,Bree>我希望你对我和我们的友谊能有信心
+
+792
+773
+<25-10,Lynette>There are some things that are easy to believe in.
+<25-10,Lynette>有些事很容易就会相信
+
+793
+774
+<25-11,Bree>How's catholicism going,by the way?
+<25-11,Bree>不过天主教教义是怎样的啊
+
+794
+775
+<25-13,Bree>Well,if you ever wanna try us again...
+<25-13,Bree>如果你想再试图说服我们
+
+795
+776
+<25-14,Lynette>Oh,well,I'm pretty comfortable with the catholics.
+<25-14,Lynette>噢 我觉得天主教很适合我
+
+796
+777
+<25-14,Lynette>They're the only ones who don't judge me
+<25-14,Lynette>因为他们是唯一不会因为生一堆孩子
+
+797
+778
+<25-14,Lynette>For having so many kids.
+<25-14,Lynette>而对我另眼相看的人
+
+798
+779
+<26-1,Tim>Hey.
+<26-1,Tim>嘿
+
+799
+780
+<26-1,Tim>Hey.
+<26-1,Tim>嘿
+
+800
+781
+<26-2,Susan>Okay,so I have to ask.
+<26-2,Susan>好吧 我想问你
+
+801
+782
+<26-2,Susan>This thing that happened with you and Katherine
+<26-2,Susan>你和凯瑟琳之间所发生的事
+
+802
+783
+<26-2,Susan>12 years ago--
+<26-2,Susan>在12年前
+
+803
+784
+<26-2,Susan>Was it an ongoing affair?
+<26-2,Susan>后来还有其他发展吗
+
+804
+785
+<26-3,Tim>No. no,it was just the one time,
+<26-3,Tim>没 没有 就那一次而已
+
+805
+786
+<26-3,Tim>And I think she felt pretty guilty about it afterwards.
+<26-3,Tim>我想之后她觉得很后悔
+
+806
+787
+<26-3,Tim>She told me not to come around anymore.
+<26-3,Tim>因为她叫我不要再出现
+
+807
+788
+<26-4,Susan>So you didn't go back?
+<26-4,Susan>所以你没有回去?
+
+808
+789
+<26-5,Tim>It's weird. I tried to.
+<26-5,Tim>很奇怪 我有试过
+
+809
+790
+<26-5,Tim>It was the last night of my visit.
+<26-5,Tim>是我临走前的一晚
+
+810
+791
+<26-5,Tim>I thought if I brought her some flowers,
+<26-5,Tim>我想如果我送花给她
+
+811
+792
+<26-5,Tim>Maybe I could get something going,you know?
+<26-5,Tim>或许事情还能有进一步发展 你明白吗
+
+812
+793
+<26-5,Tim>But when I got up to the front door,
+<26-5,Tim>但是当我站在她家门前时
+
+813
+794
+<26-5,Tim>I heard all this yelling.
+<26-5,Tim>- 我听到了吵闹声
+
+814
+794
+<26-6,Wayne>...say good night to my daughter.
+<26-6,Wayne> 跟我女儿说晚安
+
+815
+795
+<26-7,Katherine>She is asleep. get the hell out.
+<26-7,Katherine>- 她睡了 滚出去
+
+816
+795
+<26-8,Tim>I went around to the window
+<26-8,Tim> 我走到窗边
+
+817
+796
+<26-8,Tim>Just to get a look at what was going on...
+<26-8,Tim>- 想看下发生了什么事
+
+818
+796
+<26-9,Wayne>remember? she's my daughter!
+<26-9,Wayne> 记得吗? 她是我女儿!
+
+819
+797
+<26-9,Wayne>I'm her father!
+<26-9,Wayne>- 我是她父亲!
+
+820
+797
+<26-10,Tim>and I could see she was having a fight with someone.
+<26-10,Tim> 我能看到她在和一个人吵架
+
+821
+798
+<26-10,Tim>I was about to rush in and help her
+<26-10,Tim>我想冲进去帮她
+
+822
+799
+<26-10,Tim>When I saw Katherine pick up this candlestick
+<26-10,Tim>可我却看到凯瑟琳拿起烛台
+
+823
+800
+<26-10,Tim>And just wail on him.
+<26-10,Tim>朝他挥了过去
+
+824
+801
+<26-10,Tim>He went down pretty hard.
+<26-10,Tim>他重重地倒下了
+
+825
+802
+<26-10,Tim>Katherine was just standing over him
+<26-10,Tim>凯瑟琳就站在他身边
+
+826
+803
+<26-10,Tim>With this look in her eye.
+<26-10,Tim>带着异样的眼神
+
+827
+804
+<26-10,Tim>It scared the hell out of me,so I got out of there.
+<26-10,Tim>我当时吓坏了 所以就赶紧跑了
+
+828
+805
+<26-10,Tim>I left the next morning
+<26-10,Tim>转天早上我就走了
+
+829
+806
+<26-10,Tim>And never talked to Katherine again.
+<26-10,Tim>再也没和凯瑟琳说过话
+
+830
+807
+<26-11,Susan>So... this man-- who do you think it was?
+<26-11,Susan>那...这个男人 你觉得是谁呢?
+
+831
+808
+<26-12,Tim>Don't know.
+<26-12,Tim>不知道
+
+832
+809
+<26-12,Tim>I sort of got the impression he was her ex-husband.
+<26-12,Tim>我觉得可能是她的前夫
+
+833
+810
+<26-12,Tim>Does she ever talk about him?
+<26-12,Tim>她有提起过他吗
+
+834
+811
+<26-13,Susan>Not really.
+<26-13,Susan>并没有
+
+835
+812
+<26-14,Tim>Mm. have you seen him lately?
+<26-14,Tim>恩 你最近有见过他吗
+
+836
+813
+<26-15,Susan>No.
+<26-15,Susan>没有
+
+837
+814
+<27-1,Dylan>Ever since I can remember,I've had this feeling
+<27-1,Dylan>自从我记事以来 我就有这种感觉
+
+838
+815
+<27-1,Dylan>That something's not right.
+<27-1,Dylan>有些事不对劲
+
+839
+816
+<27-1,Dylan>Weird dreams that don't seem like dreams at all.
+<27-1,Dylan>那些奇怪的梦根本都不像是梦
+
+840
+817
+<27-1,Dylan>People telling me I forgot things
+<27-1,Dylan>人们说我忘了一些
+
+841
+818
+<27-1,Dylan>That I know I would've remembered.
+<27-1,Dylan>我本该记得的事
+
+842
+819
+<27-1,Dylan>And now finally,
+<27-1,Dylan>终于
+
+843
+820
+<27-1,Dylan>I find a sentence on a piece of paper...
+<27-1,Dylan>我在纸上看到了一句话
+
+844
+821
+<27-1,Dylan>That could explain all of it
+<27-1,Dylan>不仅解释了一切
+
+845
+822
+<27-1,Dylan>And prove that I am not crazy.
+<27-1,Dylan>还证明了我并没有疯
+
+846
+823
+<27-1,Dylan>And the best that you can come up with
+<27-1,Dylan>而你给我的答案却是
+
+847
+824
+<27-1,Dylan>Is that aunt Lily was losing it
+<27-1,Dylan>莉莉姨妈神志不清
+
+848
+825
+<27-1,Dylan>And she didn't know what she was writing?
+<27-1,Dylan>不知道自己写了什么?
+
+849
+826
+<27-1,Dylan>I need the truth,Adam.
+<27-1,Dylan>告诉我真相 亚当
+
+850
+827
+<27-1,Dylan>Please.
+<27-1,Dylan>拜托
+
+851
+828
+<27-1,Dylan>Please.
+<27-1,Dylan>求你
+
+852
+829
+<0-0,None>The truth,Dylan...
+<0-0,None>真相...迪伦...
+
+853
+830
+<27-1,Dylan>Is that...
+<27-1,Dylan>就是
+
+854
+831
+<27-2,Adam>Your mother didn't kill your father.
+<27-2,Adam>你妈妈并没有杀你爸爸
+
+855
+832
+<27-2,Adam>And she loves you more than you will ever know.
+<27-2,Adam>她对你的爱是你所无法想象的
+
+856
+833
+<27-3,Mary Alice Voiceover>Faith is a belief in something
+<27-3,Mary Alice Voiceover>信念是我们所相信的
+
+857
+834
+<27-3,Mary Alice Voiceover>That cannot be proven.
+<27-3,Mary Alice Voiceover>却又无法证明的事
+
+858
+835
+<27-3,Mary Alice Voiceover>So we trust in the words
+<27-3,Mary Alice Voiceover>所以我们相信唯一一位
+
+859
+836
+<27-3,Mary Alice Voiceover>Of the only father we've ever known.
+<27-3,Mary Alice Voiceover>神父所说的话
+
+860
+837
+<27-3,Mary Alice Voiceover>We believe the promises of the woman who shares our bed.
+<27-3,Mary Alice Voiceover>我们相信枕边那个女人许下的诺言
+
+861
+838
+<27-3,Mary Alice Voiceover>We rely on the example of dear friends
+<27-3,Mary Alice Voiceover>我们依靠朋友的榜样
+
+862
+839
+<27-3,Mary Alice Voiceover>Who help us to be better people.
+<27-3,Mary Alice Voiceover>是他们让我们成为更美好的人
+
+863
+840
+<27-3,Mary Alice Voiceover>Yes,we all want to believe in those we are closest to,
+<27-3,Mary Alice Voiceover>是的 我们都想相信自己所最亲近的
+
+864
+841
+<27-3,Mary Alice Voiceover>But where there is doubt,
+<27-3,Mary Alice Voiceover>但是疑惑的出现
+
+865
+842
+<27-3,Mary Alice Voiceover>Our faith begins to vanish...
+<27-3,Mary Alice Voiceover>让我们的信念开始消失
+
+866
+final
+<27-3,Mary Alice Voiceover>And fear rushes in to take its place.
+<27-3,Mary Alice Voiceover>取而代之的是阵阵恐惧
+

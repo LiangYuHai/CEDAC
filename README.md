@@ -4,6 +4,14 @@ Chinese English DAily Conversation is a subtitle corpus with speakerID and scene
 At present，we open source partial data and we will continuously update more.
 The paper with detail has been published on CCL-2019. 
 If it is helpful to your research, please indicate the citation of the paper.
+@inproceedings{
+  title={Automatically Build the Basic Annotated Daily Conversation Corpus Based on the Subtitles and Scripts of TV Plays},
+  author={Liang and Zhou},
+  booktitle={The Eighteenth China National Conference on Computational Linguistics, CCL 2019},
+  pages={018},
+  year={2019},
+  organization={CIPS}
+}
 http://cips-cl.org/static/anthology/CCL-2019/CCL-19-018.pdf
 Welcome star the repository, thanks.
 
